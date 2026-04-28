@@ -185,21 +185,30 @@ TREND_TOPICS = [
 ]
 
 def build_trends(items: list[dict]) -> list[dict]:
-    all_text = " ".join(i["title"] + " " + i["desc"] for i in items).lower()
-    scored = sorted(
-        [(sum(all_text.count(k.lower()) for k in kws), label, kws) for label, kws in TREND_TOPICS],
-        reverse=True
-    )
+    # 按"命中该话题关键词的新闻条数"计算，而非字符频次（避免重复命中导致数值相同）
+    scored = []
+    for label, kws in TREND_TOPICS:
+        matched = [i for i in items
+                   if any(k.lower() in (i["title"] + " " + i["desc"]).lower() for k in kws)]
+        scored.append((len(matched), label, matched))
+    scored.sort(key=lambda x: x[0], reverse=True)
+
     trends = []
-    for count, label, kws in scored[:5]:
+    seen_items = set()  # 避免同一条新闻在多个趋势里重复出现
+    for count, label, matched in scored[:5]:
         if count == 0:
             continue
-        related = [i for i in items if any(k.lower() in (i["title"]+i["desc"]).lower() for k in kws)][:3]
-        examples = "、".join(r["title"][:22] for r in related)
+        # 取未被其他趋势用过的新闻作为代表事件
+        fresh = [i for i in matched if i["title"] not in seen_items][:3]
+        if not fresh:
+            fresh = matched[:3]
+        for i in fresh:
+            seen_items.add(i["title"])
+        examples = "；".join(r["title"][:40] for r in fresh)
+        body = f"本周 {count} 条相关报道。代表：{examples}。" if examples else f"本周 {count} 条相关报道。"
         trends.append({
-            "title":   label,
-            "body":    f"本周相关报道 {count} 次。代表事件：{examples}。" if examples else f"本周出现 {count} 次相关报道。",
-            "verdict": f"持续关注{label}方向的产品形态演变与竞争格局。",
+            "title": label,
+            "body":  body,
         })
     return trends
 
