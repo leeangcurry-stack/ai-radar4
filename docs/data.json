@@ -1,7 +1,7 @@
 {
   "generated_at": "2026年04月28日",
-  "generated_ts": "2026-04-28T10:52:37.630314",
-  "summary": "本周追踪到 40 条AI动态，海外 35 条、国内 5 条。融资事件 6 起。",
+  "generated_ts": "2026-04-28T11:02:22.717524",
+  "summary": "本周追踪到 40 条AI动态，海外 36 条、国内 4 条。融资事件 6 起。",
   "top_story": {
     "title": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks - Databricks",
     "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
@@ -11,8 +11,8 @@
   },
   "metrics": {
     "events_count": 40,
-    "china_count": 5,
-    "overseas_count": 35,
+    "china_count": 4,
+    "overseas_count": 36,
     "funding_count": 6
   },
   "events": [
@@ -91,6 +91,17 @@
       "date": "2026-04-28",
       "type": "product",
       "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Microsoft Ends OpenAI Exclusivity, Opening GPT to AWS and Google Cloud - Seoul Economic Daily",
+      "desc": "Microsoft Ends OpenAI Exclusivity, Opening GPT to AWS and Google Cloud    Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFYtTk1wYmZMYlRKYzBoYWhuTmdFWUsxWUNuXzFYdUpFcjZQalBJMmRkZUJTbXgzd09ZUmlubGhSTDFacEFZZi1iMEpKN0VnaDVXb2hQQkc5UXBScjV3bUo3Um1UWEdoOFRQQnh4U05KMWlWc3JvVjJ4bVNGbjVmNVZHUTZ2aFdaWjN2ZlJCWEl1NFlqRnZ5ZEZQT0NMRjZYWlVycGtNOA?oc=5",
+      "source": "Seoul Economic Daily",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
       "hot": false
     },
     {
@@ -444,17 +455,6 @@
       "type": "china",
       "impact": "low",
       "hot": false
-    },
-    {
-      "title": "DeepSeek延长v4-pro模型优惠活动至5月31日 - 新浪财经",
-      "desc": "DeepSeek延长v4-pro模型优惠活动至5月31日    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHE4b1piR2o3WUJzYTRrdklPUU9zRTVEcVplRUpiYmFqb1BzWF9KVFYtX2YzSXdXZzBDdTZ2Wmg4VW15RTlZWDNqWEZMTFpJYlBMWWpqV2IyRzNMeEs2MVZlQmFsU2NCOWYwR2ViTEdpM1pJUk5SUmk3Q1dGRTBHdVhydGRZZlBQTnBQSXNBaGU4OUxxa1pONXdheWEtTU9tUjFHVTlONA?oc=5",
-      "source": "新浪财经",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
     }
   ],
   "trends": [
@@ -468,11 +468,11 @@
     },
     {
       "title": "开源生态",
-      "body": "本周 4 条相关报道。代表：DeepSeek时刻2.0！港股芯片弹性领先 ｜ 港股通信息技术ETF华宝（15；DeepSeek注册资本提高一半，梁文锋持股升至34% - guancha.cn；DeepSeek增资！梁文锋直接持股比例提升 - 新浪财经。"
+      "body": "本周 3 条相关报道。代表：DeepSeek时刻2.0！港股芯片弹性领先 ｜ 港股通信息技术ETF华宝（15；DeepSeek注册资本提高一半，梁文锋持股升至34% - guancha.cn；DeepSeek增资！梁文锋直接持股比例提升 - 新浪财经。"
     },
     {
       "title": "国产AI",
-      "body": "本周 4 条相关报道。代表：DeepSeek延长v4-pro模型优惠活动至5月31日 - 新浪财经。"
+      "body": "本周 3 条相关报道。代表：DeepSeek时刻2.0！港股芯片弹性领先 ｜ 港股通信息技术ETF华宝（15；DeepSeek注册资本提高一半，梁文锋持股升至34% - guancha.cn；DeepSeek增资！梁文锋直接持股比例提升 - 新浪财经。"
     },
     {
       "title": "企业落地",
