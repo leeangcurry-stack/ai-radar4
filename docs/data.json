@@ -1,7 +1,7 @@
 {
   "generated_at": "2026年04月28日",
-  "generated_ts": "2026-04-28T10:09:23.263612",
-  "summary": "本周追踪到 40 条AI动态，海外 33 条、国内 7 条。融资事件 6 起。",
+  "generated_ts": "2026-04-28T10:52:37.630314",
+  "summary": "本周追踪到 40 条AI动态，海外 35 条、国内 5 条。融资事件 6 起。",
   "top_story": {
     "title": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks - Databricks",
     "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
@@ -11,8 +11,8 @@
   },
   "metrics": {
     "events_count": 40,
-    "china_count": 7,
-    "overseas_count": 33,
+    "china_count": 5,
+    "overseas_count": 35,
     "funding_count": 6
   },
   "events": [
@@ -171,6 +171,17 @@
       "hot": false
     },
     {
+      "title": "An AI agent allegedly deleted a startup's production database, causing a huge outage - Mashable",
+      "desc": "An AI agent allegedly deleted a startup's production database, causing a huge outage    Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZno5WXh4S2VvTnI0d1VsWnpxM2ZrWmQ4UVlyeE5BQTFqTG9mbmc5QWNtX3ZfR19Nbk9NQzFwZ2xCODI5anJ3WGI2RWpiTHhfcXBneGtjWVJBb1hNQ2VQQVdEQk9PdEd5bFl5MExXcWROSkJ4bG9MRG4wZFk4QlZ0STBVUDZsQ1pBQWc?oc=5",
+      "source": "Mashable",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
       "title": "Anthropic adds memory to Claude Managed Agents - Techzine Global",
       "desc": "Anthropic adds memory to Claude Managed Agents    Techzine Global",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHFUYXBHdFFsZi1DNUVLV3JzUlc5SWRxd0d2WU55SmZfb0s5ZWhoTjBxdEpMUjByWW82N2dPMWJTX3RjTFlxSDc4WWpWcjkzSEZxeHE3ZU1zaDBqamg0RE42RUpZMmd1VnZRYlRKdS1xSGdBc3JqWDFPQWp6MXJYQXB1X0tRaWZNWERIZW9JLWYxNGFp?oc=5",
@@ -182,10 +193,10 @@
       "hot": false
     },
     {
-      "title": "NEC Becomes Anthropic’s First Japan-Based Global Partner For Claude Rollout - The Fast Mode",
-      "desc": "NEC Becomes Anthropic’s First Japan-Based Global Partner For Claude Rollout    The Fast Mode",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaktCOEVXUUF0QWRaVWh6TzJkcC01SG9vZmNWOU0zYTN4dml5Qy02RE1kaFNZdnVIdTJZbWhIR0kxQ19vU2pFS0xLekFQWjdGSGR0UUpSdzM3d2VaaDY2RHpQSUpielNOenlFQkJDaFVhYkNrX1RtOVdKcVJJLXptOWhQdlBWU056enhyaFNwT05wWGFMSnNNSzdEeFEtT0Zoc2lFbEIxbUJhWjdLaVUxa1BtU1FVUTdvck9sTTM3VnJadWI5cTRiblJR?oc=5",
-      "source": "The Fast Mode",
+      "title": "‘It took nine seconds’: Claude AI agent deletes company’s entire database - Yahoo News Malaysia",
+      "desc": "‘It took nine seconds’: Claude AI agent deletes company’s entire database    Yahoo News Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRXI0YkhURXQyTl81bDhRRElaaGJoclFIWm5ON09xVVZhNWJMNzBieV9uWTlKQm5hZ08tUUZnNklNSy1ySEJ4eWJIZWZPVUx6SnMzOFJwTE5OSlR3NHpDWFhmbFlZYlBnb0pxb3E4ZWttd0VjNnZIRzVXbW1jSTA?oc=5",
+      "source": "Yahoo News Malaysia",
       "region": "overseas",
       "date": "2026-04-28",
       "type": "model",
@@ -197,6 +208,17 @@
       "desc": "Claude's AI agent goes rogue, deletes firm's entire database in 9 seconds    Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlhCRW9JZ2tSTWE4TmVIZl82ZW1aLVhYRG00VHhOU0d6dDVaM09ieGVqdnpSWjNPRmJMZUczRmN1N2VLOGloX1hkOU5ybjk2T1d5UHBqVVZqazQ0cDhzeFZ4TEUtRWk0a0J0UzdjQ2lpWGtyNGhmM24zUmFOTkZoMFJ5dG5JSkFhMkhxR21ETGdUSi1PRWZ6VTRtQ1ZWUEk4c2pwbGZyekdNY3JyWlM1Z0l5SkpNWmlJaTROMmMzQXFESGtDeE1CRGIzZGZtZXBxcncyYV8tZWLSAd4BQVVfeXFMTWtHbUFlbl93cEotTUdpNDRTbE9LM1JmSXdSRUtPUzluVi1UbXFaTVZuLWJQUTJWeElFbVF4UUFsSjhBZThRSHZHUGFvVmsyWlRmNGpPdkZMdlpDWXNjU3I4azg2NzFCaFJGSGdLb1ZUSjAtSndRcEsyeUpVeW5VM25ZdmtOZ2R6Y3E4Z2YyYjZIbUpOWUYxMXhDUUU0NXFoMGFOLUpkNmgybTYtOHVoV05rTzZVV09PWTJ4RmU3emRpVFJ1aFRMLWJqNGQxUGI2SWNsR3RNYkFhQkZXbGtB?oc=5",
       "source": "Business Standard",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "NEC Becomes Anthropic’s First Japan-Based Global Partner For Claude Rollout - The Fast Mode",
+      "desc": "NEC Becomes Anthropic’s First Japan-Based Global Partner For Claude Rollout    The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaktCOEVXUUF0QWRaVWh6TzJkcC01SG9vZmNWOU0zYTN4dml5Qy02RE1kaFNZdnVIdTJZbWhIR0kxQ19vU2pFS0xLekFQWjdGSGR0UUpSdzM3d2VaaDY2RHpQSUpielNOenlFQkJDaFVhYkNrX1RtOVdKcVJJLXptOWhQdlBWU056enhyaFNwT05wWGFMSnNNSzdEeFEtT0Zoc2lFbEIxbUJhWjdLaVUxa1BtU1FVUTdvck9sTTM3VnJadWI5cTRiblJR?oc=5",
+      "source": "The Fast Mode",
       "region": "overseas",
       "date": "2026-04-28",
       "type": "model",
@@ -391,10 +413,10 @@
       "hot": false
     },
     {
-      "title": "DeepSeek注册资本提高一半，梁文锋持股升至34% - 观察者",
-      "desc": "DeepSeek注册资本提高一半，梁文锋持股升至34%    观察者",
+      "title": "DeepSeek注册资本提高一半，梁文锋持股升至34% - guancha.cn",
+      "desc": "DeepSeek注册资本提高一半，梁文锋持股升至34%    guancha.cn",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZUJjTWxaX1A2QUtmNzdHWXh2US0yUUx5X3lyV1g5ZExlOTVTc182Y2JNbnhWakdNRm1EUFF2R1BxLV9xRlV4aXktQWZyN0pQRHpvNnQ4VUdrMmxMUElYSzhnVk8?oc=5",
-      "source": "观察者",
+      "source": "guancha.cn",
       "region": "china",
       "date": "2026-04-28",
       "type": "china",
@@ -424,32 +446,10 @@
       "hot": false
     },
     {
-      "title": "DeepSeek大幅降价 - 新浪财经",
-      "desc": "DeepSeek大幅降价    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamZWcDZ5MTFIeGdrZUdBdXRyTG5uWkY2czVYbDFEeDFCR2haTGN4c2QzVDJQS0tfSnVYbElfNUQtZ1ZtejZFZnluM1FBd0tLRGdhc2pKVnBPb0lRMElzam1vZHRNM04tM0M1Z2daTXZValVHeDJJUzc4Y0NITnh6Y3Zxb2o?oc=5",
+      "title": "DeepSeek延长v4-pro模型优惠活动至5月31日 - 新浪财经",
+      "desc": "DeepSeek延长v4-pro模型优惠活动至5月31日    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHE4b1piR2o3WUJzYTRrdklPUU9zRTVEcVplRUpiYmFqb1BzWF9KVFYtX2YzSXdXZzBDdTZ2Wmg4VW15RTlZWDNqWEZMTFpJYlBMWWpqV2IyRzNMeEs2MVZlQmFsU2NCOWYwR2ViTEdpM1pJUk5SUmk3Q1dGRTBHdVhydGRZZlBQTnBQSXNBaGU4OUxxa1pONXdheWEtTU9tUjFHVTlONA?oc=5",
       "source": "新浪财经",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "DeepSeek V4中文能力测评出炉：重回国内第一！ - 驱动之家",
-      "desc": "DeepSeek V4中文能力测评出炉：重回国内第一！    驱动之家",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vRlZnUDBWWFF4Z096SDE4amkzSWRGb2p1Q0V0dWx2dFFCYzkxX2lYSExpd3VCYklhSUJ6X2dCQ1JkNHRDcXRrRlZCUXFWRWlERExZR0ptRzg?oc=5",
-      "source": "驱动之家",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "DeepSeek V4炸场背后：有人在内斗，有人在接力 - thepaper.cn",
-      "desc": "DeepSeek V4炸场背后：有人在内斗，有人在接力    thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96MWxNZTJSR2tXTHlEVEl4b2dXYmxST1hmaGMzZTJXUnhKMkp4UjR2TXJMVWxhNU1RZG1PYkY0TmR6RDJUYlJxc1g0X3hXcHB4WHBxRlllTzdicVluMlE?oc=5",
-      "source": "thepaper.cn",
       "region": "china",
       "date": "2026-04-28",
       "type": "china",
@@ -459,29 +459,24 @@
   ],
   "trends": [
     {
+      "title": "Agent应用",
+      "body": "本周 8 条相关报道。代表：Weird Things Happen When You Give AI Age；An AI agent allegedly deleted a startup'；Anthropic adds memory to Claude Managed 。"
+    },
+    {
       "title": "模型竞争",
-      "body": "本周相关报道 12 次。代表事件：OpenAI's Latest Releas、OpenAI misses targets,、Meta, Google, OpenAI a。",
-      "verdict": "持续关注模型竞争方向的产品形态演变与竞争格局。"
+      "body": "本周 6 条相关报道。代表：OpenAI's Latest Release Looks Like the P；OpenAI misses targets, but GPT-5.5 relea；Meta, Google, OpenAI among Big Tech firm。"
     },
     {
       "title": "开源生态",
-      "body": "本周相关报道 12 次。代表事件：DeepSeek时刻2.0！港股芯片弹性领先、DeepSeek注册资本提高一半，梁文锋持股、DeepSeek增资！梁文锋直接持股比例提升。",
-      "verdict": "持续关注开源生态方向的产品形态演变与竞争格局。"
+      "body": "本周 4 条相关报道。代表：DeepSeek时刻2.0！港股芯片弹性领先 ｜ 港股通信息技术ETF华宝（15；DeepSeek注册资本提高一半，梁文锋持股升至34% - guancha.cn；DeepSeek增资！梁文锋直接持股比例提升 - 新浪财经。"
     },
     {
       "title": "国产AI",
-      "body": "本周相关报道 12 次。代表事件：DeepSeek时刻2.0！港股芯片弹性领先、DeepSeek注册资本提高一半，梁文锋持股、DeepSeek增资！梁文锋直接持股比例提升。",
-      "verdict": "持续关注国产AI方向的产品形态演变与竞争格局。"
-    },
-    {
-      "title": "Agent应用",
-      "body": "本周相关报道 12 次。代表事件：Weird Things Happen Wh、Anthropic adds memory 、Claude's AI agent goes。",
-      "verdict": "持续关注Agent应用方向的产品形态演变与竞争格局。"
+      "body": "本周 4 条相关报道。代表：DeepSeek延长v4-pro模型优惠活动至5月31日 - 新浪财经。"
     },
     {
       "title": "企业落地",
-      "body": "本周相关报道 6 次。代表事件：LION & OpenAI deploy C、Anthropic’s Claude AI 。",
-      "verdict": "持续关注企业落地方向的产品形态演变与竞争格局。"
+      "body": "本周 3 条相关报道。代表：LION & OpenAI deploy ChatGPT Enterprise ；Anthropic’s Claude AI deletes PocketOS p。"
     }
   ]
 }
