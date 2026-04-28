@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Radar · 全球AI动态追踪</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f0ede8;--card:#fff;--surface:#f5f4f0;
+  --text:#1a1a1a;--muted:#666660;--dim:#999990;
+  --border:rgba(0,0,0,.09);--border-md:rgba(0,0,0,.16);
+  --accent:#185FA5;--accent-bg:#e6f1fb;
+  --green:#0F6E56;--green-bg:#e1f5ee;
+  --amber:#854F0B;--amber-bg:#faeeda;
+  --red:#A32D2D;--red-bg:#fcebeb;
+  --coral:#712B13;--coral-bg:#faece7;
+  --purple:#3C3489;--purple-bg:#eeedfe;
+  --r:10px;--r-lg:14px;
+  --font:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB',sans-serif;
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#181816;--card:#222220;--surface:#2a2a28;
+    --text:#eeebe6;--muted:#a8a49e;--dim:#66665e;
+    --border:rgba(255,255,255,.09);--border-md:rgba(255,255,255,.16);
+    --accent:#5ba3e0;--accent-bg:#0c2840;
+    --green:#3dbf96;--green-bg:#043428;
+    --amber:#d48e1a;--amber-bg:#3a2200;
+    --red:#e07070;--red-bg:#3a1010;
+    --coral:#d4865a;--coral-bg:#3a1a08;
+    --purple:#9b96e0;--purple-bg:#1e1a4a;
+  }
+}
+body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:100vh;font-size:14px;line-height:1.6}
+.page{max-width:720px;margin:0 auto;padding:28px 18px 60px}
+.header{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px;flex-wrap:wrap;gap:10px}
+.logo-title{font-size:20px;font-weight:600}
+.logo-sub{font-size:12px;color:var(--dim);margin-top:2px}
+.pulse{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--green)}
+.pulse-dot{width:8px;height:8px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(1.3)}}
+.tabs{display:flex;gap:2px;border-bottom:1px solid var(--border);margin-bottom:22px}
+.tab{padding:8px 16px;font-size:13px;cursor:pointer;color:var(--muted);background:none;border:none;border-bottom:2px solid transparent;margin-bottom:-1px;font-family:var(--font);transition:all .15s;border-radius:var(--r) var(--r) 0 0}
+.tab:hover:not(.active){color:var(--text);background:var(--surface)}
+.tab.active{color:var(--text);border-bottom-color:var(--accent);font-weight:500}
+.section{display:none}.section.active{display:block}
+.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:20px}
+.metric{background:var(--surface);border-radius:var(--r);padding:14px 16px}
+.metric-label{font-size:11px;color:var(--dim);text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px}
+.metric-value{font-size:22px;font-weight:600;line-height:1}
+.metric-sub{font-size:11px;color:var(--green);margin-top:4px}
+.slabel{font-size:11px;font-weight:600;color:var(--dim);text-transform:uppercase;letter-spacing:.07em;margin-bottom:12px}
+.banner{background:var(--accent);color:#fff;border-radius:var(--r-lg);padding:16px 20px;margin-bottom:16px}
+.banner-label{font-size:11px;opacity:.7;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+.banner-text{font-size:13px;line-height:1.7;opacity:.95}
+.top-story{background:var(--card);border:2px solid var(--accent);border-radius:var(--r-lg);padding:16px 20px;margin-bottom:18px}
+.ts-label{font-size:11px;font-weight:600;color:var(--accent);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px}
+.ts-title{font-size:15px;font-weight:500;margin-bottom:8px}
+.ts-desc{font-size:13px;color:var(--muted);line-height:1.65;margin-bottom:8px}
+.ts-meta{font-size:11px;color:var(--dim)}
+.ts-link{font-size:12px;color:var(--accent);text-decoration:none;display:inline-block;margin-top:6px}
+.ts-link:hover{text-decoration:underline}
+.filter-row{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap}
+.fbtn{font-size:12px;padding:4px 12px;border-radius:20px;border:1px solid var(--border-md);background:none;color:var(--muted);cursor:pointer;font-family:var(--font);transition:all .15s}
+.fbtn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+.fbtn:hover:not(.active){color:var(--text)}
+.event-card{background:var(--card);border:1px solid var(--border);border-radius:var(--r-lg);padding:14px 16px;margin-bottom:10px;transition:border-color .15s}
+.event-card:hover{border-color:var(--border-md)}
+.event-header{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:7px}
+.event-name{font-size:13px;font-weight:500;line-height:1.4}
+.event-name a{color:var(--text);text-decoration:none}
+.event-name a:hover{color:var(--accent);text-decoration:underline}
+.tags{display:flex;gap:5px;flex-shrink:0;align-items:center;flex-wrap:wrap;justify-content:flex-end}
+.tag{font-size:10px;padding:2px 8px;border-radius:5px;font-weight:500;white-space:nowrap}
+.tag-model{background:var(--accent-bg);color:var(--accent)}
+.tag-product{background:var(--green-bg);color:var(--green)}
+.tag-funding{background:var(--amber-bg);color:var(--amber)}
+.tag-china{background:var(--coral-bg);color:var(--coral)}
+.tag-infra{background:var(--purple-bg);color:var(--purple)}
+.tag-hot{background:var(--red-bg);color:var(--red)}
+.event-desc{font-size:12px;color:var(--muted);line-height:1.6;margin-bottom:8px}
+.event-meta{display:flex;gap:12px;font-size:11px;color:var(--dim);flex-wrap:wrap;align-items:center}
+.idot{width:6px;height:6px;border-radius:50%;display:inline-block;margin-right:3px}
+.trend-card{background:var(--card);border:1px solid var(--border);border-radius:var(--r-lg);padding:16px 20px;margin-bottom:10px;position:relative;overflow:hidden}
+.trend-num{position:absolute;right:16px;top:12px;font-size:34px;font-weight:700;opacity:.05;line-height:1}
+.trend-title{font-size:13px;font-weight:500;margin-bottom:6px}
+.trend-body{font-size:12px;color:var(--muted);line-height:1.7;margin-bottom:10px}
+.trend-verdict{padding:7px 12px;background:var(--accent-bg);border-left:3px solid var(--accent);border-radius:0 5px 5px 0;font-size:12px;color:var(--accent)}
+.source-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:20px}
+.source-card{background:var(--surface);border-radius:var(--r);padding:10px 13px}
+.source-name{font-size:12px;font-weight:500;margin-bottom:2px}
+.source-type{font-size:11px;color:var(--dim)}
+.loading{text-align:center;padding:48px 24px;color:var(--muted);font-size:14px}
+.spinner{width:28px;height:28px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.error-box{background:var(--red-bg);border:1px solid var(--red);border-radius:var(--r-lg);padding:16px 20px;font-size:13px;color:var(--red);margin-bottom:16px}
+.footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--border);text-align:center;font-size:11px;color:var(--dim);line-height:1.8}
+@media(max-width:540px){.tab{padding:8px 10px;font-size:12px}}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <div>
+      <div class="logo-title">AI Radar</div>
+      <div class="logo-sub" id="update-sub">全球AI动态追踪 · 加载中...</div>
+    </div>
+    <div class="pulse"><span class="pulse-dot"></span>自动更新</div>
+  </div>
+
+  <div class="metrics" id="metrics-area">
+    <div class="metric"><div class="metric-label">本周事件</div><div class="metric-value">—</div></div>
+    <div class="metric"><div class="metric-label">追踪信源</div><div class="metric-value">—</div></div>
+    <div class="metric"><div class="metric-label">本周融资</div><div class="metric-value" style="font-size:16px">—</div></div>
+    <div class="metric"><div class="metric-label">更新时间</div><div class="metric-value" style="font-size:15px">—</div></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('feed',this)">动态快讯</button>
+    <button class="tab" onclick="switchTab('trends',this)">趋势分析</button>
+    <button class="tab" onclick="switchTab('sources',this)">信源</button>
+  </div>
+
+  <div id="feed" class="section active">
+    <div id="feed-area"><div class="loading"><div class="spinner"></div>正在加载数据...</div></div>
+  </div>
+
+  <div id="trends" class="section">
+    <div class="slabel">关键词热度趋势</div>
+    <div id="trend-list"><div class="loading"><div class="spinner"></div>加载中...</div></div>
+  </div>
+
+  <div id="sources" class="section">
+    <div class="slabel">追踪信源（每周自动爬取）</div>
+    <div class="source-grid" id="source-grid"></div>
+    <div style="font-size:13px;color:var(--muted);line-height:1.7;margin-top:8px">
+      通过标准 RSS 协议爬取，无需 API Key，数据完全公开。每周一自动更新，覆盖海外及国内主要AI媒体与官方博客。
+    </div>
+  </div>
+
+  <div class="footer">
+    <div>AI Radar · RSS 自动爬取 · 无需 API Key</div>
+    <div id="footer-ts"></div>
+  </div>
+
+</div>
+
+<script>
+const TAG_MAP = {
+  model:['模型发布','tag-model'], product:['产品动态','tag-product'],
+  funding:['融资','tag-funding'], china:['国内','tag-china'], infra:['基础设施','tag-infra']
+};
+const IMP = {high:['#E24B4A','高影响'],mid:['#EF9F27','中影响'],low:['#1D9E75','低影响']};
+
+const SOURCES = [
+  {name:'OpenAI Blog',     type:'官方博客 · 海外'}, {name:'Anthropic News', type:'官方博客 · 海外'},
+  {name:'Google DeepMind', type:'官方博客 · 海外'}, {name:'Meta AI',        type:'官方博客 · 海外'},
+  {name:'TechCrunch AI',   type:'科技媒体 · 海外'}, {name:'The Verge AI',   type:'科技媒体 · 海外'},
+  {name:'VentureBeat AI',  type:'科技媒体 · 海外'}, {name:'Wired AI',       type:'科技媒体 · 海外'},
+  {name:'MIT Tech Review', type:'科技媒体 · 海外'}, {name:'HuggingFace',    type:'开发者社区'},
+  {name:'arxiv cs.AI',     type:'学术论文'},          {name:'机器之心',       type:'AI媒体 · 国内'},
+  {name:'量子位',           type:'AI媒体 · 国内'},    {name:'36Kr AI',        type:'科技媒体 · 国内'},
+];
+
+let allEvents = [];
+let currentFilter = 'all';
+
+// 加载 data.json
+fetch('data.json?t=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error('data.json 未找到'); return r.json(); })
+  .then(render)
+  .catch(err => {
+    document.getElementById('feed-area').innerHTML =
+      `<div class="error-box">⚠️ 数据尚未生成（${err.message}）<br>请先在 GitHub Actions 手动触发一次运行。</div>`;
+  });
+
+function render(d) {
+  const m = d.metrics || {};
+  allEvents = d.events || [];
+
+  // Header
+  document.getElementById('update-sub').textContent = `全球AI动态追踪 · ${d.generated_at}`;
+  document.getElementById('footer-ts').textContent  = `数据生成时间：${d.generated_ts || d.generated_at}`;
+
+  // Metrics
+  document.getElementById('metrics-area').innerHTML = `
+    <div class="metric"><div class="metric-label">本周事件</div><div class="metric-value">${m.events_count||allEvents.length}</div><div class="metric-sub">实时爬取</div></div>
+    <div class="metric"><div class="metric-label">追踪信源</div><div class="metric-value">${m.sources_count||14}</div><div class="metric-sub">RSS覆盖</div></div>
+    <div class="metric"><div class="metric-label">本周融资</div><div class="metric-value" style="font-size:16px">${m.funding_total||'—'}</div><div class="metric-sub">AI领域</div></div>
+    <div class="metric"><div class="metric-label">更新时间</div><div class="metric-value" style="font-size:15px">${d.generated_at||'—'}</div><div class="metric-sub">自动更新</div></div>`;
+
+  // Feed
+  const top = d.top_story || {};
+  let feedHtml = '';
+  if (d.summary) feedHtml += `<div class="banner"><div class="banner-label">本周摘要</div><div class="banner-text">${d.summary}</div></div>`;
+  if (top.title) feedHtml += `
+    <div class="top-story">
+      <div class="ts-label">本周头条</div>
+      <div class="ts-title">${top.title}</div>
+      <div class="ts-desc">${top.desc||''}</div>
+      <div class="ts-meta">${top.source||''} · ${top.date||''}</div>
+      ${top.link ? `<a class="ts-link" href="${top.link}" target="_blank" rel="noopener">阅读原文 →</a>` : ''}
+    </div>`;
+  feedHtml += `
+    <div class="filter-row">
+      <button class="fbtn active" onclick="filterEvents('all',this)">全部</button>
+      <button class="fbtn" onclick="filterEvents('model',this)">模型发布</button>
+      <button class="fbtn" onclick="filterEvents('product',this)">产品动态</button>
+      <button class="fbtn" onclick="filterEvents('funding',this)">融资</button>
+      <button class="fbtn" onclick="filterEvents('china',this)">国内</button>
+      <button class="fbtn" onclick="filterEvents('infra',this)">基础设施</button>
+    </div>
+    <div class="slabel">最新动态</div>
+    <div id="event-list">${renderEvents(allEvents)}</div>`;
+  document.getElementById('feed-area').innerHTML = feedHtml;
+
+  // Trends
+  document.getElementById('trend-list').innerHTML = (d.trends||[]).map((t,i) => `
+    <div class="trend-card">
+      <div class="trend-num">${String(i+1).padStart(2,'0')}</div>
+      <div class="trend-title">${t.title}</div>
+      <div class="trend-body">${t.body}</div>
+      ${t.verdict ? `<div class="trend-verdict">${t.verdict}</div>` : ''}
+    </div>`).join('') || '<div class="loading">暂无趋势数据</div>';
+
+  // Sources
+  document.getElementById('source-grid').innerHTML = SOURCES.map(s =>
+    `<div class="source-card"><div class="source-name">${s.name}</div><div class="source-type">${s.type}</div></div>`
+  ).join('');
+}
+
+function renderEvents(events) {
+  if (!events.length) return '<div class="loading">暂无数据</div>';
+  return events.map(e => {
+    const [tl,tc] = TAG_MAP[e.type] || ['动态','tag-product'];
+    const [ic,il] = IMP[e.impact]  || ['#EF9F27','中影响'];
+    const nameHtml = e.link
+      ? `<a href="${e.link}" target="_blank" rel="noopener">${e.title||e.name||''}</a>`
+      : (e.title||e.name||'');
+    return `<div class="event-card">
+      <div class="event-header">
+        <div class="event-name">${nameHtml}</div>
+        <div class="tags">
+          ${e.hot ? '<span class="tag tag-hot">🔥 热门</span>' : ''}
+          <span class="tag ${tc}">${tl}</span>
+        </div>
+      </div>
+      <div class="event-desc">${e.desc||''}</div>
+      <div class="event-meta">
+        <span>${e.source||''}</span>
+        <span>${e.date||''}</span>
+        <span><span class="idot" style="background:${ic}"></span>${il}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function filterEvents(type, btn) {
+  document.querySelectorAll('.fbtn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  const filtered = type === 'all' ? allEvents : allEvents.filter(e => e.type === type);
+  document.getElementById('event-list').innerHTML = renderEvents(filtered);
+}
+
+function switchTab(id, btn) {
+  document.querySelectorAll('.section').forEach(s => s.classList.toggle('active', s.id === id));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+}
+</script>
+</body>
+</html>
