@@ -17,23 +17,27 @@ from html import unescape
 # ── RSS 信源配置 ──────────────────────────────────────────────────────────
 FEEDS = [
     # 海外官方博客
-    {"name": "OpenAI Blog",      "url": "https://openai.com/blog/rss.xml",                     "type": "official", "region": "overseas"},
-    {"name": "Anthropic News",   "url": "https://www.anthropic.com/rss.xml",                   "type": "official", "region": "overseas"},
-    {"name": "Google DeepMind",  "url": "https://deepmind.google/blog/rss/",                   "type": "official", "region": "overseas"},
-    {"name": "Meta AI",          "url": "https://ai.meta.com/blog/feed/",                      "type": "official", "region": "overseas"},
+    {"name": "OpenAI Blog",      "url": "https://openai.com/blog/rss.xml",                                   "type": "official", "region": "overseas"},
+    {"name": "Anthropic News",   "url": "https://www.anthropic.com/rss.xml",                                 "type": "official", "region": "overseas"},
+    {"name": "Google DeepMind",  "url": "https://deepmind.google/blog/rss/",                                 "type": "official", "region": "overseas"},
+    {"name": "Meta AI",          "url": "https://ai.meta.com/blog/feed/",                                    "type": "official", "region": "overseas"},
+    {"name": "Microsoft AI",     "url": "https://blogs.microsoft.com/ai/feed/",                              "type": "official", "region": "overseas"},
     # 海外科技媒体
-    {"name": "TechCrunch AI",    "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "type": "media", "region": "overseas"},
-    {"name": "The Verge AI",     "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml", "type": "media", "region": "overseas"},
-    {"name": "VentureBeat AI",   "url": "https://venturebeat.com/category/ai/feed/",           "type": "media", "region": "overseas"},
-    {"name": "Wired AI",         "url": "https://www.wired.com/feed/tag/ai/latest/rss",        "type": "media", "region": "overseas"},
-    {"name": "MIT Tech Review",  "url": "https://www.technologyreview.com/feed/",              "type": "media", "region": "overseas"},
+    {"name": "TechCrunch AI",    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",    "type": "media",    "region": "overseas"},
+    {"name": "The Verge AI",     "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml","type": "media",    "region": "overseas"},
+    {"name": "VentureBeat AI",   "url": "https://venturebeat.com/category/ai/feed/",                        "type": "media",    "region": "overseas"},
+    {"name": "MIT Tech Review",  "url": "https://www.technologyreview.com/feed/",                           "type": "media",    "region": "overseas"},
+    {"name": "The Decoder",      "url": "https://the-decoder.com/feed/",                                    "type": "media",    "region": "overseas"},
+    {"name": "Import AI",        "url": "https://importai.substack.com/feed",                               "type": "media",    "region": "overseas"},
     # 开发者社区
-    {"name": "HuggingFace Blog", "url": "https://huggingface.co/blog/feed.xml",                "type": "dev",    "region": "overseas"},
-    {"name": "arxiv cs.AI",      "url": "https://rss.arxiv.org/rss/cs.AI",                    "type": "paper",  "region": "overseas"},
-    # 国内媒体
-    {"name": "机器之心",          "url": "https://www.jiqizhixin.com/rss",                      "type": "media",  "region": "china"},
-    {"name": "量子位",            "url": "https://www.qbitai.com/feed",                         "type": "media",  "region": "china"},
-    {"name": "36Kr AI",          "url": "https://36kr.com/feed",                               "type": "media",  "region": "china"},
+    {"name": "HuggingFace Blog", "url": "https://huggingface.co/blog/feed.xml",                             "type": "dev",      "region": "overseas"},
+    {"name": "arxiv cs.AI",      "url": "https://rss.arxiv.org/rss/cs.AI",                                 "type": "paper",    "region": "overseas"},
+    # 国内中文AI媒体（通过 RSSHub 公开实例中转，合法使用）
+    {"name": "量子位",            "url": "https://rsshub.app/qbitai",                                       "type": "media",    "region": "china"},
+    {"name": "机器之心",          "url": "https://rsshub.app/jiqizhixin",                                   "type": "media",    "region": "china"},
+    {"name": "36Kr AI",          "url": "https://rsshub.app/36kr/motif/327686782977",                       "type": "media",    "region": "china"},
+    {"name": "Synced (机器之心英文)","url": "https://syncedreview.com/feed/",                                "type": "media",    "region": "china"},
+    {"name": "DeepSeek Github",  "url": "https://rsshub.app/github/repos/deepseek-ai",                     "type": "official", "region": "china"},
 ]
 
 # ── 关键词过滤 ────────────────────────────────────────────────────────────
