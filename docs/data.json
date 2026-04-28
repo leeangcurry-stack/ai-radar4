@@ -1,0 +1,376 @@
+{
+  "generated_at": "2026年04月28日",
+  "generated_ts": "2026-04-28T08:19:59.535893",
+  "summary": "本周共追踪到 30 条AI动态，覆盖海外及国内主要信源。高影响事件 4 条，重点关注：Some Musk v. Altman Jurors Don等。",
+  "top_story": {
+    "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+    "desc": "arXiv:2604.21936v1 Announce Type: new \nAbstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applyin",
+    "source": "arxiv cs.AI",
+    "date": "2026-04-28",
+    "link": "https://arxiv.org/abs/2604.21936"
+  },
+  "metrics": {
+    "events_count": 30,
+    "sources_count": 14,
+    "funding_total": "11 起"
+  },
+  "events": [
+    {
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "desc": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+      "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "source": "Wired AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "product",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "desc": "",
+      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "source": "HuggingFace Blog",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "product",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+      "desc": "arXiv:2604.21935v1 Announce Type: new \nAbstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reas",
+      "link": "https://arxiv.org/abs/2604.21935",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+      "desc": "arXiv:2604.21936v1 Announce Type: new \nAbstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applyin",
+      "link": "https://arxiv.org/abs/2604.21936",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "high",
+      "hot": true
+    },
+    {
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "desc": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of speciali",
+      "link": "https://arxiv.org/abs/2604.21937",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+      "desc": "arXiv:2604.21965v1 Announce Type: new \nAbstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden this scope by asking: C",
+      "link": "https://arxiv.org/abs/2604.21965",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+      "desc": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality",
+      "link": "https://arxiv.org/abs/2604.22026",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Sound Agentic Science Requires Adversarial Experiments",
+      "desc": "arXiv:2604.22080v1 Announce Type: new \nAbstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and expertise. This capability is",
+      "link": "https://arxiv.org/abs/2604.22080",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "product",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "desc": "arXiv:2604.22085v1 Announce Type: new \nAbstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural",
+      "link": "https://arxiv.org/abs/2604.22085",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+      "desc": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own o",
+      "link": "https://arxiv.org/abs/2604.22119",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+      "desc": "arXiv:2604.22273v1 Announce Type: new \nAbstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear. We frame self-correct",
+      "link": "https://arxiv.org/abs/2604.22273",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "high",
+      "hot": true
+    },
+    {
+      "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+      "desc": "arXiv:2604.22411v1 Announce Type: new \nAbstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Mac",
+      "link": "https://arxiv.org/abs/2604.22411",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "high",
+      "hot": true
+    },
+    {
+      "title": "CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease",
+      "desc": "arXiv:2604.22428v1 Announce Type: new \nAbstract: Predicting individual cognitive decline in Alzheimer's disease (AD) is difficult due to the heterogeneity of disease progression. Reliable clinical too",
+      "link": "https://arxiv.org/abs/2604.22428",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+      "desc": "arXiv:2604.22436v1 Announce Type: new \nAbstract: The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable",
+      "link": "https://arxiv.org/abs/2604.22436",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "product",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+      "desc": "arXiv:2604.22446v1 Announce Type: new \nAbstract: Individual agent capabilities have advanced rapidly through modular skills and tool integrations, yet multi-agent systems remain constrained by fixed t",
+      "link": "https://arxiv.org/abs/2604.22446",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
+      "desc": "arXiv:2604.22452v1 Announce Type: new \nAbstract: Collective intelligence refers to the ability of a group to achieve outcomes beyond what any individual member can accomplish alone. As large language",
+      "link": "https://arxiv.org/abs/2604.22452",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "high",
+      "hot": true
+    },
+    {
+      "title": "On the Hybrid Nature of ABPMS Process Frames and its Implications on Automated Process Discovery",
+      "desc": "arXiv:2604.22455v1 Announce Type: new \nAbstract: A core component of any AI-Augmented Business Process Management System (ABPMS) is the process frame, which gives the system process-awareness and defi",
+      "link": "https://arxiv.org/abs/2604.22455",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "QuantClaw: Precision Where It Matters for OpenClaw",
+      "desc": "arXiv:2604.22577v1 Announce Type: new \nAbstract: Autonomous agent systems such as OpenClaw introduce significant efficiency challenges due to long-context inputs and multi-turn reasoning. This results",
+      "link": "https://arxiv.org/abs/2604.22577",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Rethinking Math Reasoning Evaluation: A Robust LLM-as-a-Judge Framework Beyond Symbolic Rigidity",
+      "desc": "arXiv:2604.22597v1 Announce Type: new \nAbstract: Recent advancements in large language models have led to significant improvements across various tasks, including mathematical reasoning, which is used",
+      "link": "https://arxiv.org/abs/2604.22597",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "desc": "arXiv:2604.22748v1 Announce Type: new \nAbstract: As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a centr",
+      "link": "https://arxiv.org/abs/2604.22748",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Large Language Models Are Bad Dice Players: LLMs Struggle to Generate Random Numbers from Statistical Distributions",
+      "desc": "arXiv:2601.05414v3 Announce Type: cross \nAbstract: As large language models (LLMs) transition from chat interfaces to integral components of stochastic pipelines and systems approaching general intell",
+      "link": "https://arxiv.org/abs/2601.05414",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Feedback Over Form: Why Execution Feedback Matters More Than Pipeline Topology in 1-3B Code Generation",
+      "desc": "arXiv:2604.21950v1 Announce Type: cross \nAbstract: Small language models (1-3B) are practical to run locally, but individually limited on harder code generation tasks. We ask whether composing them in",
+      "link": "https://arxiv.org/abs/2604.21950",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
+      "desc": "arXiv:2604.21952v1 Announce Type: cross \nAbstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co",
+      "link": "https://arxiv.org/abs/2604.21952",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
+      "desc": "arXiv:2604.21957v1 Announce Type: cross \nAbstract: Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state predict",
+      "link": "https://arxiv.org/abs/2604.21957",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "A systematic review of generative AI usage for IT project management",
+      "desc": "arXiv:2604.21958v1 Announce Type: cross \nAbstract: This paper aims to synthesize current knowledge on generative AI in IT project management using the PRISMA methodology to provide researchers with a",
+      "link": "https://arxiv.org/abs/2604.21958",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "A general optimization solver based on OP-to-MaxSAT reduction",
+      "desc": "arXiv:2604.21961v1 Announce Type: cross \nAbstract: Optimization problems are fundamental in diverse fields, such as engineering, economics, and scientific computing. However, current algorithms are mo",
+      "link": "https://arxiv.org/abs/2604.21961",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "product",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Model Predictive Control of Hybrid Dynamical Systems",
+      "desc": "arXiv:2604.21989v1 Announce Type: cross \nAbstract: The problem of controlling hybrid dynamical systems using model predictive control (MPC) is formulated and sufficient conditions for asymptotic stabi",
+      "link": "https://arxiv.org/abs/2604.21989",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Multi-Task Optimization over Networks of Tasks",
+      "desc": "arXiv:2604.21991v1 Announce Type: cross \nAbstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitation",
+      "link": "https://arxiv.org/abs/2604.21991",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+      "desc": "arXiv:2604.21999v2 Announce Type: cross \nAbstract: We study learned memory tokens as computational scratchpad for a single-block Universal Transformer (UT) with Adaptive Computation Time (ACT) on Sudo",
+      "link": "https://arxiv.org/abs/2604.21999",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Foundation models for discovering robust biomarkers of neurological disorders from dynamic functional connectivity",
+      "desc": "arXiv:2604.22018v1 Announce Type: cross \nAbstract: Several brain foundation models (FM) have recently been proposed to predict brain disorders by modelling dynamic functional connectivity (FC). While",
+      "link": "https://arxiv.org/abs/2604.22018",
+      "source": "arxiv cs.AI",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    }
+  ],
+  "trends": [
+    {
+      "title": "Agent应用",
+      "body": "本周相关报道 27 次，代表事件：An Artifact-based Agent F、MolClaw: An Autonomous Ag、Read the Paper, Write the。",
+      "verdict": "持续关注Agent应用方向的产品落地与竞争格局变化。"
+    },
+    {
+      "title": "模型竞争",
+      "body": "本周相关报道 3 次，代表事件：Math Takes Two: A test fo、An Artifact-based Agent F、AgentSearchBench: A Bench。",
+      "verdict": "持续关注模型竞争方向的产品落地与竞争格局变化。"
+    },
+    {
+      "title": "多模态",
+      "body": "本周相关报道 3 次，代表事件：An Artifact-based Agent F、Focus Session: Hardware a。",
+      "verdict": "持续关注多模态方向的产品落地与竞争格局变化。"
+    },
+    {
+      "title": "企业落地",
+      "body": "本周相关报道 3 次，代表事件：An Artifact-based Agent F、Read the Paper, Write the、Emergent Strategic Reason。",
+      "verdict": "持续关注企业落地方向的产品落地与竞争格局变化。"
+    },
+    {
+      "title": "推理成本",
+      "body": "本周相关报道 1 次，代表事件：Universal Transformers Ne。",
+      "verdict": "持续关注推理成本方向的产品落地与竞争格局变化。"
+    }
+  ]
+}
