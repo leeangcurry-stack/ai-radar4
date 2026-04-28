@@ -1,7 +1,7 @@
 {
   "generated_at": "2026年04月28日",
-  "generated_ts": "2026-04-28T09:39:38.957111",
-  "summary": "本周追踪到 40 条AI动态，海外 30 条、国内 10 条。融资事件 7 起。",
+  "generated_ts": "2026-04-28T10:09:23.263612",
+  "summary": "本周追踪到 40 条AI动态，海外 33 条、国内 7 条。融资事件 6 起。",
   "top_story": {
     "title": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks - Databricks",
     "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
@@ -11,9 +11,9 @@
   },
   "metrics": {
     "events_count": 40,
-    "china_count": 10,
-    "overseas_count": 30,
-    "funding_count": 7
+    "china_count": 7,
+    "overseas_count": 33,
+    "funding_count": 6
   },
   "events": [
     {
@@ -21,6 +21,17 @@
       "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU1PTlAzanZxTHNQTmRiNjIzY2RpbEp6MUlwUTJFYzFub1NZMWdIZ2dUb1JpRXREMXhBcnpBXzQ0SEVvS2szMTFIWkxUV3NWWFhCSU5BM0l1dU1yMEZsS1pUbEhXcmNSQnhkOGJIaE56V25zcHRSZFQ0bE1tODVhY3pLWFZmaWF0Mm9JazBRYmh2dXQ4VFYtREg2aDhJQjBORGwxM2VGMFZ1U21VSGJB?oc=5",
       "source": "Databricks",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "OpenAI's Latest Release Looks Like the Project Management Software You Probably Already Have to Use - Gizmodo",
+      "desc": "OpenAI's Latest Release Looks Like the Project Management Software You Probably Already Have to Use    Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0FuaDJxTmRtWU1qRmVxQ2tSSENuUU9ldzlRTDFMSjFFc0NhSFdHVUdaZ0VyNGNJT3JiWUVkVldBRC00dm0yU0JhWEIzYjg0WUtURm9rN1FvaURoMnUzam02VW9ydml4Y0UyVWtsUHJvdkg5TmwzOU54b0V2ekU0aGFRU3lfTGo1dHByVWZFZ3U4S245ejFjdk1zMjJDUmdlbkhCQk1uUl81MVRYTGtoWW9pc00wejFVNmF4OWJ4NWF6R2QyS1RXMQ?oc=5",
+      "source": "Gizmodo",
       "region": "overseas",
       "date": "2026-04-28",
       "type": "model",
@@ -184,7 +195,7 @@
     {
       "title": "Claude's AI agent goes rogue, deletes firm's entire database in 9 seconds - Business Standard",
       "desc": "Claude's AI agent goes rogue, deletes firm's entire database in 9 seconds    Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0dtQWVuX3dwSi1NR2k0NFNsT0szUmZJd1JFS09TOW5WLVRtcVpNVm4tYlBRMlZ4SUVtUXhRQWxKOEFlOFFIdkdQYW9WazJaVGY0ak92Rkx2WkNZc2NTcjhrODY3MUJoUkZIZ0tvVlRKMC1Kd1FwSzJ5SlV5blUzbll2a05nZHpjcThnZjJiNkhtSk5ZRjExeENRRTQ1cWgwYU4tSmQ2aDJtNi04dWhXTmtPNlVXT09ZMnhGZTd6ZGlUUnVoVEwtYmo0ZDFQYjZJY2xHdE1iQWFCRldsa0HSAd4BQVVfeXFMTWtHbUFlbl93cEotTUdpNDRTbE9LM1JmSXdSRUtPUzluVi1UbXFaTVZuLWJQUTJWeElFbVF4UUFsSjhBZThRSHZHUGFvVmsyWlRmNGpPdkZMdlpDWXNjU3I4azg2NzFCaFJGSGdLb1ZUSjAtSndRcEsyeUpVeW5VM25ZdmtOZ2R6Y3E4Z2YyYjZIbUpOWUYxMXhDUUU0NXFoMGFOLUpkNmgybTYtOHVoV05rTzZVV09PWTJ4RmU3emRpVFJ1aFRMLWJqNGQxUGI2SWNsR3RNYkFhQkZXbGtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlhCRW9JZ2tSTWE4TmVIZl82ZW1aLVhYRG00VHhOU0d6dDVaM09ieGVqdnpSWjNPRmJMZUczRmN1N2VLOGloX1hkOU5ybjk2T1d5UHBqVVZqazQ0cDhzeFZ4TEUtRWk0a0J0UzdjQ2lpWGtyNGhmM24zUmFOTkZoMFJ5dG5JSkFhMkhxR21ETGdUSi1PRWZ6VTRtQ1ZWUEk4c2pwbGZyekdNY3JyWlM1Z0l5SkpNWmlJaTROMmMzQXFESGtDeE1CRGIzZGZtZXBxcncyYV8tZWLSAd4BQVVfeXFMTWtHbUFlbl93cEotTUdpNDRTbE9LM1JmSXdSRUtPUzluVi1UbXFaTVZuLWJQUTJWeElFbVF4UUFsSjhBZThRSHZHUGFvVmsyWlRmNGpPdkZMdlpDWXNjU3I4azg2NzFCaFJGSGdLb1ZUSjAtSndRcEsyeUpVeW5VM25ZdmtOZ2R6Y3E4Z2YyYjZIbUpOWUYxMXhDUUU0NXFoMGFOLUpkNmgybTYtOHVoV05rTzZVV09PWTJ4RmU3emRpVFJ1aFRMLWJqNGQxUGI2SWNsR3RNYkFhQkZXbGtB?oc=5",
       "source": "Business Standard",
       "region": "overseas",
       "date": "2026-04-28",
@@ -270,6 +281,17 @@
       "hot": false
     },
     {
+      "title": "Kerrison and Clyburn Examine LLM Performance Evaluations - Let's Data Science",
+      "desc": "Kerrison and Clyburn Examine LLM Performance Evaluations    Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcW1fenVVc29pejNSb2pPWUVNMDM4ZTFBVUZxSE0ybk4tYXFyenFNbGpVQmVydy16ZHc1NzIxM1RfUjVJdWxBOFdweU5Ha09CMWlMSFIyWXRZUTlyMm0xVHA1REkxUzNrRzY1eng5U2VwYzBOQUVhQ2FfWE5uTzRRS005T3BTNnBZWlFWeml5cXM4OF81bGh4NkpLZEpxMW8?oc=5",
+      "source": "Let's Data Science",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "low",
+      "hot": false
+    },
+    {
       "title": "AI hallucinations, bias and data leaks: Expanding LLM risk landscape - Devdiscourse",
       "desc": "AI hallucinations, bias and data leaks: Expanding LLM risk landscape    Devdiscourse",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVYwdmZVUG16NjVMRjB5Y0hOT1kxZ1NlWGZXTVJzdDcyQmU5S1Iwb29UYlJVYW9LZlo3OE82blU4cTRMcGt6YlQ1MWdCbkxLRlE4X1lCWmZLdjVncGY5aXI2WTQ2T0JEaFV0ZnJzY0gtekNieGtaX09ISmp5TmJBN2E4cXRmblVIczhSR0VDeWVGU0xmcGFMYVBiQnJzMldFdUw1cGFhTmgxU3lxR0xHSlBSVjRPTEl1SnhlamFzY9IBxAFBVV95cUxNVUxEVDJzSF9MTFJ4VWZXdHAxeUpPVDRfQTVmZWttSWNBYWZZSXU3a0U5TTBQOG0zc0c3ZGU3c2E3ZnZoMVhTeldIZW1YOTBVelZJWHJUZ184Vzl4ZWRsM1poQjYzTy1ZNnV3QkFJZ0N4RUc1UndXcWcza1BGM1kyMTlWZlluSDBTalVFMXB1d0FfUzV0MUNBM3NiRHUtVlBRamZyZmRsZ3ZHS21jTGEweVdiSC1leVRGdk9naDNmNXUyS29U?oc=5",
@@ -325,6 +347,17 @@
       "hot": false
     },
     {
+      "title": "Alipay launches AI payment processing tool for businesses as agent-based commerce Expands - TNGlobal",
+      "desc": "Alipay launches AI payment processing tool for businesses as agent-based commerce Expands    TNGlobal",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQllWdzY1ZUI4UlhERDZ0OXE3NXNvYmZySmtYUlFqYmZkdW9yRW5sQXQ1T3Y2WERkb3h5blhQNlZnTDVMV1laOHV5OVhYSFRiS2FEdy1RTEZFcHY0eTNpTzcwY18tdFpfeHdOVUJfU2lNSW9xREVZXzRvNVBrQUoyMl9kd2EyVy00WUZnekxtUkdhWF9PcDRtRTlGbEhmMUs5OVdRd2lqYmJvNjd6RzNmOWNUNk03N3FURGE1NW9HbjRFdEU?oc=5",
+      "source": "TNGlobal",
+      "region": "overseas",
+      "date": "2026-04-28",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
       "title": "Alipay launches AI payments for businesses - Tech in Asia",
       "desc": "Alipay launches AI payments for businesses    Tech in Asia",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pa1dWZzg5eWEyUWlVSzQwSTlELXBKXzJzTUpldmdkMGhVWkR2My1OYlI0VmZucEdiVDJ3bE10NExOaWVsR1gtTm5tZURvUlZYU1RrUkVZXzhJUU11dnVpZ283aWNBbm9DdHFuamRud1NwcHpYdldkX1hHQm1mc0U?oc=5",
@@ -347,17 +380,6 @@
       "hot": false
     },
     {
-      "title": "DeepSeek-V4-Pro优惠期延长至5月底|官网|界面|页面|模型|文档_手机新浪网 - 新浪财经",
-      "desc": "DeepSeek-V4-Pro优惠期延长至5月底|官网|界面|页面|模型|文档_手机新浪网    新浪财经    DeepSeek发表新模型，开源令中国AI企业扩大影响力    纽约时报中文网    DeepSeek V4中文能力测评出炉：重回国内第一！    驱动之家",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbThOSkZZd3lxXzdaVkd4bm1NVEdqbXF3UVluY2M1UHNkeTVQdm1qc0lqTFF2bEVFbjdpMGtIdnJiYVI3eWtmNjkwNFlkQWQ4cmt6UTNGTDE5VVRPMDNnaVZSajdYNnhMR0R2NXpPT0JBZFFoQjlTY3A1RkJ1dFp4UW1ZQmhFWHE5VmlzS2ttLXN6cHM3MHdwZ3d1NWppVk5KSmdtYjF0NlRpWG5ZcHc3Sy13?oc=5",
-      "source": "新浪财经",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
       "title": "DeepSeek时刻2.0！港股芯片弹性领先 ｜ 港股通信息技术ETF华宝（159131） - 新浪财经",
       "desc": "DeepSeek时刻2.0！港股芯片弹性领先 ｜ 港股通信息技术ETF华宝（159131）    新浪财经",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXVsRXdhd0R0QWh5eGhuUXNKdUhseFBpSFd1cmZPdVhSTkt1dTJfbE43OU4zNmZZVlZvVklMdWJFNlU5dUl0U1NpR2djWWZBb2RiOGtZdEZnbHRsT3FXc3NsRUdzR1BpNUk1S0NrdElaQzVHY3U2M2ZQd2k3T0xGemZiR3FSZw?oc=5",
@@ -369,10 +391,10 @@
       "hot": false
     },
     {
-      "title": "DeepSeek注册资本提高一半，梁文锋持股升至34% - guancha.cn",
-      "desc": "DeepSeek注册资本提高一半，梁文锋持股升至34%    guancha.cn",
+      "title": "DeepSeek注册资本提高一半，梁文锋持股升至34% - 观察者",
+      "desc": "DeepSeek注册资本提高一半，梁文锋持股升至34%    观察者",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZUJjTWxaX1A2QUtmNzdHWXh2US0yUUx5X3lyV1g5ZExlOTVTc182Y2JNbnhWakdNRm1EUFF2R1BxLV9xRlV4aXktQWZyN0pQRHpvNnQ4VUdrMmxMUElYSzhnVk8?oc=5",
-      "source": "guancha.cn",
+      "source": "观察者",
       "region": "china",
       "date": "2026-04-28",
       "type": "china",
@@ -380,10 +402,10 @@
       "hot": false
     },
     {
-      "title": "DeepSeek和华为的双向奔赴 - 凤凰网",
-      "desc": "DeepSeek和华为的双向奔赴    凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93VWdlS3FMVk1IamwzaFRuMU9Bejd5MElZTWU5OGk4S2lxb3otTXdvS1JIYmR4Q3g2ZkgtRVFhS3BPYUVKMkNBcw?oc=5",
-      "source": "凤凰网",
+      "title": "DeepSeek增资！梁文锋直接持股比例提升 - 新浪财经",
+      "desc": "DeepSeek增资！梁文锋直接持股比例提升    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tN0x4MWUzSlpCc0oxSlRUc3NEZXc4NUxidUNjOGZKLU5JWUNDWk5YVEpKeDRpYmxiTi1fa2xyWjUxQmYtRWI1OWpGWEFrNU41QUl3aVZoYlpneDlNcFJMeE1WMVZzQzI5M0tkZjNPLVYxOE5lUzhULQ?oc=5",
+      "source": "新浪财经",
       "region": "china",
       "date": "2026-04-28",
       "type": "china",
@@ -391,21 +413,21 @@
       "hot": false
     },
     {
-      "title": "DeepSeek V4首发适配背后：昇腾为什么坚持不做CUDA兼容层？ - 雷峰网",
-      "desc": "DeepSeek V4首发适配背后：昇腾为什么坚持不做CUDA兼容层？    雷峰网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04RWlpQTZCWkpoU1FGT29QaW1KQmVBNFh4SDVFYnRfb2MwQ09KOWI1Q2hEbXk2M0M2Qk5RSkJKZ0FCTjVoWlozeTBITXpyVm8wd0pWeWFIdXpfZmVBaEFmdmV2UV9TazZ5bFdhUlR3?oc=5",
-      "source": "雷峰网",
+      "title": "20万字不到1分钱，梁文锋把token价格打骨折了 - 新浪财经",
+      "desc": "20万字不到1分钱，梁文锋把token价格打骨折了    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xFX0FxS280YmEyeWRyTEV2anpkWTNxc1EwclltVjZKZHNGeVN0Vkg3dnlhVlNZd011RHg5dHBxZXVzdVNPOC05RDA2clh4Q0o0Y0NWME9MV1dtdldvRlNELUdsajlfZEtreGZvVGExU0pST0Z2cW50azJkNTBNbzh1M0JYcDJuQ2ZvVA?oc=5",
+      "source": "新浪财经",
       "region": "china",
       "date": "2026-04-28",
-      "type": "infra",
-      "impact": "mid",
+      "type": "china",
+      "impact": "low",
       "hot": false
     },
     {
-      "title": "DeepSeek升级，气到了黄仁勋 - 创业邦",
-      "desc": "DeepSeek升级，气到了黄仁勋    创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fMm1Mdk9ReGlSMUg2UktOSXVyTDVzaVFicUQwajFDanktd2VSYUF1MXdaV3ZvYi1PV0tFUDMxQ1pFakllMHQyQmI5RXRGbnIy?oc=5",
-      "source": "创业邦",
+      "title": "DeepSeek大幅降价 - 新浪财经",
+      "desc": "DeepSeek大幅降价    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamZWcDZ5MTFIeGdrZUdBdXRyTG5uWkY2czVYbDFEeDFCR2haTGN4c2QzVDJQS0tfSnVYbElfNUQtZ1ZtejZFZnluM1FBd0tLRGdhc2pKVnBPb0lRMElzam1vZHRNM04tM0M1Z2daTXZValVHeDJJUzc4Y0NITnh6Y3Zxb2o?oc=5",
+      "source": "新浪财经",
       "region": "china",
       "date": "2026-04-28",
       "type": "china",
@@ -413,43 +435,21 @@
       "hot": false
     },
     {
-      "title": "DeepSeek V4引爆半导体行情，国产算力投资逻辑升级 - Jiemian.com",
-      "desc": "DeepSeek V4引爆半导体行情，国产算力投资逻辑升级    Jiemian.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XUmgxc253S2FMdWQ2V2VfTWRaanJKSUZrSHozcXZRS1h2UWdMS2NPOG1ZU1VjNGdZUUhwUTRMd0hJQmRqOGZkcVJFZHlTcnk4WDY5dW5jMk4?oc=5",
-      "source": "Jiemian.com",
+      "title": "DeepSeek V4中文能力测评出炉：重回国内第一！ - 驱动之家",
+      "desc": "DeepSeek V4中文能力测评出炉：重回国内第一！    驱动之家",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vRlZnUDBWWFF4Z096SDE4amkzSWRGb2p1Q0V0dWx2dFFCYzkxX2lYSExpd3VCYklhSUJ6X2dCQ1JkNHRDcXRrRlZCUXFWRWlERExZR0ptRzg?oc=5",
+      "source": "驱动之家",
       "region": "china",
       "date": "2026-04-28",
-      "type": "funding",
+      "type": "china",
       "impact": "mid",
       "hot": false
     },
     {
-      "title": "DeepSeek不惜代价保住它！V4关键特性被挖出来了 - 投资界",
-      "desc": "DeepSeek不惜代价保住它！V4关键特性被挖出来了    投资界",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IcnZ6c3BNUDJuY3doNjdjZ0c5bjVpbWxHTXhwc20yV3E5em9Bc3FQSFpkT2RDX2ZsU2ExYWRhdnlMc1kySFlJMFlCRG9ocUZid3kwRUFn?oc=5",
-      "source": "投资界",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "funding",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "超越DeepSeek-V4，罗福莉交出小米最强开源模型，首日适配5家国产芯片 - 36kr.com",
-      "desc": "超越DeepSeek-V4，罗福莉交出小米最强开源模型，首日适配5家国产芯片    36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ldkZST2oxbUJmS2Fka0FkZW1zVkRPY243NGFIM0RmRUFrZkk2ZGkwaklFVmVxNVg1X1Yzek05dUk1YTVFaDViTWFkSDctUQ?oc=5",
-      "source": "36kr.com",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "infra",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "DeepSeek完成增资，梁文锋持股比例大幅提升 - 21财经",
-      "desc": "DeepSeek完成增资，梁文锋持股比例大幅提升    21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDVJNEI3eGQ0SUIzc1hXTVVZOFJmdi1fM1NxWW1KSFVLcUhNZndxaGhuN2gzOWhiT2daZFdjeHNaM0VWS181OXg0M0M1X0U5ZG94SEN3Zmp2TmduTjNMZzMxdWlJZkRSbjNWWV90VEJ4YzU2bGFsaFcwc1JVdERmUGN5Y093MWtvbVBSdDM5OA?oc=5",
-      "source": "21财经",
+      "title": "DeepSeek V4炸场背后：有人在内斗，有人在接力 - thepaper.cn",
+      "desc": "DeepSeek V4炸场背后：有人在内斗，有人在接力    thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96MWxNZTJSR2tXTHlEVEl4b2dXYmxST1hmaGMzZTJXUnhKMkp4UjR2TXJMVWxhNU1RZG1PYkY0TmR6RDJUYlJxc1g0X3hXcHB4WHBxRlllTzdicVluMlE?oc=5",
+      "source": "thepaper.cn",
       "region": "china",
       "date": "2026-04-28",
       "type": "china",
@@ -459,28 +459,28 @@
   ],
   "trends": [
     {
+      "title": "模型竞争",
+      "body": "本周相关报道 12 次。代表事件：OpenAI's Latest Releas、OpenAI misses targets,、Meta, Google, OpenAI a。",
+      "verdict": "持续关注模型竞争方向的产品形态演变与竞争格局。"
+    },
+    {
       "title": "开源生态",
-      "body": "本周相关报道 25 次。代表事件：DeepSeek-V4-Pro优惠期延长至5、DeepSeek时刻2.0！港股芯片弹性领先、DeepSeek注册资本提高一半，梁文锋持股。",
+      "body": "本周相关报道 12 次。代表事件：DeepSeek时刻2.0！港股芯片弹性领先、DeepSeek注册资本提高一半，梁文锋持股、DeepSeek增资！梁文锋直接持股比例提升。",
       "verdict": "持续关注开源生态方向的产品形态演变与竞争格局。"
     },
     {
       "title": "国产AI",
-      "body": "本周相关报道 24 次。代表事件：DeepSeek-V4-Pro优惠期延长至5、DeepSeek时刻2.0！港股芯片弹性领先、DeepSeek注册资本提高一半，梁文锋持股。",
+      "body": "本周相关报道 12 次。代表事件：DeepSeek时刻2.0！港股芯片弹性领先、DeepSeek注册资本提高一半，梁文锋持股、DeepSeek增资！梁文锋直接持股比例提升。",
       "verdict": "持续关注国产AI方向的产品形态演变与竞争格局。"
     },
     {
-      "title": "模型竞争",
-      "body": "本周相关报道 10 次。代表事件：OpenAI misses targets,、Meta, Google, OpenAI a、Alipay launches AI pay。",
-      "verdict": "持续关注模型竞争方向的产品形态演变与竞争格局。"
-    },
-    {
       "title": "Agent应用",
-      "body": "本周相关报道 10 次。代表事件：Weird Things Happen Wh、Anthropic adds memory 、Claude's AI agent goes。",
+      "body": "本周相关报道 12 次。代表事件：Weird Things Happen Wh、Anthropic adds memory 、Claude's AI agent goes。",
       "verdict": "持续关注Agent应用方向的产品形态演变与竞争格局。"
     },
     {
       "title": "企业落地",
-      "body": "本周相关报道 7 次。代表事件：LION & OpenAI deploy C、Anthropic’s Claude AI 、DeepSeek-V4-Pro优惠期延长至5。",
+      "body": "本周相关报道 6 次。代表事件：LION & OpenAI deploy C、Anthropic’s Claude AI 。",
       "verdict": "持续关注企业落地方向的产品形态演变与竞争格局。"
     }
   ]
