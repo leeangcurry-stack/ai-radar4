@@ -133,7 +133,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:1
   </div>
 
   <div id="sources" class="section">
-    <div class="slabel">追踪信源（每周自动爬取）</div>
+    <div class="slabel">本次新闻来源（实际抓取）</div>
     <div class="source-grid" id="source-grid"></div>
     <div style="font-size:13px;color:var(--muted);line-height:1.7;margin-top:8px">
       通过标准 RSS 协议爬取，无需 API Key，数据完全公开。每周一自动更新，覆盖海外及国内主要AI媒体与官方博客。
@@ -154,15 +154,7 @@ const TAG_MAP = {
 };
 const IMP = {high:['#E24B4A','高影响'],mid:['#EF9F27','中影响'],low:['#1D9E75','低影响']};
 
-const SOURCES = [
-  {name:'OpenAI Blog',     type:'官方博客 · 海外'}, {name:'Anthropic News', type:'官方博客 · 海外'},
-  {name:'Google DeepMind', type:'官方博客 · 海外'}, {name:'Meta AI',        type:'官方博客 · 海外'},
-  {name:'TechCrunch AI',   type:'科技媒体 · 海外'}, {name:'The Verge AI',   type:'科技媒体 · 海外'},
-  {name:'VentureBeat AI',  type:'科技媒体 · 海外'}, {name:'Wired AI',       type:'科技媒体 · 海外'},
-  {name:'MIT Tech Review', type:'科技媒体 · 海外'}, {name:'HuggingFace',    type:'开发者社区'},
-  {name:'arxiv cs.AI',     type:'学术论文'},          {name:'机器之心',       type:'AI媒体 · 国内'},
-  {name:'量子位',           type:'AI媒体 · 国内'},    {name:'36Kr AI',        type:'科技媒体 · 国内'},
-];
+// 信源列表由 data.json 动态生成，见 renderSources()
 
 let allEvents = [];
 let currentFilter = 'all';
@@ -179,6 +171,8 @@ fetch('data.json?t=' + Date.now())
 function render(d) {
   const m = d.metrics || {};
   allEvents = d.events || [];
+  // 统计本次实际出现的不重复来源
+  const sourcesCount = new Set((d.events||[]).map(e => e.source).filter(Boolean)).size;
 
   // Header
   document.getElementById('update-sub').textContent = `全球AI动态追踪 · ${d.generated_at}`;
@@ -187,8 +181,8 @@ function render(d) {
   // Metrics
   document.getElementById('metrics-area').innerHTML = `
     <div class="metric"><div class="metric-label">本周事件</div><div class="metric-value">${m.events_count||allEvents.length}</div><div class="metric-sub">实时爬取</div></div>
-    <div class="metric"><div class="metric-label">追踪信源</div><div class="metric-value">${m.sources_count||14}</div><div class="metric-sub">RSS覆盖</div></div>
-    <div class="metric"><div class="metric-label">本周融资</div><div class="metric-value" style="font-size:16px">${m.funding_total||'—'}</div><div class="metric-sub">AI领域</div></div>
+    <div class="metric"><div class="metric-label">信源数量</div><div class="metric-value">${sourcesCount}</div><div class="metric-sub">本次实际来源</div></div>
+    <div class="metric"><div class="metric-label">融资相关</div><div class="metric-value">${m.funding_count||0}</div><div class="metric-sub">条新闻</div></div>
     <div class="metric"><div class="metric-label">更新时间</div><div class="metric-value" style="font-size:15px">${d.generated_at||'—'}</div><div class="metric-sub">自动更新</div></div>`;
 
   // Feed
@@ -222,13 +216,10 @@ function render(d) {
       <div class="trend-num">${String(i+1).padStart(2,'0')}</div>
       <div class="trend-title">${t.title}</div>
       <div class="trend-body">${t.body}</div>
-      ${t.verdict ? `<div class="trend-verdict">${t.verdict}</div>` : ''}
     </div>`).join('') || '<div class="loading">暂无趋势数据</div>';
 
   // Sources
-  document.getElementById('source-grid').innerHTML = SOURCES.map(s =>
-    `<div class="source-card"><div class="source-name">${s.name}</div><div class="source-type">${s.type}</div></div>`
-  ).join('');
+  renderSources(d.events || []);
 }
 
 function renderEvents(events) {
@@ -262,6 +253,31 @@ function filterEvents(type, btn) {
   btn.classList.add('active');
   const filtered = type === 'all' ? allEvents : allEvents.filter(e => e.type === type);
   document.getElementById('event-list').innerHTML = renderEvents(filtered);
+}
+
+function renderSources(events) {
+  // 从实际抓取的新闻中提取来源，按海外/国内分组
+  const seen = new Map();
+  events.forEach(e => {
+    if (e.source && !seen.has(e.source)) {
+      seen.set(e.source, e.region || 'overseas');
+    }
+  });
+  if (seen.size === 0) {
+    document.getElementById('source-grid').innerHTML = '<div style="color:var(--dim);font-size:13px">暂无来源数据</div>';
+    return;
+  }
+  const regionLabel = { overseas: '海外', china: '国内' };
+  const sorted = [...seen.entries()].sort((a, b) => {
+    if (a[1] === b[1]) return a[0].localeCompare(b[0]);
+    return a[1] === 'overseas' ? -1 : 1;
+  });
+  document.getElementById('source-grid').innerHTML = sorted.map(([name, region]) =>
+    `<div class="source-card"><div class="source-name">${name}</div><div class="source-type">${regionLabel[region] || region}</div></div>`
+  ).join('');
+  // 在说明文字前加上来源数量
+  const desc = document.querySelector('#sources > div:last-child');
+  if (desc) desc.style.marginTop = '12px';
 }
 
 function switchTab(id, btn) {
