@@ -1,21 +1,153 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T11:13:42.963830",
-  "summary": "本周追踪到 30 条AI动态，海外 30 条、国内 0 条。融资事件 1 起。",
+  "generated_ts": "2026-04-29T11:19:21.326922",
+  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 1 条。融资事件 3 起。",
   "top_story": {
-    "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
-    "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
-    "source": "Search Engine Journal",
+    "title": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台 - Infoq.cn",
+    "desc": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台    Infoq.cn",
+    "source": "Infoq.cn",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjZndXNoQWZuajQwUEJLVGNoMjRZZmd4b0tUOVAzVTdNclQ1U1Q5ZFNic2V3TndOLXlnRHlVZmZvRklTQm9GQ2hwOXo5dmZ3ZFlMakpvVEJ2R2VZMjZ3aXducFBhQm16WnBPOEx5MHBXTXlUUDMtSUhycnZCWjN1YlFRbExyMXVmbi15SDJIRnlFcEdhTzdZX2JJU3M?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RllJSl9FWkxTTE1wQWhmRmU1U09kbUVyMmlCWF8xdHZLTkFRQnczNXlXbm13NFdLek1PMk9RbldZS3pSdThsSzY1V1BHam9FeHhjbWFJN0RPdw?oc=5"
   },
   "metrics": {
-    "events_count": 30,
-    "china_count": 0,
+    "events_count": 53,
+    "china_count": 23,
     "overseas_count": 30,
-    "funding_count": 1
+    "funding_count": 3
   },
   "events": [
+    {
+      "title": "DeepSeek内测识图模式，中国头部模型公司全员“睁眼” - 观察者",
+      "desc": "DeepSeek内测识图模式，中国头部模型公司全员“睁眼”    观察者",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YaG0yaHdLYmpid1IxQkxWY0JwQUZoNlJXZHF0NWF0dUhyX3hHWkhkX29EeWFEWkloZ20wYnAzMUdYZnFEejd4QUFnNzhNM3FOSGR3bUgxZm5GYXZMZHVPakc5VGc?oc=5",
+      "source": "观察者",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "DeepSeek"
+    },
+    {
+      "title": "LCA：DeepSeek 长文本加速神器90% KV 缓存缩减+ 2.5 倍推理提速|注意力机制|Qwen|上下文|模型|向量_手机新浪网 - 新浪财经",
+      "desc": "LCA：DeepSeek 长文本加速神器90% KV 缓存缩减+ 2.5 倍推理提速|注意力机制|Qwen|上下文|模型|向量_手机新浪网    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVVIaUdrNmZuaXRUY0F4SkYzVEY3SFExT2NRenpoTl82QWstcjlmVUNCUWxicEZtc1U2aXBaWFozYU9nU2hGVmEzendFUXdRbzF2ZjBOTFdLR1dzMUl2eDVEMWpsN3B0VFpBSWdoM2JwN2ctaWQ0aWFQampZRlFfWVY2Q0pYQTlRN2o2RDZRRllGS2o5eEQ0UnRBMXQyVm03RGRVS0VCZHJHSzZxc0VpZjFKLTNGT29ENWh3Vw?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "DeepSeek"
+    },
+    {
+      "title": "《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.HK)、阿里(09988.HK)入选 - AASTOCKS.com",
+      "desc": "《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.HK)、阿里(09988.HK)入选    AASTOCKS.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CQ0xPb1J6M2ZuLUttTF8yQWx2eEUta19PcG50a0l0TE9Rb09yYndZYnNsTGozN2NqV25FSVFDS3Z3T1h5Rjl4YVZnMDJUbkpnQnlCaVJyRVVjYjRwSTcwYjBJdE5hRFZoUEtLeVdEQQ?oc=5",
+      "source": "AASTOCKS.com",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "字节豆包"
+    },
+    {
+      "title": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台 - Infoq.cn",
+      "desc": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台    Infoq.cn",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RllJSl9FWkxTTE1wQWhmRmU1U09kbUVyMmlCWF8xdHZLTkFRQnczNXlXbm13NFdLek1PMk9RbldZS3pSdThsSzY1V1BHam9FeHhjbWFJN0RPdw?oc=5",
+      "source": "Infoq.cn",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "high",
+      "hot": true,
+      "_query": "百度文心"
+    },
+    {
+      "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」 - 智源社区",
+      "desc": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」    智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16bURtWDNrc1VJZzZFYWhGWGlvRVhJZUtmS2RuV09EQzRhZWtyUk93THJBQm95ZGFZR19LZHFHcmczQU16aURKcg?oc=5",
+      "source": "智源社区",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "百度文心"
+    },
+    {
+      "title": "腾讯多款 Agent 智能体亮相 2026 数字中国建设峰会，混元 Hy3 preview 语言模型同步迎来展会首秀 - 手机新浪网",
+      "desc": "腾讯多款 Agent 智能体亮相 2026 数字中国建设峰会，混元 Hy3 preview 语言模型同步迎来展会首秀    手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdnBTSXJPNzFMX2xzeU10Q0JSMzJHTy1nM3gyMFhtUVNOb0E0ajdUUHFJeDI0QnFJS1owd2VRZVF0RVluUnJQaVJVVk1EN3pPTXNXYVlkUjhlRjEtV0tJOTRrOTMzQ1dqdC03LVFVa1RYRl8zRGVkel80elFCNDFONDRfWXM2Y25fbjFXQzByalpjamFWdDhtNGpFbTlkYXJJT0NoTmdCb2xobThpMVFSUGtYQ21Sc0kzWFlYXzByZ3EzRTV0bkRnNVRtb1pxWWpTeXQ2VUdOQzA5TVA3MU85OENPVWVDRUtVUktKVG5MbFJDUEw1NXdmMWNHZFI3NXhZSUNyUkZ3dXJlaEY4SC1WbG9n?oc=5",
+      "source": "手机新浪网",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "腾讯混元"
+    },
+    {
+      "title": "腾讯开源的这款手机端侧模型，剑指离线翻译场景 - 华尔街见闻",
+      "desc": "腾讯开源的这款手机端侧模型，剑指离线翻译场景    华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zVmZhMWdlN1ZtMDZEZ1FzMWxGWC1rMm5iUUp4U3RObWVpaXRmVVJDcEVQcWF0VDFsLXJZM05wWnpRQ0pUQXE2UndTZ2JNRzVvTERV?oc=5",
+      "source": "华尔街见闻",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "腾讯混元"
+    },
+    {
+      "title": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻 - 白鲸出海",
+      "desc": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻    白鲸出海",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CODhPVHM0OGxOTkVsZ0liSEJMVk9qV1Jza1diUENjVmNPZktYdFpLNXAwaGU1cGZMTFEzdWRkaFFkNEo4amYza2k3V3pBaFlRLW01cGRhQjY?oc=5",
+      "source": "白鲸出海",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "product",
+      "impact": "mid",
+      "hot": false,
+      "_query": "国内AI动态"
+    },
+    {
+      "title": "中国科学院发布“磐石100”模型体系 - 新华网",
+      "desc": "中国科学院发布“磐石100”模型体系    新华网",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZHB3SExFNTAwNjhMbDB1V2tKcHJFM0lNZnZIYVNjZEtRSkg0QVZoRE4tUEM0Wk1lUDBhSDVKcEZibTBEaV9FMFJCMGdoc0lSZlFwQ0NidXdFM0RQMHI2NjU3UlR1azFRYnNMVDBjUUJxYVpzV09N?oc=5",
+      "source": "新华网",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "大模型发布"
+    },
+    {
+      "title": "服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.com",
+      "desc": "服务国家重大空天战略，“磐石·临空”学科领域大模型发布    jfdaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wWV9HbXlneHhQT0ZDaUNDSDl6eHVRNTJtQk56d1J5TnRvR3hrUlgtY0liOTJQMDgtZFEtN3FrYk5fSDlEc1NMVEtnN1RiTzVNRDVTYXVON3lSUQ?oc=5",
+      "source": "jfdaily.com",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "大模型发布"
+    },
+    {
+      "title": "算力格局迭代升级，国产CPU产业景气度持续上行，科创芯片ETF博时(588990)跌幅持续收窄 - 新浪财经",
+      "desc": "算力格局迭代升级，国产CPU产业景气度持续上行，科创芯片ETF博时(588990)跌幅持续收窄    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qTXRIZWJRUHFfb0FFX0pxSzZ6NklkLU9wSW1SUFhLc1dtNUZVRVRWQk1LT2gwdV9LRk9mRjZwaUFfc3JCMlFqaGQ3M0hmTkJZLUNJQTFYU3pYMFEwZDY1cEV2UlNXY01DOFg0VU0yTExHdENvU2d1Ug?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "infra",
+      "impact": "low",
+      "hot": false,
+      "_query": "AI芯片算力"
+    },
     {
       "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
       "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
@@ -25,7 +157,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "OpenAI ends MS exclusivity, brings GPT to AWS Bedrock to expand enterprise reach - CHOSUNBIZ - Chosunbiz",
@@ -36,7 +169,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live - EdTech Innovation Hub",
@@ -47,7 +181,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "Sam Altman's compute bet is paying off, but the bill is coming - Business Insider",
@@ -58,7 +193,8 @@
       "date": "2026-04-29",
       "type": "product",
       "impact": "low",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "Our commitment to community safety - OpenAI",
@@ -69,7 +205,8 @@
       "date": "2026-04-29",
       "type": "product",
       "impact": "low",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "OpenAI Brings GPT-5.5 & Codex to AWS as Microsoft Exclusivity Ends - Analytics India Magazine",
@@ -80,7 +217,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "Is the Prompt Outdated? GPT-5.5 Boasts Intuition, AI Takes Over Automatically with Specified Targets - eu.36kr.com",
@@ -91,7 +229,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "OpenAI ChatGPT Ads Manager Launches: New Tool Reshapes AI Advertising for U.S. Marketers Amid $100M - AD HOC NEWS",
@@ -102,7 +241,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "Blender CEO Addresses Funding From Claude AI Creator Anthropic - 80 Level",
@@ -113,7 +253,8 @@
       "date": "2026-04-29",
       "type": "funding",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude - Bloomberg.com",
@@ -124,7 +265,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says - Reuters",
@@ -135,7 +277,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Startup Founder Claims Claude AI Agent Wiped Company's Database In Just \"9 Seconds\" - NDTV",
@@ -146,7 +289,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic Expands Claude Into Animation Pipelines With Blender, Autodesk, Adobe - Cartoon Brew",
@@ -157,7 +301,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Claude gets creative: Anthropic launches connectors for Adobe, Blender, and more - RedShark News",
@@ -168,7 +313,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Goldman Sachs withdraws Anthropic AI access for Hong Kong bankers, report says - Private Banker International",
@@ -179,7 +325,20 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "Anthropic’s Claude Wiped a Company's Database, Then Told on Itself - Yahoo Tech",
+      "desc": "Anthropic’s Claude Wiped a Company's Database, Then Told on Itself    Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFJwaG1wSTM2YVI5Zmp0OGpJUTFEUkhYZEZxeGpOWlhlWmVodGtkc3ZTVThyRGpXZW5EX3h5N1JfVlZodUp0SkpQWVlXLTVrS0cxZHRDTFVIZl9NT2xsTXY0UHVZdDA4VS0tMlp2MWVVSHgzTkdZUThDQmtkV1g4Sl9fMlJsdnRRdUpiZGZYUTBjOEJFTWlvZ3pzY2daQQ?oc=5",
+      "source": "Yahoo Tech",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Claude can now be plugged into Ableton to assist with your music projects - MusicTech",
@@ -190,7 +349,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "The Agentic AI Revolution is Here: Anthropic Announces Partnerships With Adobe, Autodesk, Blender, and More - No Film School",
@@ -201,7 +361,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "AI developer Anthropic becomes Blender’s latest Corporate Patron - CG Channel",
@@ -212,18 +373,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says By Reuters - Investing.com",
-      "desc": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says By Reuters    Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0NrY3h6WGt0cW1nM0dGZmNNYWg2RFdEeEZWQ25TQ2NOeVJkRXA4U3VybUZSYUloNE5waEdqZml5RjBWemt5VENFdXQ3aGZWTG94Snc4QklHTnpEZ0FZVXVvN2NwWmgwWjIzelo1Zi16TGxWYzl3NUdCLURkcVJFSEF4ZWVuaDNDc3dJZkw1eVU0b2ZreVRKZ1lFbkQ3a01aei1zb1o4TFZIZE9wQmx0eWtfNVRoRlRvdlFPNnJjNnUtdXNX?oc=5",
-      "source": "Investing.com",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "What Happens When Claude Learns to Speak Ableton? - The Groove Cartel",
@@ -234,7 +385,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender - iClarified",
@@ -245,7 +397,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more - India Today",
@@ -256,7 +409,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Mythos effect: Trump administration seeks to end Pentagon's AI standoff, reinstate Anthropic's Claude, says report - Mint",
@@ -267,7 +421,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI - FXLeaders",
@@ -278,7 +433,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic's AI agents spark debate over business risk - IT Brief UK",
@@ -289,7 +445,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Goldman Sachs blocks Anthropic Claude in Hong Kong as AI tension between US and China rises - India Today",
@@ -300,7 +457,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk - Gadgets 360",
@@ -311,7 +469,8 @@
       "date": "2026-04-29",
       "type": "china",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude - Latest news from Azerbaijan",
@@ -322,7 +481,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works - Mint",
@@ -333,7 +493,8 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows - MobiGyaan",
@@ -344,25 +505,174 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
-      "hot": false
+      "hot": false,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法 - 36kr.com",
+      "desc": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法    36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTbGV4R1VaY2ZhVUdPdnFQc1ZvWkp3ZmpXTi1FZUx2VzBhWnJycGZEQWxXRzVLd1VPdjZScUFHN3NnMTdlMTJWR0prYWRpdw?oc=5",
+      "source": "36kr.com",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "字节豆包"
+    },
+    {
+      "title": "8大国产AI芯片火速适配DeepSeek-V4！华为百度阿里全吻上来了 - 凤凰网科技",
+      "desc": "8大国产AI芯片火速适配DeepSeek-V4！华为百度阿里全吻上来了    凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yYU0xSVZOMnZ6SGo3TVF4d2hvdnQ5dVJQWTZxRWdaNGNoc3R1RW9BX05hN1liUjFPMmpvWndXSm8xYnp0RmRQMEMwamI?oc=5",
+      "source": "凤凰网科技",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false,
+      "_query": "华为昇腾"
+    },
+    {
+      "title": "DeepSeek联手华为，黄仁勋最担心的事发生了 - 新浪财经",
+      "desc": "DeepSeek联手华为，黄仁勋最担心的事发生了    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03RUR4VHI4ZExMdGFiclhEaUNfNnU3TkRaRFhab2RlX05BVk5URUNneVdNYWJZME1FQkF1X3g0MEZNcmVxRFJsQXN6R2lGSFlpUlN3NlRhV2JpQmdSVEh0MThUM2NCMFRUWFlzTzdSUUs0aU9Bb3c?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false,
+      "_query": "华为昇腾"
+    },
+    {
+      "title": "我国叫停Meta收购中国AI企业Manus - 第一财经",
+      "desc": "我国叫停Meta收购中国AI企业Manus    第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR0dvZ3hYOE4zYVNVQ3JmTTdTemFPTDVlS2l1MU54UXRNa1pwTkpaYWV2TG9VZnhjWUp5YnVjaEhOejR5MHgyUHpYNG15NXZQNEtELQ?oc=5",
+      "source": "第一财经",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "product",
+      "impact": "mid",
+      "hot": false,
+      "_query": "国内AI动态"
+    },
+    {
+      "title": "AI周报｜OpenAI获千亿美元融资；台积电市值突破2万亿美元 - 第一财经",
+      "desc": "AI周报｜OpenAI获千亿美元融资；台积电市值突破2万亿美元    第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vaFlReVotcDBQT0Y1QV83bnd4dThGQ1h5UXpILTVFQTVNQkZ0RmFBSDZhX25mR0w3Vm9ZTEZpd2dhQ1dQaGZwZS1wYWZiYlozdkFz?oc=5",
+      "source": "第一财经",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false,
+      "_query": "AI融资投资"
+    },
+    {
+      "title": "华为昇腾适配DeepSeek V4，粤产算力芯片加速商用 - 21财经",
+      "desc": "华为昇腾适配DeepSeek V4，粤产算力芯片加速商用    21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlJjdGtoR1M5NXJ2Z2p0bEJwaDFQS0hEbENmcHMyelF0MEJNYi1iWTZMUkwzcEM5U084VEdWX1piZjhjb1RMQlFONk9tQnRBczcxcnMwTDhfU0EyNGZBRDk3NDhFUXdXQ3A5NllRSzRmeDdaSGZ0Y1VySFdzaEQyR0dtcnZmSEwyV25HNmZQbw?oc=5",
+      "source": "21财经",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false,
+      "_query": "AI芯片算力"
+    },
+    {
+      "title": "大麦娱乐联合阿里通义发布潮玩创作者AI设计平台“妙呀” - 多知网",
+      "desc": "大麦娱乐联合阿里通义发布潮玩创作者AI设计平台“妙呀”    多知网",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EbTVhVVVrQVRUaUpfS01BTnJzVTNaTV9MNkxoT1BGc244cF90SDMtdVVZTm1XemJ4dlFBZU1OZ3QzQ1VTcW0wQmtkamRlakJ0MmY3NWNwQVBkQ0VSNS1fMExTc3NYX2tWVGc?oc=5",
+      "source": "多知网",
+      "region": "china",
+      "date": "2026-04-27",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "阿里通义"
+    },
+    {
+      "title": "盘和林：中国AI“双星共振”，从生态接力到全球回响 - 手机新浪网",
+      "desc": "盘和林：中国AI“双星共振”，从生态接力到全球回响    手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUlFQXZfNWpwTmxZWU5CSXRKYk1sTzVjcWItLWdZakdUNGtFcUI4R0ZPWVlIZ3hFNVIyd0pNcnlhUUxuM3hZeWhubWVkRXdaSUt4TWFrcElJaGZWRFBPUnZoUDRLbnFlQTJIVjZVck9jYlo0Zkpwd3RwaWxZME44T0YyVUd3UTVzQlE?oc=5",
+      "source": "手机新浪网",
+      "region": "china",
+      "date": "2026-04-27",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "月之暗面Kimi"
+    },
+    {
+      "title": "Kimi IPO 前“简历”裸奔——AI 狂飙时代的隐私警钟 - DoNews",
+      "desc": "Kimi IPO 前“简历”裸奔——AI 狂飙时代的隐私警钟    DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ROXVKMUJTRzFfdmRHTzZGeW5tQ1NvQWtMRVkxMmNISURXRXN5R1NXanNUcEJXRVlaZGJmSkRjSmFVT1hseDBLcDg4YlJ3VHp3RzlyRGZHYVpzbENwbjZjeWxaUXo?oc=5",
+      "source": "DoNews",
+      "region": "china",
+      "date": "2026-04-27",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "月之暗面Kimi"
+    },
+    {
+      "title": "一皖企完成超6亿元天使轮融资！由美国企业独家投资 - 凤凰网",
+      "desc": "一皖企完成超6亿元天使轮融资！由美国企业独家投资    凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZYjJaR3hfN1FmYUxEaElhc3NrcGNXd0o4UHZmajh5d0VpY05MT1VfLUdUQnlPc1l1MWdUdlRYZlJNMlp3QXM2OA?oc=5",
+      "source": "凤凰网",
+      "region": "china",
+      "date": "2026-04-27",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false,
+      "_query": "AI融资投资"
+    },
+    {
+      "title": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀” - 东方财富",
+      "desc": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀”    东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91WnByWWFndU1XMEdoWW53VkJEYzM5Uk5sWTFSMDlfRk5ZZHItVmE1TnR0VWowM0xOZDREeTZiS0V6bUdQbXFBNFBQNm9xUGxqX0d1YVpSMXZqOTU1QjJPRWc4LXEwdw?oc=5",
+      "source": "东方财富",
+      "region": "china",
+      "date": "2026-04-23",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "阿里通义"
+    },
+    {
+      "title": "智谱致歉：全额退款+服务延期，运营失误致股价承压 - 雪球",
+      "desc": "智谱致歉：全额退款+服务延期，运营失误致股价承压    雪球",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSXk2dm5ZNDhqRDU3cXZCYVhqSVM2Y3lTdTFOcEI3WmxtMnYtNlk5bFdLQzMzdWx2c2VJcWh3SjRrcUxoNFNzQzF2bVVSZmxw?oc=5",
+      "source": "雪球",
+      "region": "china",
+      "date": "2026-04-23",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "智谱AI"
     }
   ],
   "trends": [
     {
-      "title": "Agent应用",
-      "body": "本周 5 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
+      "title": "国产AI",
+      "body": "本周 10 条相关报道。代表：DeepSeek内测识图模式，中国头部模型公司全员“睁眼” - 观察者；LCA：DeepSeek 长文本加速神器90% KV 缓存缩减+ 2.5 倍推理；《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.。"
     },
     {
       "title": "模型竞争",
-      "body": "本周 2 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；Claude gets creative: Anthropic launches。"
+      "body": "本周 7 条相关报道。代表：百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 ；百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」 - ；中国科学院发布“磐石100”模型体系 - 新华网。"
     },
     {
-      "title": "AI治理",
-      "body": "本周 1 条相关报道。代表：Our commitment to community safety - Ope。"
+      "title": "Agent应用",
+      "body": "本周 6 条相关报道。代表：腾讯多款 Agent 智能体亮相 2026 数字中国建设峰会，混元 Hy3 pr；OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W。"
+    },
+    {
+      "title": "开源生态",
+      "body": "本周 6 条相关报道。代表：腾讯开源的这款手机端侧模型，剑指离线翻译场景 - 华尔街见闻；8大国产AI芯片火速适配DeepSeek-V4！华为百度阿里全吻上来了 - 凤凰；DeepSeek联手华为，黄仁勋最担心的事发生了 - 新浪财经。"
     },
     {
       "title": "企业落地",
-      "body": "本周 1 条相关报道。代表：OpenAI ends MS exclusivity, brings GPT t。"
+      "body": "本周 3 条相关报道。代表：OpenAI ends MS exclusivity, brings GPT t；我国叫停Meta收购中国AI企业Manus - 第一财经；一皖企完成超6亿元天使轮融资！由美国企业独家投资 - 凤凰网。"
     }
   ]
 }
