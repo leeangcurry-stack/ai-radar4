@@ -1,7 +1,7 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T10:49:48.580987",
-  "summary": "本周追踪到 38 条AI动态，海外 30 条、国内 8 条。融资事件 1 起。",
+  "generated_ts": "2026-04-29T10:57:09.776991",
+  "summary": "本周追踪到 40 条AI动态，海外 30 条、国内 10 条。融资事件 1 起。",
   "top_story": {
     "title": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻 - 白鲸出海",
     "desc": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻    白鲸出海",
@@ -10,8 +10,8 @@
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CODhPVHM0OGxOTkVsZ0liSEJMVk9qV1Jza1diUENjVmNPZktYdFpLNXAwaGU1cGZMTFEzdWRkaFFkNEo4amYza2k3V3pBaFlRLW01cGRhQjY?oc=5"
   },
   "metrics": {
-    "events_count": 38,
-    "china_count": 8,
+    "events_count": 40,
+    "china_count": 10,
     "overseas_count": 30,
     "funding_count": 1
   },
@@ -101,6 +101,28 @@
       "region": "china",
       "date": "2026-04-29",
       "type": "china",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "维信诺维擎垂域大模型正式发布 - 搜狐网",
+      "desc": "维信诺维擎垂域大模型正式发布    搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTJLR2RaUzdWSjNlWm1nVVhwMDAydThXYVpDVmlnb1FOa0RtMnc2Z0hBVE8wRE5xa0RZUlJuUUdwZ2I5cjNIdmlkc0JZYmRrODhXMldBRzlnTWFwYkFIbHYzMmpsR0NOaHRUMzM0eFZvellIYUpROW13SmkzeVBDVkdVMUhXTEFU?oc=5",
+      "source": "搜狐网",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "【福州日报】全国首个智慧城市多学科交叉大模型出炉 由福大和超星集团研发，推出七大智能应用 - 福州大学",
+      "desc": "【福州日报】全国首个智慧城市多学科交叉大模型出炉 由福大和超星集团研发，推出七大智能应用    福州大学",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUY1k2OGItOEdTTHFNRGJtVllsNWxCamV0bG83ZTVYV0N5cGV0OEZsandHbXpTUm94azZyTUpHNTVjbXVxbGdwRGJNOHZZRmo4U2U4T2gtNA?oc=5",
+      "source": "福州大学",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "model",
       "impact": "mid",
       "hot": false
     },
@@ -281,6 +303,17 @@
       "hot": false
     },
     {
+      "title": "Claude can now be plugged into Ableton to assist with your music projects - MusicTech",
+      "desc": "Claude can now be plugged into Ableton to assist with your music projects    MusicTech",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVDVwdjZrZkVQT29mWGN5dXljamI3dDZuMG1CT1htZ0c3UzF1bkg5U1MtdUVhcXZUVlJKRW9ybkxlSVlnWWRiOFpQVk9iZ2R4MHYzM3YyZHVsYW52YmVlMTI1OXRVeF85czNsUU9DOXhVYmdkaFY4cDQ5V1prSFNMNw?oc=5",
+      "source": "MusicTech",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
       "title": "The Agentic AI Revolution is Here: Anthropic Announces Partnerships With Adobe, Autodesk, Blender, and More - No Film School",
       "desc": "The Agentic AI Revolution is Here: Anthropic Announces Partnerships With Adobe, Autodesk, Blender, and More    No Film School",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rRXAxWkduWVBWV3ppeERhS2xUSjNiWWlVZTRUcDlCT0R4UE1XM2lRejkxaGtKcDFzeE9TeWRxUGpveUs4RUlVamlGbE5DMUtmRmhkS19rcGlsVVY2am02Z2dITmhPVFVHX2RZc0x0TQ?oc=5",
@@ -303,17 +336,6 @@
       "hot": false
     },
     {
-      "title": "What Happens When Claude Learns to Speak Ableton? - The Groove Cartel",
-      "desc": "What Happens When Claude Learns to Speak Ableton?    The Groove Cartel",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyS0VKZEs4b2o3YWZDNGtqNGFQYVNzZVZlLXgwYl94czVuVF8wNDZwaFhjT29xOFJucG9OUWtTT0dtd19pRVYxSXBMUGJlWUNudW4xMlM1aDVSZGhzcDE2MzBmWmhwVDQ2WXpMa0RTaE94NURn?oc=5",
-      "source": "The Groove Cartel",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
       "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says By Reuters - Investing.com",
       "desc": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says By Reuters    Investing.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0NrY3h6WGt0cW1nM0dGZmNNYWg2RFdEeEZWQ25TQ2NOeVJkRXA4U3VybUZSYUloNE5waEdqZml5RjBWemt5VENFdXQ3aGZWTG94Snc4QklHTnpEZ0FZVXVvN2NwWmgwWjIzelo1Zi16TGxWYzl3NUdCLURkcVJFSEF4ZWVuaDNDc3dJZkw1eVU0b2ZreVRKZ1lFbkQ3a01aei1zb1o4TFZIZE9wQmx0eWtfNVRoRlRvdlFPNnJjNnUtdXNX?oc=5",
@@ -322,6 +344,17 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "What Happens When Claude Learns to Speak Ableton? - The Groove Cartel",
+      "desc": "What Happens When Claude Learns to Speak Ableton?    The Groove Cartel",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyS0VKZEs4b2o3YWZDNGtqNGFQYVNzZVZlLXgwYl94czVuVF8wNDZwaFhjT29xOFJucG9OUWtTT0dtd19pRVYxSXBMUGJlWUNudW4xMlM1aDVSZGhzcDE2MzBmWmhwVDQ2WXpMa0RTaE94NURn?oc=5",
+      "source": "The Groove Cartel",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
       "hot": false
     },
     {
@@ -422,27 +455,16 @@
       "type": "model",
       "impact": "mid",
       "hot": false
-    },
-    {
-      "title": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows - MobiGyaan",
-      "desc": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows    MobiGyaan",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUJfaGhNZ1Q3QlpzOUM3cm4xbUgtVkVkX2xkYUdlQWVXX1VTYVd5UlJ0WUY0VTZiTHFBeWRVTHh2ZWtFZzBZT1YtMHQtMUM2Q1pkSzdxRlViQnFVc1dqMEdfWlp5ak9lQ3VRX2pNblllVnFhUFl2OWVwWnlQN2hsQ1RVYkcyYi1I?oc=5",
-      "source": "MobiGyaan",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
     }
   ],
   "trends": [
     {
       "title": "模型竞争",
-      "body": "本周 10 条相关报道。代表：中国科学院发布“磐石100”模型体系 - 新华网；服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.co；效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计。"
+      "body": "本周 11 条相关报道。代表：中国科学院发布“磐石100”模型体系 - 新华网；服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.co；效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计。"
     },
     {
       "title": "Agent应用",
-      "body": "本周 6 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
+      "body": "本周 5 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
     },
     {
       "title": "AI治理",
