@@ -1,32 +1,21 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T02:19:36.578447",
-  "summary": "本周追踪到 40 条AI动态，海外 34 条、国内 6 条。高影响事件 1 条。融资事件 1 起。",
+  "generated_ts": "2026-04-29T09:24:30.679438",
+  "summary": "本周追踪到 40 条AI动态，海外 40 条、国内 0 条。融资事件 2 起。",
   "top_story": {
-    "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek - Infoq.cn",
-    "desc": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek    Infoq.cn",
-    "source": "Infoq.cn",
+    "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
+    "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
+    "source": "Search Engine Journal",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUUpMMjZWcXpXUDhZZWZpQVJYeHJMdnFueFZWS0dPbXR3ZGhUdzlBeVNXMjJpY0ZVUjV0RUxNSVJ3S1F5WkV6UzdKMk5BU3h5WXRoQmpPaE9yZw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjZndXNoQWZuajQwUEJLVGNoMjRZZmd4b0tUOVAzVTdNclQ1U1Q5ZFNic2V3TndOLXlnRHlVZmZvRklTQm9GQ2hwOXo5dmZ3ZFlMakpvVEJ2R2VZMjZ3aXducFBhQm16WnBPOEx5MHBXTXlUUDMtSUhycnZCWjN1YlFRbExyMXVmbi15SDJIRnlFcEdhTzdZX2JJU3M?oc=5"
   },
   "metrics": {
     "events_count": 40,
-    "china_count": 6,
-    "overseas_count": 34,
-    "funding_count": 1
+    "china_count": 0,
+    "overseas_count": 40,
+    "funding_count": 2
   },
   "events": [
-    {
-      "title": "Our commitment to community safety - OpenAI",
-      "desc": "Our commitment to community safety    OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42LVhacWVMekxvZDJxS1BJMUg3V2lEN3FfSHd2S2FQbU5TQk5OcER0TmZ4TTBkcmp5TllSaEZQVVVJaGVLd2JRNDJSbTQtZm1RQTg5OVl0aUViMXA2WnBEclRmYjlXN3FnYkdJ?oc=5",
-      "source": "OpenAI",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "low",
-      "hot": false
-    },
     {
       "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
       "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
@@ -39,10 +28,131 @@
       "hot": false
     },
     {
-      "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude - Bloomberg",
-      "desc": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude    Bloomberg",
+      "title": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live - EdTech Innovation Hub",
+      "desc": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live    EdTech Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3QxbHJjbWRXZ0ZNWk1oa1IyQjBPTTBKekNfSmdwX2E5enRTdFNTMGVXeE93SjlaTVRlemxZNXNob0h4YV92UkdRLU9EWDl5QWFJcjMzTmdMSERDNnRHeHNpZjBCZlFPQ0xKTFJEUlNCUFJyMDlleTh1ajhZUy1keEtQNXIwY3hzWGotNjlnYlM2alEtelVQcUYyY0lJSGxYeGRON2YteENFUFJIOWw0Z2gwcWhpYVlmYU9oUGhkWGNfNEQzY3JDZ2NzT05xSHc?oc=5",
+      "source": "EdTech Innovation Hub",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Our commitment to community safety - OpenAI",
+      "desc": "Our commitment to community safety    OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dmFVRVlSX1Bya0hINnNGTlZZTktuTjF5UHhaZ05iYjg5SmZCaXVrdVlEQW9tUDFfckE4M25YcWFSOUhjbmpxSHNtTEFLdVo4ckN5OVRraXN4YTA2c05GeVFMVjN3VExDWS1FTw?oc=5",
+      "source": "OpenAI",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "product",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Sam Altman's compute bet is paying off, but the bill is coming - Business Insider",
+      "desc": "Sam Altman's compute bet is paying off, but the bill is coming    Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDVjendaY2hIZlI4clMyN19MZ0xGX1BLMnM3bGhjU1F5OHRDTXJxNWpISWtHVkNPaVNzZzhHcGJ1a0JodUFNQWRTbzZVcm5YLUJnbnoySlpQOTktMFNwV3dEQnBMV3pySlY0dHpvbVMyTnVNZGZHeElXQnJYUG1lbmF4enI3bHpwNkVkQzNQbDJzZ0RkNTEyY2VWOA?oc=5",
+      "source": "Business Insider",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "product",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "OpenAI Brings GPT-5.5 & Codex to AWS as Microsoft Exclusivity Ends - Analytics India Magazine",
+      "desc": "OpenAI Brings GPT-5.5 & Codex to AWS as Microsoft Exclusivity Ends    Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnVJdkdoSTFwZlBFdTJjZkUyYkNuS1VsQTlZSm9kMGM3bXpRNklxVVJkOGR5UDB2NkI3Zi1GekdVak1lNjFQYmRQTG5tTWNwN3dZLUFVZHpTdjh4dXItOERMeE1rRWpzWDBIUzROMVdxdEliWFBlTHBYdXdTcVJ4andVN3dRZm9UTGlubEhJVFJSU0lPcnFFTUtvbURrQWtIenJR?oc=5",
+      "source": "Analytics India Magazine",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "OpenAI ends MS exclusivity, brings GPT to AWS Bedrock to expand enterprise reach - CHOSUNBIZ - Chosunbiz",
+      "desc": "OpenAI ends MS exclusivity, brings GPT to AWS Bedrock to expand enterprise reach - CHOSUNBIZ    Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MSWN6dUQwWHNYeG9NU1VocEVJOWVqaUNFWGVNRHdGT1luT2h4c2xIc08tenF6UzF0WEpqLUNQMkhhNkcxVHZSZ3gzdFNIQlgwMmktcHlkb0xYQ2ZYMlpXTGpYU2ZJT251WlYySHJ0NlNxS0wwejM5ZFhn0gGOAUFVX3lxTE9QMzhwN3hxeEZFSUpjLU9pRDNnVlBvQXNyWTFLZTRmeWVRVnA5OGdxN1Z1X0pfMS13bUt3V3BjbG5YSjZvVlZfNS1fZGRqbTh2aDFTTGg3N25JZjNuY1A2THlBQVJfSmVTd0kzM3dvWHh4TFRSRGxBbndnUVVTaWU5OXZKVzJITE1CdWVOZFE?oc=5",
+      "source": "Chosunbiz",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Manager Launches: New Tool Reshapes AI Advertising for U.S. Marketers Amid $100M - AD HOC NEWS",
+      "desc": "OpenAI ChatGPT Ads Manager Launches: New Tool Reshapes AI Advertising for U.S. Marketers Amid $100M    AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUF94SXpVdmFiRUFUZ2hSTXh1VUNrOE9mN3Nzd1BwNFYwN0NQX3BSdXlPcDE1ZEIzMnFKZEVsQU5QQjkzXzRDWlM2YUJIU2hBcVRkcnpvQ01rN3F6Z0x2aV9aZ2hzVFBmQmFOOU1ibVFRZzJhVWp3dFhycFlOUUhYRFluMjZqdFBGSmhLSEZnc2ZScXliSTJocTJIbmRvSnlUazVTM25rV1JRdjFRMlVSVlhhU2NSQzhFR3JxM3BoaHROQmYzT1FMM1ViNA?oc=5",
+      "source": "AD HOC NEWS",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer - AD HOC NEWS",
+      "desc": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer    AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVVKSURJNUNDY0NUbHEtSGRCNGl3Vjh3LVRDbjlia28wbjdIOFpGZWJUUjEtVkdsZFRObWxRYUFpWktEWjhIMEh4V211a2FlNFVFOVpzN3YxVDdiM0I1S3Ztd3VuOE95c2JLVy05WWwybWpXb1BUa3YyZDRWTmpua2dnck9IemhqX3BHc2JxeGZUcU9YejBJVW9YWW5KQUVhMmZYcjZqdTI1cU1GazZnV1RJWUs2NG5SUThGT2IwZ29HdTg?oc=5",
+      "source": "AD HOC NEWS",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Manager Launches Amid $100 Million Revenue Milestone – What U.S. Marketers Need - AD HOC NEWS",
+      "desc": "OpenAI ChatGPT Ads Manager Launches Amid $100 Million Revenue Milestone – What U.S. Marketers Need    AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORVdOS2V1aURDYkdIZVZHdEllWHVnc2l5cHduQnFDUGtBNlExNUdmbUJoZGhnYWl5ZTB3MFJFNWVud1ljbmpXQkRHbi1OTW5LVlFZbVd2R21MeVV1ejdDVjFLQlBJWDl4QTB3UVZjTk9TVlh6cGNxcEoteGhvZzZvTEhtYU9jZkZHb2liUFdBWUdnWTZrTm91bXREbjM0U1JqakhEU3lJcVZVdUM3Ujc4a2ltZTYwZEJabE1KdVh1UHp1UldEcjg4Sw?oc=5",
+      "source": "AD HOC NEWS",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude - Bloomberg.com",
+      "desc": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude    Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1hfcHpmbWtKcVdnZG1nS1JnNktSRnFnOTd0ZDhkakxaQmJjb1NMbjl1aTRFdlJvUXFrb2djdU5LeWVNYVNuUWFCYmJPZTY3M2RPdllkSWJqNDMyUTdXZUI4aHhjRTl0SGZ1anRsV1B3OHJOWEk4M3BoaGZHRmMyZ2RyS3I0enJqTnFsTDV1THF4YmRlWktnOF93dFBxeDk1cDB3OFlHUk9GN1JFWHZrcQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says - Reuters",
+      "desc": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says    Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
+      "source": "Reuters",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Startup Founder Claims Claude AI Agent Wiped Company's Database In Just \"9 Seconds\" - NDTV",
+      "desc": "Startup Founder Claims Claude AI Agent Wiped Company's Database In Just \"9 Seconds\"    NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFRLYkpLcFRqSVBfdVlPYlBHRGhSVlRiN2lJVnFldXVrTmpaXzR2UTFiN0dld09LbG4zT1NyYUZhZThZcDdYYXNHc3dxNTlmX29Ia3g2MU84TWNwY3hXQ2MyNFQyNlN0cUFGbVNfZWZYYjdmVV92U2xoRDNvZHlSRlo2SllfZHJIMy1lWDRSb251eGQwYzBZWkk1NnFlZnFPMEhXbmprRWZKSTVfU1h6ajZhM1BrRDBrbHfSAcIBQVVfeXFMTTFFWU84QkRrdHp1OGVXdUpaQm16SUF3ekQ2YXVGU19McjdIZ1FHZTZsZ2pMdFhxWFUyUEpMTS1XTkhhVzM1aldfei1qeVYzQjE4SVVXczRUWnU5RjdFZTVFSjVrenpNZWlZZFdoU3JXNnNUUUtqYXV6cW9uaTdQR0NmRGV3WjNUWGRwRTJmaUlUX0hfell6UG5iZWkxNFRTejFTMnZKVjMwbnRkeDNzbDNLeDBFSy1MdExuRVBkMEl4V3c?oc=5",
+      "source": "NDTV",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Claude AI Targets Animation Pipelines, Anthropic Backs Blender - Cartoon Brew",
+      "desc": "Claude AI Targets Animation Pipelines, Anthropic Backs Blender    Cartoon Brew",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE1yUFp2cE41aEFXZTEtMERJcFdlWFV6WWtlM2NHaGUtVGt4cldWekhXaHZrWHBqWWFBbzJBdk9xMndYbzJNNlRTaUFnVDBVNGVoME9ieC1Fb3NINFFoaFJGRDJZWUpQVmg2V2NLWGR5OU84Z1VydVZyWlp5TEU3UzhKQTlpWDZaX3lEMEFEcFZZM21QTHc?oc=5",
+      "source": "Cartoon Brew",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -61,10 +171,32 @@
       "hot": false
     },
     {
-      "title": "Goldman Cut Off Anthropic’s Claude For Bankers In Hong Kong - Finimize",
-      "desc": "Goldman Cut Off Anthropic’s Claude For Bankers In Hong Kong    Finimize",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0tidFBnOXBnWlNoQk5xOG5rZjVtM0hRVk9PcndjOHVSMGRtOXN0eUtYd2o1SnRYbGRFRGZQdm1SN0JPdnhsNTB0QWUzbzhiMWs4dG52Q3RnVmI3V09wempZa2RRVkxVbGt5bFBkSFE0bGRVNGFUN2hjc1E3MjJRRGZjVzJsbHI2OC1vdHhoMGY?oc=5",
-      "source": "Finimize",
+      "title": "Goldman Sachs withdraws Anthropic AI access for Hong Kong bankers, report says - Private Banker International",
+      "desc": "Goldman Sachs withdraws Anthropic AI access for Hong Kong bankers, report says    Private Banker International",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS25TYmttNWs0eVBhTV9uMDQ2Q0ZHbmtWTnNZZk1DdGRheFlZbTB0M054azAyVVlaemxDZjQzdkZYb2lDMENkekFKcWFzcVV4Mk4zNXFWX3VYTVRBbTlxVmQ3UUNyMzlFc01pR2tSU0paUjN1c0huYWowQnFEY3A0QnA5N0dfMU1pQk5OM2V0T3dwYWlWXzFLQUpqcldOZWJFMW9BWQ?oc=5",
+      "source": "Private Banker International",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "AI developer Anthropic becomes Blender’s latest Corporate Patron - CG Channel",
+      "desc": "AI developer Anthropic becomes Blender’s latest Corporate Patron    CG Channel",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmFsRUx6NHZ5SFBaZFN3TzRRVnFtQXFwbmZNSmlGczQ2dGd5OHhpcUtxX3J4R09hREhnTnVlRjgtWllGS0pSWUFxRnhDYmxEZmpkVENmd1VpbV91c3EwRmNtVkpjeWNlN3pIN0VsUE9OcUdBOExibC1yWjNfS3RBUjVFVl8tcWJ1MjhZV25ZemZkSkkxamt4alVleVgtSTQ?oc=5",
+      "source": "CG Channel",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "What Happens When Claude Learns to Speak Ableton? - The Groove Cartel",
+      "desc": "What Happens When Claude Learns to Speak Ableton?    The Groove Cartel",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyS0VKZEs4b2o3YWZDNGtqNGFQYVNzZVZlLXgwYl94czVuVF8wNDZwaFhjT29xOFJucG9OUWtTT0dtd19pRVYxSXBMUGJlWUNudW4xMlM1aDVSZGhzcDE2MzBmWmhwVDQ2WXpMa0RTaE94NURn?oc=5",
+      "source": "The Groove Cartel",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -72,13 +204,211 @@
       "hot": false
     },
     {
-      "title": "Adobe Integrates Creative Cloud Tools into Anthropic Claude - Let's Data Science",
-      "desc": "Adobe Integrates Creative Cloud Tools into Anthropic Claude    Let's Data Science",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJ4YVNfLWQyWlJ3VTJWczR3M3BTNWQyMnJRU1B0c3g4aW1JeldXS1VLMF9qS0wybGs0TWkySFJEVHk5dnlMNlBoTVZ0bXFDX2d2MHNyVGV4ZTVlVFlsOVFtdlQ4N2s0eXNJa251OEp2SWNvT2MyUXZJbzR4M0s3bm50bHZZODhTSHM0dlZwTllUVGV1ZU9kOGI4WmdZX0szNzdv?oc=5",
+      "title": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more - India Today",
+      "desc": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeG1zV2taQ0FhOWV0OE9oa0RYaW1DRzE3S05ORkNVcG1sMThxdnJtV3VGV0hUY3Axa1Q4c1FjT2dTUTZFOWtWMnB1ZGt5M0RpVzRkckptdkZ3bjFrM3FycTIwUU9OY3pTTFlNaVpxVTdDS3BidmJsbVhic0N5RDhtT2tQeEQtT2NIdzdaWU5zenBqblJGSk9xUXVhd1drYVdzYXZzRkhmb3hvSTVrWGxzSHVCU3EtTE15dGtMQ2hGR3RkekRrREFfOWVaUFEzdmU2bFNMTW9vT05TMldBNG1iNlpXS0t3dDVpT1NscVNVWklLTFo2UXfSAfsBQVVfeXFMUExzUHJ4RDRWMEJURjBvVldxU3JPWk92b1N2OVRSSndFQWY4ejhGRkhKa0Z3SndPNHZFVVRYN1JPUWxNUi1va19nUWpyM2x1dkNkQkdOWk9YeFhwRkdzRHo2cGEzQkpLQnVYV1N3MkE0Wm41R21MY0ZRdEl4cExFZV84cEtpM2V0VFpQajh4T2p1QWRSR1M3SnppRzVST2k5TkEtOXlxN00tRWJUVDROdlNsVE9rVDk5bjNnQk1IR3Nkb3RrbkVoYmFWeUVtcGMyQnBHWmtINlpuMmlUQ2NUb0dNWlZ3S1EzeTJYUjJoQ1R5NFdPZWYzd2NhZEU?oc=5",
+      "source": "India Today",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Mythos effect: Trump administration seeks to end Pentagon's AI standoff, reinstate Anthropic's Claude, says report - Mint",
+      "desc": "Mythos effect: Trump administration seeks to end Pentagon's AI standoff, reinstate Anthropic's Claude, says report    Mint",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOUlqWWhQaHY3RVhUaGt2aFVobFhYS2VmbXFzaE1xYTN0cTVPTndiTjhPVXVMNjFFTVJHcUdHd3pNMmdJLVh3cnJESDFKaE9oMWdCTGJPaXdsYjZlWWxST0VwMlVkWTBMT0NwNm9IVHBfdElvMW1DcjgwR3d4Z2E5YjdJdG1SNnJfUzl2N3BQaTlkMGU5eV9tN3BEc0tneDE1WG12TW1uYndROGp6Ti02Z0FkcmstZ2tnTnlURFlFTXppWnQ3d2UzOUdZamJIZjRZWmZPeFhYY0RQVVNTTl9OQmw4SlZGRU01Ml8wM1RsME9NbkhkbE1vcU12QVYwWWRIQWhzeUlB0gGLAkFVX3lxTFBPbWItMDctRXlxV2N0V2l6Wk0zYTVaVG5rX05wSGVKWkJuX3RJYlNISktfci1ENjlIWWpmdzJUVG5Lclh0WVdYa2JEMW56UjZNTXFacXZKOUh5clFmZTVGMjdKWVVJTTdSSGtYLWNRY2dZTEh5X01HdFNHOUhNSlIwMDZUUHVsRnFnaEtsekFhb21RQXA4VmQ4XzF3azlKdjdZVkJTX1RoOFpNa2RJRjN3bXAwZVpIMnJNcjA1c2RQU3Q1aUlmTmtpZHU2UWhMN0xMUGtxSlJvbjJqS3JlLVBNX1IyYXk1V0JRQ1NXbmhvY2dsTGF1MWdBcGRFMXVEMU5qSTJFTDFfdXphQQ?oc=5",
+      "source": "Mint",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender - iClarified",
+      "desc": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender    iClarified",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnVjUmVIbTBjN2VjLVUxLUhJSmRNYjFTTEM0N0RKRmdTSUFNVDJFTDBGZ0x2azc4ekhqakl4bmUxOXFUVTFCSUZtWmJtS3AwU28zekpBMk1mejZ5b1lEaWtMTXJUY1RkR0NwNUdhQ3R1OC1mczNRT041bnA5azIyUEFVTlRGZGZUSmY5TG5VR1JmZElVTUo1ZjhVVlJLUlRSZFBR?oc=5",
+      "source": "iClarified",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Anthropic's AI agents spark debate over business risk - IT Brief UK",
+      "desc": "Anthropic's AI agents spark debate over business risk    IT Brief UK",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkxXdTNYMVE4dXNVLXpnVDJOd09vM003RnhXSVRrcVVlblZKVU1yYlQwWEtjUjdZX280UVl4TnpWTm1jWUM3UUIybHd3OGMxZ3dMNXRSTkdCODJqZ0huREdyWTZMUVMweXBjMmpuV1VtNVYzMFcyVExGUW0zaEhLTlRaMVYyTmdF?oc=5",
+      "source": "IT Brief UK",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Goldman Sachs blocks Anthropic Claude in Hong Kong as AI tension between US and China rises - India Today",
+      "desc": "Goldman Sachs blocks Anthropic Claude in Hong Kong as AI tension between US and China rises    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd25CUzJiVkNENnhrUjJnVldYT0RPdzRfeVpQdmJOTExfWnE0YmtwOGpOdlRfX2swOHFodTBfSmRycUlYNG9QRWdLQkJIU2tiOTJmVFdPTklZUVY3RTdkamNIZWlMYXhaOUh6WmFOaGNUUXVsT1J0ZHhrdnRoSklpY2Jub1YtbXpuSU5OYkNKX2xXRmdCRjR6bUc2ei1KbEctMDNNUkQ1MTA0Y1prR1hsRk40U0RNdnI4Tjl2THhmcDNpRGF2TFFvWGYxNUZNcTQza0EwSTVhRTVTRk84U0RqalcxWjVHZ01FSm1NY2Y1d9IB9AFBVV95cUxNS2xnc1NyZjlUUEhyMXlmWWE5ZURXS1d1VWZLQlFIM1FoUDd1TE1RR0djRTF2SkhzMmdUdnllamhTdEZGS05hOUM2OWxqelNXM0tJdk1uem5sSzJPeUpPVmFLQVJlemJIa2tpa3ZkZkNEU3o2SExFQlhVZ0cwTWluSU5hMTRHN0VFRDh5YkN3alJSSHdsWGdnS2xSRkd3eUhfM1FPcUxIcXItbHFkZlF0ZnJEUXVGOVQzNHpaRXBuVmJoNHZ1bnhlZ2RfWkFCQVlQZ1oyS2JONEFfYmFQQlZ2NURHaEhvWlNZTHRUOERwbkF6bUZL?oc=5",
+      "source": "India Today",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works - Mint",
+      "desc": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works    Mint",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbDk3Wmo4cUhiOWdtY09EYkp3dy1xSXZkMGZKNGd1bWhnZFEzZGtBRW1xUVU1d19MMks2ZW1LYjhMSmhjRVpjc0NyLTJnRy1fdW1aR2owRWczakNwSTN0QU1aSThjZllTenJtODdpbDZ1N3pXeWhfZWtDdUhrN3VnY0ZxWDhMdmZuRjRZX01DUU9iWkRwNElYa2Vlbm9OM1VDTnVZVGpHeEF6RHdLM043QTNCbkJFeEx5ZTBRVUN1S19RQVphOUVjNU5UTXFadWdHdzNqbUlhUHRtVXczQkp3dm81SnkzTFRHOHgzNHp5bC1jMlp0T0h0SdIB_gFBVV95cUxPT2tHdnhBLW5pVnpiODBSZ3ZOZlc0NHJMWXBMV2VsOGxQb0Y5M1NfUmI3b25rZWlVUmRoZlI3Z3d3VXYwblU2VXhnRHYxbTJzRnpZRlFUczktc3RMaFhIenNNU29xcWtrbUpXOHlGaEJUNUpHaFRKeDhmS3E3OXNlR1ZiSkJXWmY1RHJ1Y3ZBMzJMdndYVGZscldUcEJwZGFrLVhSM1pNcjJLUjNsRjRPWXJBeUpPSlNuVXhSemwwb1M3eVkxRngwZ25Lb29iRmd2NGc4RzkxQTJCczZHeE1BU3ZyOTBrQ2lLcWdtMkZVVjl4M054OGVWVm1aVXE0UQ?oc=5",
+      "source": "Mint",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI - FXLeaders",
+      "desc": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI    FXLeaders",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGV2cTAtWk1aY25nNTBWWmtVVFp4R0tHdjdjQUpYai15Z0hRLU9kZEIyRjh6S0JqT2tEZlhkakdaSE5vNzRfeG1NZ19CeG9xSXFZdF82dnZMY0d1dC1NTmhhYlZ0T2pla05HQ2wza1dHNld2YldoX1JYdGZPVlZvbUEtZ1MwNEtDamF4NTVFd2s3Ym1yLV9UdFVOd3BlLWJwOGR6NjkwZXZCa2Vj?oc=5",
+      "source": "FXLeaders",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude - Latest news from Azerbaijan",
+      "desc": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude    Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEJoWll6MzRuQ1FPRzRDenNZc2tBN21iSHQ2WkQ0enVXVGtqWFIwMm1OSWlGUmx0c25YUWtvMTY4QXJrUkpRVVB3NE5yNV9BR05NNjExay1nY3JlbnltclBYSHRaUDZoMFRXc2otSEU2MVNvc181bzhxbXVQQ0dBcHVDNTh6VEpIMWVRMw?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Anthropic Boosts Claude AI With New Creative Software Integrations - The Hans India",
+      "desc": "Anthropic Boosts Claude AI With New Creative Software Integrations    The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnNuU2N5NlQtLWQtY042MTNjRWk2bUU3bGVOREo5NXQxWFFRQlU2dXdzZ0drWjRGbzRUMVlNNzJ3N0twcnhlaFY1ZExuNGdqd3RhRVkwOXdnN05qbXhuLXMwWnc4elk1MEFpd1lKb0J6eFlVWVFPdk5EX3EtRWhSalNDaV9hb1dLbmJUdnpDTXRMYzhRam9pQjE2SWJPaTdaWUVFdW56TkVXek960gGyAUFVX3lxTE90MXVJbDhUUXBraWlsWG8xWjJMVExremhldmVxUXdVYm9DeG5tdDJxNGI5TGgxQ2phQmZsTUdrU0ZKZ2hCVDlxUk1EVDB1NnF2enNIS3FDU2xQaV95UDVlWW84Zl9CdDVKekZVaGllQ2hUQ2lGYW4zRTJzRmNvNV80cjJISktVSm01WktoVEhXcEFZTW9zTGxULWh2SjEzRU1KdjU0UEJiZE9wMzNORjY4OGc?oc=5",
+      "source": "The Hans India",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Centre In Talks With US, Anthropic For Access To Claude Mythos: Report - Inc42",
+      "desc": "Centre In Talks With US, Anthropic For Access To Claude Mythos: Report    Inc42",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGFzNlZpeGFsckVfTGt4OVBVbmhQN3FwX0RGY19BR19GcUN3cm5fQW1namVCWTdmYVdjNnY4bkZXVkxpRjhvR0xfTDRvZTlteHR1c0NCUmJHY3U3T3ltWURYd2tFQVpTTWNtdDBtLUVtRUtnelFia00yVnJDbmpEVGc1WkpqSW1hNVdhd0htajJvR0c1cy1n?oc=5",
+      "source": "Inc42",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "How India should prepare for the Mythos era - The Indian Express",
+      "desc": "How India should prepare for the Mythos era    The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWlITFpCaFFveUVoQmo4S19XenpNTkZjZGRKWndJdHZleHBONXI2clZDbklhYVk2bVJwTkozdFc5c2ZneThqQWY0NkFWR3o0cWQ0dXhNVmhVQWtvLWVoS09vNU9BeXhmRk8xZ0RONGN6M1FmQjNLOUlUWWVWSWlVMXVaVDNicDh2QkpvUnJoVHdCSENpX0ZjSWVxdXRBLVVtTGtETlV5MnRsRnBDam9OYXJRdmo5WUU0bWtVUdIBwwFBVV95cUxNLXRpSzMwX2thY29mUHJPbkJDMDZyamVMbnF1TzdiR2o2ZmNkb0FpWGM3c0JoY0xRWG4zUERvYW1lVkFDNUxFTmZWUXdoMVVCNUNzZ1B5S1NPRGRrNHJXcS1veWQyWFlCLThFUFpjc09kc0FxUjBRUkQzbkVqWG9HajhqTTMyWkdCZTMxREJoOTYxc0V1NWtRWEV3Mk5WdGlvODNSeHJkMExGVXN5WXNJOExQSHExaHVzZU9vb29Zbi1ndDg?oc=5",
+      "source": "The Indian Express",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "The AI funding loop: Cloud giants pour billions into Anthropic to sell it back compute - digitimes",
+      "desc": "The AI funding loop: Cloud giants pour billions into Anthropic to sell it back compute    digitimes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVYtM2hxNXc0OXREWlQyaml5MUJVaXlpRmNLQS1nV1NDcGpBd19nbU1iYnVraTdBOGp2c2NwTGJUUmZKQTZVM0ZPRWp2Rk5KTGZqZXNoWGxPU0VBTzZ3VFRQRnlRMlBlS0tidXJiOTlHY3dKaGNVdERBbFc3MVI3bC1tYVVqNV9hbDlkNU5vWjU2cExOTlZ4Rzd0TQ?oc=5",
+      "source": "digitimes",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "funding",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman blocks Claude use for Hong Kong bankers - Tech in Asia",
+      "desc": "Goldman blocks Claude use for Hong Kong bankers    Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHJWU0ptRXBmYlA1bkx4U0FlTDZFVXF5ZUYxdndJVHBvMGFKUDJxYjZvX1hIZWFSdGZuX2FtMWpvVzRiWHVIVXVqUXRzdm05cUtROWExS242TVFhOGhOUUN3MEdRajYwemZOczRoRm5sZGZOZzBhQV84ZFQ2b0JIMEZlMG5DUQ?oc=5",
+      "source": "Tech in Asia",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Snap CEO Predicts AI Shifts Software Spending - Let's Data Science",
+      "desc": "Snap CEO Predicts AI Shifts Software Spending    Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHlxVTF2a0dEclg4YWp3Z29FTG9TZnlHY2k1MzlZSTJwUXJLUERpUm1QY0RZVlg3YWk3UmxWdWF3TjZNc3BRcHlGSVhkcno0OHRNSEVRY3o1TTJlWXJudVlrQnFkY1RFdW9NZzRkUnJGUU9PbTBNcHVkTDdESWdVRjVUcUE0Y0lBRjBkQmRTUDc?oc=5",
       "source": "Let's Data Science",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Notified Launches AI Press Release Optimizer to Strengthen Corporate Narratives and Increase AI Citations - GlobeNewswire",
+      "desc": "Notified Launches AI Press Release Optimizer to Strengthen Corporate Narratives and Increase AI Citations    GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNjBXWnQ3aFg5NDFMb1Z1c0oyVERpUWxHZWN4bjdnNXluS1F1aDVCUE83TjVWZjJpODhLaVh6YWwtNDNxV3pNckJxZzhBbC1nOFBudlZHVE9VODZnZlRSdlRZTVAtZFJvS0VaeVUxcXc0YjVidnBiSHFLUGxRRGRpUEM3VW1ESkVETUdDa2d4WWloSzVXX1FQWmFHOXJHWk1iSWhidi1Ha1FaMWJ3X1drTlVEU0psR1QtM0hjSmFuZUxvN01SNWVIZWVLYXpfRVhOWURaSjV3ZlF5cnQ4dlRNaDJSdGZNT1JSOGxWMjFrQV9KTDNPMkZGVlBoTmNMRm1relJUbXA0LWw?oc=5",
+      "source": "GlobeNewswire",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Smart, but Unpredictable. How Can We Trust Front-end AI? - The Fast Mode",
+      "desc": "Smart, but Unpredictable. How Can We Trust Front-end AI?    The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHY0d1A3Q2R6WGdUVTZHTGd6QUhJYzI0T2hoYm1zWVpJblUzejhjdmE3cWZiVTdVczFGYWhnd0daU0o5ck51dURrSUNnOFNaLVpkSHpfakVxOTFMT2RwZVNJdWdtNWtNSVdsZ3BOVTUybTY2UmU1MXc5WnNQOENHa0JYb0t0dW5XaEZGM2RaMzZqM2hPS2hmVzE4QmtYZDZ5VGJMYw?oc=5",
+      "source": "The Fast Mode",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "A Researcher's Framework for Evaluating LLM Outputs: Beyond Vibes and Gut Feelings - HackerNoon",
+      "desc": "A Researcher's Framework for Evaluating LLM Outputs: Beyond Vibes and Gut Feelings    HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUpDRVpCa2Q1VXpFTTB4YnNla1VqU2dDR3FDYkdkODQ2X29fZzlIMDFIYzRyVm52SDhPa1lPQU9idWU4U0FPZ2JNTHVSZlVvLUxmU3E2WEFiVzN3MDVycTgwalNjSFBqMFdjSUQtYkl5eVNjeERkUmtOSlFhY1pPX3gtdFpBWkE5cFlKdlY0MjRZTjllOWIyamJOc09fOEVxaFJMWTVR?oc=5",
+      "source": "HackerNoon",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "infra",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI - MarkTechPost",
+      "desc": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI    MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5",
+      "source": "MarkTechPost",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Nvidia launches Nemotron 3 Nano Omni to power unified multimodal AI agents - digitimes",
+      "desc": "Nvidia launches Nemotron 3 Nano Omni to power unified multimodal AI agents    digitimes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkhsbVB0X2FuYldoVEYzYlU0ZnZmMVFuWU95SlJSLUdJRERLYXFlZG80VnFaRS1ZWWlmLW1rT2JfYzVPV3VTWUprbmtIV0JNRHMtVV9LS0lrTHB1c1VOYkVyUkdOb3BBQ25CTmc0b3JjTWFaektLVkp2eFV0V0Mwd0FkX2QtakQ1?oc=5",
+      "source": "digitimes",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "infra",
       "impact": "mid",
       "hot": false
     },
@@ -87,6 +417,28 @@
       "desc": "SK Telecom Unveils LLM-Based AI Recommendation System to Improve Personalized Recommendations    The Fast Mode",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMl9zQ2lURk1CVWlDWFpNYXJkaWh0N3hCUTRBbllLYjRlbC1tVUhuMVdmVzRTTHl1dlJGb2xHcUNQVnlpSnFBYUJlY3FwU2JlYVRfT1BjZmU5VnMyVVNITGhqSW91QUZvRzRVTXdLNk5Lbk95OG8tYzJxTzRocFRnaElxRkRWTVhsYUI1UFRkT09pQVgtVTg4SUhjc1FlTDlyTnJuVU5Yd1IzR1lwT3pRUlZPc01VM3djbUF5YXdlX2EwYTVDWEdlRXpOOEs5VGNya05kYWNrZTRWZjRLaEZtdzhB?oc=5",
       "source": "The Fast Mode",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified - MarkTechPost",
+      "desc": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified    MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWnlnRXpncWRkY19nQUlwWmpwa2JNc3pVZ0JNemdkQlF0Rll2el91LVNLV3I2dEt6akwzc2lVY0U5RFdjUkczcURRa0NWRXJWcUhHNXgySGRaakdBR0k1aE9KWG9BWVppU203ZjZON2pfVkdndW4tNTRkcjJHdldPOUpjRnMyZW5rYlFnMXN0OTdDN3J1THk5QVlYMXZUSFdfMFpRNC1ib1JHYzNhNFVXaUpRZ0ZjcWNybTBWRVJqcjNzWnd4NjVqTEg1SFU1dHYxX1NadVltby1CR1NVNm81Q0NqZGPSAeoBQVVfeXFMT1FVOWRqU0ZOblJHUzN2aHI0eVV3NTJwWndCYWRlZERlLXJVb3E1ZlNWa3JhNEhBbkJtWDcwVW04MnlKMmZlTmhLU3l6dmQzeDRpUlVpWmwxV3Jrc2FlUmlGSWVlVjBmSDJBc3c5WW9XUF93d1RzS1BNT215akx1OWRBeXZLQlRwNVVGNS1TRWtuTmFkU19WSWR4WW14ZDhaeXhUclZjTHIwcmg5bm90MWNhQXBwYklMaGZFUFBXUXotNE5ZakY3OEl3WGxIc2F1bXNMbG5vZ25odjNvNDBkQkxOYjl1LWxjWE5n?oc=5",
+      "source": "MarkTechPost",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "From SEO to LLM SEO: How AI is rewriting the rules of brand visibility - Adgully.com",
+      "desc": "From SEO to LLM SEO: How AI is rewriting the rules of brand visibility    Adgully.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWldNeGdpR3RqQTYwamlWanNxSmhaa0RQc0RSVnVNd2N5Wk56SWh0ODdiOE9sOU1VNTU1N2ZuRklKWTByUWhuZU1LRmE4NnV6eTJDOTIzMWFmMU1teENoLWxOT1NsNUtvLTdvdnFRMElwWlVFcjJZZFpkRTZZTV9aalFsd1ZuUkRRY0VuNUFUaXFrN1BtVm1QUWhjaFEySlMzWGJaMnZmcw?oc=5",
+      "source": "Adgully.com",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -103,380 +455,28 @@
       "type": "funding",
       "impact": "mid",
       "hot": false
-    },
-    {
-      "title": "DeepSeek‑V4 技术报告全面分析 - 电子工程专辑",
-      "desc": "DeepSeek‑V4 技术报告全面分析    电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaZnJ2cUpObE5XRG5NN092dG41NzZLSm00eUpiQkNmOHZnVUY5UVBhTHk3QlVPMlN0R1liRDRMaW1YWnVMaUdHZjFnd0cxV3BBTkpn?oc=5",
-      "source": "电子工程专辑",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "DeepSeek V4硬刚顶级闭源，价格打骨折，国产AI真要掀桌子了？ - 51CTO",
-      "desc": "DeepSeek V4硬刚顶级闭源，价格打骨折，国产AI真要掀桌子了？    51CTO",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43b2QtZWo1ZHdQT2Z3c1JHOWlJeTJ1T3V1ZTAtbWdZU1BCcDRabVY2MFJzYlZZdDRzTVp2R1N5dVM3bFdnQ2gtMjJjdmlPTEtIM0tV?oc=5",
-      "source": "51CTO",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "读完这篇，你就搞懂 DeepSeek v4 了 - 51CTO",
-      "desc": "读完这篇，你就搞懂 DeepSeek v4 了    51CTO",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaaTBqRXpJeFhuSnRBY2xhMTF2MGotVVZWTWt2QlZFNlhyTnZRcUxnM2lId1M2RTlEczVXeXFOWDVQc0ttbjZReC0zRHdfd2I0ZUVr?oc=5",
-      "source": "51CTO",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "中金：DeepSeek V4模型效率优化加速下游Agentic AI需求释放 看好智谱(02513)、MiniMax-W(00100) - 中金在线",
-      "desc": "中金：DeepSeek V4模型效率优化加速下游Agentic AI需求释放 看好智谱(02513)、MiniMax-W(00100)    中金在线",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RUEpXcWk3QnVyN2haUE5lMWhoVWowYjdFNlBqNHBtTk1tZC1pSVpTUmI1bEF4aVRTN0JNTXNpT1lMalZMT0lGczhFTEZaeDdjcTh1UFktTS0tUmNkdGJDLTlUVUoycTVIOEVmc2h4NA?oc=5",
-      "source": "中金在线",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek - Infoq.cn",
-      "desc": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek    Infoq.cn",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUUpMMjZWcXpXUDhZZWZpQVJYeHJMdnFueFZWS0dPbXR3ZGhUdzlBeVNXMjJpY0ZVUjV0RUxNSVJ3S1F5WkV6UzdKMk5BU3h5WXRoQmpPaE9yZw?oc=5",
-      "source": "Infoq.cn",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "high",
-      "hot": true
-    },
-    {
-      "title": "ACL 2026 | LCA：DeepSeek 长文本加速神器，90% KV 缓存缩减 + 2.5 倍推理提速 - 51CTO",
-      "desc": "ACL 2026 | LCA：DeepSeek 长文本加速神器，90% KV 缓存缩减 + 2.5 倍推理提速    51CTO",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QZ2V0OGRJajBjaHhrQTNzQlB6YWpxaDRjNlNLNFJVdFRkSzNYek9NVDFjMzZkbW9CUTRQVS1PMnFRU0JWNTdMQXdWZ2JYZDlxeTJN?oc=5",
-      "source": "51CTO",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
-      "desc": "OpenAI models, Codex, and Managed Agents come to AWS    OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQWFRc0M5RmNtdzVreHE3bWNpX3ZCc0RiWjFWWlQ3VGdhbXdZRklZeGxpaDc0VGFzSmVoU0pPMmdhT19QN3hnOTFYMENOX015?oc=5",
-      "source": "OpenAI",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ",
-      "desc": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO    WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhJdk5kS0ZjcEV1MDF6U2piMWlUMzFYbGl2Y0hoQVEyajFzWDRLazF4U1p0alhaTWNnU0NKckM5c1dxVEc2WWZ4MDRsY19NR0Z3NGZYX3ZpV0E2XzB4RXpRRU1EcmltaEczcDJ4VzB6bGt6VUxzWENlcTh5NndmcFc5N2FuVzlvUHNfU3JTWHlJSllSNVJiRmhLSEhpNTdpSGhuRUxRNE9zQ2Np?oc=5",
-      "source": "WSJ",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks - Databricks",
-      "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU1PTlAzanZxTHNQTmRiNjIzY2RpbEp6MUlwUTJFYzFub1NZMWdIZ2dUb1JpRXREMXhBcnpBXzQ0SEVvS2szMTFIWkxUV3NWWFhCSU5BM0l1dU1yMEZsS1pUbEhXcmNSQnhkOGJIaE56V25zcHRSZFQ0bE1tODVhY3pLWFZmaWF0Mm9JazBRYmh2dXQ4VFYtREg2aDhJQjBORGwxM2VGMFZ1U21VSGJB?oc=5",
-      "source": "Databricks",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenAI Really Wants Codex to Shut Up About Goblins - WIRED",
-      "desc": "OpenAI Really Wants Codex to Shut Up About Goblins    WIRED",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1k3QTFTRS1oNDI4V3c3VTUzVEZVWWFuLVNReS01TE56TkxRQm1lNkxWZVFQcU1BT2xWOWNwN01PbHFkNW5ncjlYRzlhM1llUW9nNzE5WEtWdk1MVFVmb0hBVzF4VUNPTklVcExmMGl3bTBxSzhLS1g1RFhnemswYWlGd0RWQQ?oc=5",
-      "source": "WIRED",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Microsoft, OpenAI Restructure Partnership in Shift Away from Exclusivity - Redmondmag.com",
-      "desc": "Microsoft, OpenAI Restructure Partnership in Shift Away from Exclusivity    Redmondmag.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkJFbjVkUWpsb3QwRi04bGVjWm95bUhydlFJVFpBS1FwMWFwS19XZi00R2NLVHM5VEJqNjJILVplcGNrTDJiVGxPQXBxeU50UnVUQUc5S0VRR3JzLV9vRXRmbnZ6ay01NnVYaVhmOEdpNnlTNG85eFMzdU5vbEIzN0tCQmw5cUdJVjJXcVo3WkZ1dw?oc=5",
-      "source": "Redmondmag.com",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "Oracle, CoreWeave back OpenAI after report says ChatGPT developer missed sales, user targets - Yahoo Finance",
-      "desc": "Oracle, CoreWeave back OpenAI after report says ChatGPT developer missed sales, user targets    Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMExGYTY4c29xM0h6SGdqcW8yMUhTTkFwZy1hSklnd0p1VHJhR0kxeWkxZERDM0h5WDZ1OGc1Y2FBV1NCN0xKckc3ckxyV2lKdVFIVjNwb2E1ckNHMXJmaHoxNm82WmI0SzNNQWxWcHEwbkJwNWYyTzdYREU1Sm95dmdoUXhxUkxNTzJIcnZTVHhaeExZVlV5aVBrUmhPN2lURHFGbDdPM2J3Z3EzSVRoN2hSYWJzVXhIYy12dGU4TmdWM3ZHRUYwd3FiSk5yLVgtNmJCcTZBZTNhNWhRbVhWdA?oc=5",
-      "source": "Yahoo Finance",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Chip stocks drop on report OpenAI missed ChatGPT growth targets - SiliconANGLE",
-      "desc": "Chip stocks drop on report OpenAI missed ChatGPT growth targets    SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXF3TU43TGY5MElOMWtab2hBaFF4eWl5cWhIVDN3a3RWckxaZm1QZWNwVUdHelFYZkxWNnN4WVJiQ0VvcnhlZGlQT3JfQmVhcUxHRDN5NGw3cDdXQzVQcjVlT29fTHBFUnFHaUhmcW1rY2h2WXhGaDgzX3M0cUdDOEgxZzFkcnJlRExHZTlNS3BSMXZGQUJrWHB5SHdqQQ?oc=5",
-      "source": "SiliconANGLE",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "infra",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Wrike Connects Governed AI To Enterprise Workflows, Now Available On OpenAI GPT Store - Yahoo Finance",
-      "desc": "Wrike Connects Governed AI To Enterprise Workflows, Now Available On OpenAI GPT Store    Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0l5bjEycG9nYlhVaG1MZU9Tdzk0LWZjR2lOYTR1ekFRcjQ1bDUxdUZXUXoyWGt3ZmJTczdBX0FwOU9FM2Y1bHlJLUFBTDJvMkQxVXpIZ2t0dDZ2RzhLZGF0ZUViTmlDaXlaWERCWTZTekFoV2pTZVVqZVZUSEdQWWpJVVNzM050XzYydDdCdVJVcjJfNXpSczREZFFid1I2YWU0Y2g3QWt5UQ?oc=5",
-      "source": "Yahoo Finance",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Amazon to Sell OpenAI Models After Microsoft Ends Exclusivity - Transport Topics",
-      "desc": "Amazon to Sell OpenAI Models After Microsoft Ends Exclusivity    Transport Topics",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GeEdiMmxaYlNHM04xVEw1QnozV2tKYm12NWJjam9lM0NxRGpjVDNLalRiUjBjSzRVcG5oVjlGVFdWUGpscFFWRHVsc0tIN21oRmVnSmQzOGNhNU1PMi12WjZaalg3Q0tj?oc=5",
-      "source": "Transport Topics",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI to make its models available via Amazon's servers - Axios",
-      "desc": "OpenAI to make its models available via Amazon's servers    Axios",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14Qnd6b2hXWFFRZzJsYnhWUHBVUGcyRGxubEYycTRVSDRpTmJZbjBqLUFSWDBDZ3lTT00tczJaY2MxamJqbnI5OUhaMWdfZmd3TUNMWXNycld0UnlWWndEUUZLREhTQ1gt?oc=5",
-      "source": "Axios",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI misses revenue and user growth targets ahead of IPO - Yahoo Finance",
-      "desc": "OpenAI misses revenue and user growth targets ahead of IPO    Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTkpCdnhSbS16LXZEUm9ZMkRWRV8tQU1RS1FKUl9nWFBzOTF0Vnd5V09KMUZnQ09jd1dFVl9Qa19sTkNIRnVqTjZEV252WjVnV0lTV0NlNlBiSFE4QVhtcjkzMXBaeUxPZlNiMVBrM3NEenI1T004aFZZbmtBbTNLMDZQaTFtSzFfTks4TUw1SzRuYWNSeXlhVEJDUW1xbEU?oc=5",
-      "source": "Yahoo Finance",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "AWS brings OpenAI’s AI models and Codex programming assistant to its cloud - SiliconANGLE",
-      "desc": "AWS brings OpenAI’s AI models and Codex programming assistant to its cloud    SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzhHWkI3WDJPNDZ3Wnk2X3hWMnpXTHJQUXRNMDk3OUtTcUxxUWd6RW9uNU9KSTZjT0NsamM4dmRER0NNR2FzYXA1WTlnWW9rZ3dBc3pUUHJUZnd6aEF5NE53d2xMa3ZtdWszMXhmWS1YSUNwNkNyNHdTSGFBV24wYVhVUG41VU4wUzAtRFM3UUhiOV9UV1o4ZEYwc1B2cnR5?oc=5",
-      "source": "SiliconANGLE",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI Boasts Recursive AI: 3 Examples - Forbes",
-      "desc": "OpenAI Boasts Recursive AI: 3 Examples    Forbes",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjNMZUk4NUxtdlpEaDc4cllDXzg1dEhaQmdjeFZpVGJRUTVQR1hSdlA5dHdZNHhtUEdwdFBjTEtmVjBIcF9QR21qTEFhYkoxQjE2NnQxRzBud093UUF5OWJLeVFrbGYxY0trSkFiYnBKdExwVFBhNXc5WXdpQW1fckcyWnhoTjlwa243M2ZzLTdPNlU?oc=5",
-      "source": "Forbes",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI's Latest Release Looks Like the Project Management Software You Probably Already Have to Use - Gizmodo",
-      "desc": "OpenAI's Latest Release Looks Like the Project Management Software You Probably Already Have to Use    Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0FuaDJxTmRtWU1qRmVxQ2tSSENuUU9ldzlRTDFMSjFFc0NhSFdHVUdaZ0VyNGNJT3JiWUVkVldBRC00dm0yU0JhWEIzYjg0WUtURm9rN1FvaURoMnUzam02VW9ydml4Y0UyVWtsUHJvdkg5TmwzOU54b0V2ekU0aGFRU3lfTGo1dHByVWZFZ3U4S245ejFjdk1zMjJDUmdlbkhCQk1uUl81MVRYTGtoWW9pc00wejFVNmF4OWJ4NWF6R2QyS1RXMQ?oc=5",
-      "source": "Gizmodo",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "Anthropic’s Little Brother - The Atlantic",
-      "desc": "Anthropic’s Little Brother    The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFR1X2hIRHZrdTVzckhNdlNTZ3J5Z2dHQXNxVXp0Q0VCSC13RENOOHktMmxpbjdkbnhxN0d0TC1FTGgxMzdzUDRZbWdFQ3NUMGpiX3Z6TWgwZ1g1dmE3eHNrRW9EelpHTjB6S0FNR1BEaTVaR3JLUVh1Y3NBYUZsbXNDMnlfUGlX?oc=5",
-      "source": "The Atlantic",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI’s compute costs raise concerns over GPT-5.5 release timeline - Crypto Briefing",
-      "desc": "OpenAI’s compute costs raise concerns over GPT-5.5 release timeline    Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXBOYlhJc29RdGFVOEhIYzk1T2plNy1HdnpodHYyN1kzUXhzSlo3OTdsSnI0dUF4NE9ybllEYWF0UVJGbDNmY1pEbXdQMHVFUmlWTWhVNkp3bG9ER0pKcVNoZ0ZFNV9NdEZyaWNGanAwX3ZfbmhRUTdic3Fpdm1YdkFleVZ1MldKLTVqdGFBck1sUm1ad3dyTQ?oc=5",
-      "source": "Crypto Briefing",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock - theregister.com",
-      "desc": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock    theregister.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhTWctaTgxM2t0MXdhaE9qQVNTVGtJVDJ3bG0tS1RSUVNWclRQQ2lDcV9WMnNzUHpnVDBPRnhGSlNVcjRtcE9ETTFpRy1mX1hiWlhreXZKVzRUTVBpeTJ4cm5NUlhWQ3ljYXhoSzVwdFotVG9UbFFyQ0R0UHphelk?oc=5",
-      "source": "theregister.com",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Is GPT-5.5 Delivering ‘Life-Changing’ Results for NVIDIA? - AI Magazine",
-      "desc": "Is GPT-5.5 Delivering ‘Life-Changing’ Results for NVIDIA?    AI Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYXNQUE9Edk5HTHZ3VUR3ekEwMUtfT0FRQ2RUVnVtdlBoZFlZS1BZSXZyUmZuZk00MjNUak5mNlZsSmkxMGlqaFBobzdCYjRfeXpSX3JKX0lyZnphMmwzbW15RmstUUVGRFFaODgzWFZpSHZ1SV93anVzYzlUbkdaR3ROR2M2SVlfY1E?oc=5",
-      "source": "AI Magazine",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "infra",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "James Uthmeier broadens OpenAI investigation as ChatGPT use surfaces in USF murders - The Miami Times",
-      "desc": "James Uthmeier broadens OpenAI investigation as ChatGPT use surfaces in USF murders    The Miami Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTVhibmpDWVpwbTBhWHVQUDhyb2NUYnU5M3JiOE5RTEw4VjNRNktQeG53NHhMaHlfXzEzSGlva1Rrdm05MDEyNUJoRFdjLUFCb2NUYWgyVUxMdWJpOGRnVFNMUWt6N21zMC1LNUM2dy1FTS13dFBRNFdGRmxpbl9USWlzcHJwekRkaDdWSHJseGFvV1JSVXNJLWtmLVE0ZzRESndGbUVwUFMxaXp3SE53SzRPWVB5NXRaaV9hckUxS3FPb0x4Z09kcGFDMzh3V1BsYUdfVnBLc0ZucjBKa1ZRTU02YXhUbERwWnhNbnN2RGFXMEVleVlBeGxHTTltZ2RtbVFkSVVn0gGLAkFVX3lxTFBpWEhtY1pENDhhbERBbFdiYXc0WGpETVNQMTM2QzlteV95Z1hJWVVXNWZmel9ic3NlX1hmRUxGTEZ3QTZqQUxCMXZ1QjMxZGNvMVRrVG1sdl9MSnBMVmRoblV4eDd0TVJJcW9Da0VYWENicndjbjZQd3BBNkRuUk1tQzBGNmJUXzAtMHhCMjZQZ1g0VVZPaXpVcnZjT1VPZjFmbFprd3ZMZXlFZWJZUDFCNVU3bnpUdy0zN3VULUZ2YzVucGxGTHJyakdkeHhIbHZDNHFWNV9QNHRUa0dnX0hBU3hGZ2FnM25vMXk1WjZDTUZqaE5WSTRDN2cxbVdKZkh5Y19YNFFmOUotNA?oc=5",
-      "source": "The Miami Times",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI Eyes AI-First Smartphone with Qualcomm, Mediatek - EE Times",
-      "desc": "OpenAI Eyes AI-First Smartphone with Qualcomm, Mediatek    EE Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsaE1hbFFlc0JFOGg5V0FCYzBQRTBNa2U3Zm9WblNIYVBESkdvbnNwdi1MWEpWVXhCLW1va1FvWWFKZ19jd1cwWnRacmJrNWJzUkQxQkxXWEU3Wl8zdFZMMkxpdVo1aks1MzcxOUtqd0I4Q1FFYmJfZQ?oc=5",
-      "source": "EE Times",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI Introduces GPT-Rosalind AI Model for Life Science Research and Drug Discovery - geneonline.com",
-      "desc": "OpenAI Introduces GPT-Rosalind AI Model for Life Science Research and Drug Discovery    geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS19QVUpRWlQ0V1BWUU8xNElVN3BKQ3NvT1E1ZFJLQUpENm0zYnZ0NlpjNmJwNDZzNjcyS2hNcnY3MEFUeEp3ZXlWOGZRUFVpZE5EOXpnUjZwUVE5N2F3SWZiTUZRSDBYN0EtdERreDYwRi1WdVB2TnNWeGxUbDJSUFZGeDdUamR3VC1BLVlsWkRPTGdwSkhZN2VjdUNCU2dfNXZnSk1BZmlEV1hTbnRTNmpB?oc=5",
-      "source": "geneonline.com",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Microsoft (MSFT) Stock Handed Boost as OpenAI Tears Up Exclusivity, Restructured Deal Opens ChatGPT to Amazon and Google Clouds - foreignpolicyjournal",
-      "desc": "Microsoft (MSFT) Stock Handed Boost as OpenAI Tears Up Exclusivity, Restructured Deal Opens ChatGPT to Amazon and Google Clouds    foreignpolicyjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbDhlWWE5MDlMQm14T2Q0SlkxaksxSzlSdTN3WGZqQWRSc0ZxbjFwc1JGTUdKZjJGWE9PcGo2VVFuNHp0Tm1udk56UG5vZmVjdWRwUUVlTHBRRll1MVNpcXhOMVR0VHA0bGVjSjgwRHloMXdaaGFRT3RaVzdVbkR5T3BnX20zNEw5WVZTVUdlbGR6RnhIckRiTHNVeFl5TjF5S2ZpTXRNb3BydlFNZWxRLW9HOUc4Mm5saXhWRzg4RHpYNFd4eWVTMnJ5b3NtMVdGRnYxbGY1WWxzR1JyRlMwSDFUX21oZkwzMWx3ZTBsWlc1M3lBT01oVkVNVjI0SHBwc2w0?oc=5",
-      "source": "foreignpolicyjournal.com",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI misses targets, but GPT-5.5 release timeline remains firm - Crypto Briefing",
-      "desc": "OpenAI misses targets, but GPT-5.5 release timeline remains firm    Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWNsQ0l4blNPNmxoWjFzRjh4UUg3SFpEYTkzR29KYWdzZjMyWTltU1VZLWZZR3lSa201aVU2M1hMN1Rta094WThMUnZpQThXX1VzajNFZW15cXg5bkRxakFQRjlmakxMcWVCTTFSWUhJdFUtS01RMlV6YjRsZG1SU2RuZC1hMENzM0NRMjZQci03TE9P?oc=5",
-      "source": "Crypto Briefing",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "Florida expands OpenAI investigation to include USF murders after suspect used ChatGPT - WPEC",
-      "desc": "Florida expands OpenAI investigation to include USF murders after suspect used ChatGPT    WPEC",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQZnJ3dTJHS0ZFVnlOOXpydzBLb2FOTDIwQ3BYUGtVbUJTTVd6UTZJcHUtZUUzT3g1VnJCVGtoRlZXYk5CN1J5LVVRaUVBWjh6blJlT3lVQmZPVWVwbW4tbVBUelg4TVJwa0YyMkJFazdnTGNFOXZPdEFBUkNMZlRDZTB5WHNjcjhDVGs2ZC1RMFlZTnR0djBEMHBQU2F5T3VMUjRnVlVYX0NUbTlJbTBOQk5OdHJXWkpsdmdRTHN1LWdlaE5XZUJJNHoyWkZhaU5ITy01V3FjYm5uX1lKWTUtMXZuR1JzWWtSUVBuaWhxcklGd2NWc01DX0w5U1hDOVd5cWZQc1d3c0tjMlhsV1JEcU9ENV92U25ILXI1UENzNGRtaUVGeXR2elpLS05KUUhKYXZIY0ZSNEdyaDc3SEhCRkJNakU0R29RRjhGRE5lMjhZZlZfbTc1TkFXODM?oc=5",
-      "source": "WPEC",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "OpenAI might be making a ChatGPT-powered smartphone after all, but would you buy it? Let us know in our poll - Yahoo Tech",
-      "desc": "OpenAI might be making a ChatGPT-powered smartphone after all, but would you buy it? Let us know in our poll    Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTlxN2FiWWVBZXdhRXpZVVgzTXY2MU5GMERHMUN2bnJjVzJ0c2EyMkFwWGxYY0dpUWFBekNHaE1VUVk4TDJrMWZfNkFkc0lnbjBqT1JpNzBRZlV6eXpLX016dnFLVTN0b0VxWmNPM0xsR2lQZkRxU0ZWMjRucnluMjJDWldSZVlWa1M0SEVJSWJtaHBXMGJfZw?oc=5",
-      "source": "Yahoo Tech",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Microsoft Ends OpenAI Exclusivity, Opening GPT to AWS and Google Cloud - Seoul Economic Daily",
-      "desc": "Microsoft Ends OpenAI Exclusivity, Opening GPT to AWS and Google Cloud    Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFYtTk1wYmZMYlRKYzBoYWhuTmdFWUsxWUNuXzFYdUpFcjZQalBJMmRkZUJTbXgzd09ZUmlubGhSTDFacEFZZi1iMEpKN0VnaDVXb2hQQkc5UXBScjV3bUo3Um1UWEdoOFRQQnh4U05KMWlWc3JvVjJ4bVNGbjVmNVZHUTZ2aFdaWjN2ZlJCWEl1NFlqRnZ5ZEZQT0NMRjZYWlVycGtNOA?oc=5",
-      "source": "Seoul Economic Daily",
-      "region": "overseas",
-      "date": "2026-04-28",
-      "type": "model",
-      "impact": "low",
-      "hot": false
     }
   ],
   "trends": [
     {
-      "title": "开源生态",
-      "body": "本周 6 条相关报道。代表：DeepSeek‑V4 技术报告全面分析 - 电子工程专辑；DeepSeek V4硬刚顶级闭源，价格打骨折，国产AI真要掀桌子了？ - 51；读完这篇，你就搞懂 DeepSeek v4 了 - 51CTO。"
-    },
-    {
-      "title": "国产AI",
-      "body": "本周 6 条相关报道。代表：中金：DeepSeek V4模型效率优化加速下游Agentic AI需求释放 看；小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek；ACL 2026 | LCA：DeepSeek 长文本加速神器，90% KV 缓。"
-    },
-    {
       "title": "Agent应用",
-      "body": "本周 4 条相关报道。代表：The Agentic AI Revolution is Here: Anthr；OpenAI models, Codex, and Managed Agents；Wrike Connects Governed AI To Enterprise。"
+      "body": "本周 7 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
     },
     {
       "title": "模型竞争",
-      "body": "本周 3 条相关报道。代表：OpenAI's Latest Release Looks Like the P；OpenAI’s compute costs raise concerns ov；OpenAI misses targets, but GPT-5.5 relea。"
+      "body": "本周 5 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；OpenAI Launches ChatGPT Ads Manager as A；OpenAI ChatGPT Ads Manager Launches Amid。"
     },
     {
-      "title": "推理成本",
-      "body": "本周 1 条相关报道。代表：OpenAI’s compute costs raise concerns ov。"
+      "title": "多模态",
+      "body": "本周 1 条相关报道。代表：Nvidia launches Nemotron 3 Nano Omni to 。"
+    },
+    {
+      "title": "AI治理",
+      "body": "本周 1 条相关报道。代表：Our commitment to community safety - Ope。"
+    },
+    {
+      "title": "企业落地",
+      "body": "本周 1 条相关报道。代表：OpenAI ends MS exclusivity, brings GPT t。"
     }
   ]
 }
