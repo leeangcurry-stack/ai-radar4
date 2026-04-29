@@ -1,13 +1,13 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T10:57:09.776991",
-  "summary": "本周追踪到 40 条AI动态，海外 30 条、国内 10 条。融资事件 1 起。",
+  "generated_ts": "2026-04-29T11:08:19.461268",
+  "summary": "本周追踪到 40 条AI动态，海外 30 条、国内 10 条。高影响事件 1 条。融资事件 1 起。",
   "top_story": {
-    "title": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻 - 白鲸出海",
-    "desc": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻    白鲸出海",
-    "source": "白鲸出海",
+    "title": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理 - 搜狐网",
+    "desc": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理    搜狐网",
+    "source": "搜狐网",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CODhPVHM0OGxOTkVsZ0liSEJMVk9qV1Jza1diUENjVmNPZktYdFpLNXAwaGU1cGZMTFEzdWRkaFFkNEo4amYza2k3V3pBaFlRLW01cGRhQjY?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnc4WVB2R2xhUl9DdDFDSDZKclFKMXdkTVgweVc5Vzg5SjJtX3huY01ETzJHTkpncjJ1bVJJbjNVWmlKV28zUHZzYXBxbVZxc3ZUVXhwT3E3UkprVEMtcHZHamNVYTJ6cmdta2xiU2xLcy1GNmNXLXBINlQ5X2JkQTlIVnBtdmNvVV8weQ?oc=5"
   },
   "metrics": {
     "events_count": 40,
@@ -105,17 +105,6 @@
       "hot": false
     },
     {
-      "title": "维信诺维擎垂域大模型正式发布 - 搜狐网",
-      "desc": "维信诺维擎垂域大模型正式发布    搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTJLR2RaUzdWSjNlWm1nVVhwMDAydThXYVpDVmlnb1FOa0RtMnc2Z0hBVE8wRE5xa0RZUlJuUUdwZ2I5cjNIdmlkc0JZYmRrODhXMldBRzlnTWFwYkFIbHYzMmpsR0NOaHRUMzM0eFZvellIYUpROW13SmkzeVBDVkdVMUhXTEFU?oc=5",
-      "source": "搜狐网",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
       "title": "【福州日报】全国首个智慧城市多学科交叉大模型出炉 由福大和超星集团研发，推出七大智能应用 - 福州大学",
       "desc": "【福州日报】全国首个智慧城市多学科交叉大模型出炉 由福大和超星集团研发，推出七大智能应用    福州大学",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUY1k2OGItOEdTTHFNRGJtVllsNWxCamV0bG83ZTVYV0N5cGV0OEZsandHbXpTUm94azZyTUpHNTVjbXVxbGdwRGJNOHZZRmo4U2U4T2gtNA?oc=5",
@@ -125,6 +114,17 @@
       "type": "model",
       "impact": "mid",
       "hot": false
+    },
+    {
+      "title": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理 - 搜狐网",
+      "desc": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理    搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnc4WVB2R2xhUl9DdDFDSDZKclFKMXdkTVgweVc5Vzg5SjJtX3huY01ETzJHTkpncjJ1bVJJbjNVWmlKV28zUHZzYXBxbVZxc3ZUVXhwT3E3UkprVEMtcHZHamNVYTJ6cmdta2xiU2xLcy1GNmNXLXBINlQ5X2JkQTlIVnBtdmNvVV8weQ?oc=5",
+      "source": "搜狐网",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "high",
+      "hot": true
     },
     {
       "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
@@ -215,17 +215,6 @@
       "hot": false
     },
     {
-      "title": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer - AD HOC NEWS",
-      "desc": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer    AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHF1X0hWTU1SSjFfc0xCQlRmMS1tNFJENGVTemlyUExpT2VFRHVpeG9qaV8zellTWFh6Vk9JZ0Ezd1JRZlpTcHkxMTJBcTVQVDJKczBlbkRCSFh5dlEzRG9lNC1DcE1qUEhReWJIRnVHN3cyVlVhRkQyOXN2Y1pKb0ZSbm43ZGZmSTlSSlRQNndtaGNEaWV4UHkxTlZPUmFibk45Zkl0VVc0cmk1ZjZjMXRZZ0c1NkJwZzNKWXQ2bUVzekU?oc=5",
-      "source": "AD HOC NEWS",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
       "title": "Blender CEO Addresses Funding From Claude AI Creator Anthropic - 80 Level",
       "desc": "Blender CEO Addresses Funding From Claude AI Creator Anthropic    80 Level",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzlFd3pYMkY5cDREZ3Z1NGNTOVVpTV8yeGVxbTlTTXhMUEVuNXVNNXVORHJldWYzNUlSOGN5RG9ibFlkV092UmN2dFhQbTM1aDN1VVRSS2RhSUF6WHNyc3RaQzl4cnl5T09kSzZhaC1ONnNjbTNlalNyUy1KbVJ4T01xR0pKZw?oc=5",
@@ -237,10 +226,10 @@
       "hot": false
     },
     {
-      "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude - Bloomberg",
-      "desc": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude    Bloomberg",
+      "title": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude - Bloomberg.com",
+      "desc": "Goldman Staff in Hong Kong Lose Access to Anthropic’s Claude    Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1hfcHpmbWtKcVdnZG1nS1JnNktSRnFnOTd0ZDhkakxaQmJjb1NMbjl1aTRFdlJvUXFrb2djdU5LeWVNYVNuUWFCYmJPZTY3M2RPdllkSWJqNDMyUTdXZUI4aHhjRTl0SGZ1anRsV1B3OHJOWEk4M3BoaGZHRmMyZ2RyS3I0enJqTnFsTDV1THF4YmRlWktnOF93dFBxeDk1cDB3OFlHUk9GN1JFWHZrcQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -369,6 +358,17 @@
       "hot": false
     },
     {
+      "title": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender - iClarified",
+      "desc": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender    iClarified",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnVjUmVIbTBjN2VjLVUxLUhJSmRNYjFTTEM0N0RKRmdTSUFNVDJFTDBGZ0x2azc4ekhqakl4bmUxOXFUVTFCSUZtWmJtS3AwU28zekpBMk1mejZ5b1lEaWtMTXJUY1RkR0NwNUdhQ3R1OC1mczNRT041bnA5azIyUEFVTlRGZGZUSmY5TG5VR1JmZElVTUo1ZjhVVlJLUlRSZFBR?oc=5",
+      "source": "iClarified",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
       "title": "Mythos effect: Trump administration seeks to end Pentagon's AI standoff, reinstate Anthropic's Claude, says report - Mint",
       "desc": "Mythos effect: Trump administration seeks to end Pentagon's AI standoff, reinstate Anthropic's Claude, says report    Mint",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOUlqWWhQaHY3RVhUaGt2aFVobFhYS2VmbXFzaE1xYTN0cTVPTndiTjhPVXVMNjFFTVJHcUdHd3pNMmdJLVh3cnJESDFKaE9oMWdCTGJPaXdsYjZlWWxST0VwMlVkWTBMT0NwNm9IVHBfdElvMW1DcjgwR3d4Z2E5YjdJdG1SNnJfUzl2N3BQaTlkMGU5eV9tN3BEc0tneDE1WG12TW1uYndROGp6Ti02Z0FkcmstZ2tnTnlURFlFTXppWnQ3d2UzOUdZamJIZjRZWmZPeFhYY0RQVVNTTl9OQmw4SlZGRU01Ml8wM1RsME9NbkhkbE1vcU12QVYwWWRIQWhzeUlB0gGLAkFVX3lxTFBPbWItMDctRXlxV2N0V2l6Wk0zYTVaVG5rX05wSGVKWkJuX3RJYlNISktfci1ENjlIWWpmdzJUVG5Lclh0WVdYa2JEMW56UjZNTXFacXZKOUh5clFmZTVGMjdKWVVJTTdSSGtYLWNRY2dZTEh5X01HdFNHOUhNSlIwMDZUUHVsRnFnaEtsekFhb21RQXA4VmQ4XzF3azlKdjdZVkJTX1RoOFpNa2RJRjN3bXAwZVpIMnJNcjA1c2RQU3Q1aUlmTmtpZHU2UWhMN0xMUGtxSlJvbjJqS3JlLVBNX1IyYXk1V0JRQ1NXbmhvY2dsTGF1MWdBcGRFMXVEMU5qSTJFTDFfdXphQQ?oc=5",
@@ -380,10 +380,10 @@
       "hot": false
     },
     {
-      "title": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender - iClarified",
-      "desc": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender    iClarified",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnVjUmVIbTBjN2VjLVUxLUhJSmRNYjFTTEM0N0RKRmdTSUFNVDJFTDBGZ0x2azc4ekhqakl4bmUxOXFUVTFCSUZtWmJtS3AwU28zekpBMk1mejZ5b1lEaWtMTXJUY1RkR0NwNUdhQ3R1OC1mczNRT041bnA5azIyUEFVTlRGZGZUSmY5TG5VR1JmZElVTUo1ZjhVVlJLUlRSZFBR?oc=5",
-      "source": "iClarified",
+      "title": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI - FXLeaders",
+      "desc": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI    FXLeaders",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGV2cTAtWk1aY25nNTBWWmtVVFp4R0tHdjdjQUpYai15Z0hRLU9kZEIyRjh6S0JqT2tEZlhkakdaSE5vNzRfeG1NZ19CeG9xSXFZdF82dnZMY0d1dC1NTmhhYlZ0T2pla05HQ2wza1dHNld2YldoX1JYdGZPVlZvbUEtZ1MwNEtDamF4NTVFd2s3Ym1yLV9UdFVOd3BlLWJwOGR6NjkwZXZCa2Vj?oc=5",
+      "source": "FXLeaders",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -419,18 +419,7 @@
       "source": "Gadgets 360",
       "region": "overseas",
       "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI - FXLeaders",
-      "desc": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI    FXLeaders",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGV2cTAtWk1aY25nNTBWWmtVVFp4R0tHdjdjQUpYai15Z0hRLU9kZEIyRjh6S0JqT2tEZlhkakdaSE5vNzRfeG1NZ19CeG9xSXFZdF82dnZMY0d1dC1NTmhhYlZ0T2pla05HQ2wza1dHNld2YldoX1JYdGZPVlZvbUEtZ1MwNEtDamF4NTVFd2s3Ym1yLV9UdFVOd3BlLWJwOGR6NjkwZXZCa2Vj?oc=5",
-      "source": "FXLeaders",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
+      "type": "china",
       "impact": "mid",
       "hot": false
     },
@@ -455,16 +444,27 @@
       "type": "model",
       "impact": "mid",
       "hot": false
+    },
+    {
+      "title": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows - MobiGyaan",
+      "desc": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows    MobiGyaan",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUJfaGhNZ1Q3QlpzOUM3cm4xbUgtVkVkX2xkYUdlQWVXX1VTYVd5UlJ0WUY0VTZiTHFBeWRVTHh2ZWtFZzBZT1YtMHQtMUM2Q1pkSzdxRlViQnFVc1dqMEdfWlp5ak9lQ3VRX2pNblllVnFhUFl2OWVwWnlQN2hsQ1RVYkcyYi1I?oc=5",
+      "source": "MobiGyaan",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
     }
   ],
   "trends": [
     {
       "title": "模型竞争",
-      "body": "本周 11 条相关报道。代表：中国科学院发布“磐石100”模型体系 - 新华网；服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.co；效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计。"
+      "body": "本周 10 条相关报道。代表：中国科学院发布“磐石100”模型体系 - 新华网；服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.co；效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计。"
     },
     {
       "title": "Agent应用",
-      "body": "本周 5 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
+      "body": "本周 6 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
     },
     {
       "title": "AI治理",
