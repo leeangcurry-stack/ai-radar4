@@ -246,25 +246,58 @@ def main():
     all_items = dedup(all_items)
     print(f"去重后:   {len(all_items)}")
 
-    # 国内内容：每个查询最多贡献2条，至少8条不设上限
+    # 国内内容三层逻辑：
+    # 第一层：公司专属查询保证至少4条（每查询最多2条）
+    # 第二层：宽泛查询每查询最多2条补充话题多样性
+    # 第三层：总数不足10条则放宽补齐到10条，不设上限
+
+    COMPANY_QUERIES = {"DeepSeek", "字节豆包", "阿里通义", "百度文心", "华为昇腾", "月之暗面Kimi", "腾讯混元", "智谱AI"}
+    BROAD_QUERIES   = {"国内AI动态", "大模型发布", "AI产品上线", "AI融资投资", "AI芯片算力"}
+
     china_items = [i for i in all_items if i["region"] == "china"]
     china_items.sort(key=lambda x: x.get("date", ""), reverse=True)
-    china_quota = []
-    china_query_count = {}
-    # 第一轮：每查询最多2条
+
+    # 第一层：公司查询，每查询最多2条
+    company_quota = []
+    company_query_count = {}
     for item in china_items:
         q = item.get("_query", "")
-        if china_query_count.get(q, 0) < 2:
-            china_quota.append(item)
-            china_query_count[q] = china_query_count.get(q, 0) + 1
-    # 第二轮：如果不足8条，放宽限制补到8条
-    if len(china_quota) < 8:
+        if q in COMPANY_QUERIES:
+            if company_query_count.get(q, 0) < 2:
+                company_quota.append(item)
+                company_query_count[q] = company_query_count.get(q, 0) + 1
+
+    # 如果公司查询不足4条，放宽限制补到4条
+    if len(company_quota) < 4:
+        company_ids = {id(i) for i in company_quota}
+        for item in china_items:
+            if item.get("_query", "") in COMPANY_QUERIES and id(item) not in company_ids:
+                company_quota.append(item)
+                company_ids.add(id(item))
+            if len(company_quota) >= 4:
+                break
+
+    # 第二层：宽泛查询，每查询最多2条，不与公司条目重复
+    company_ids = {id(i) for i in company_quota}
+    broad_quota = []
+    broad_query_count = {}
+    for item in china_items:
+        q = item.get("_query", "")
+        if q in BROAD_QUERIES and id(item) not in company_ids:
+            if broad_query_count.get(q, 0) < 2:
+                broad_quota.append(item)
+                broad_query_count[q] = broad_query_count.get(q, 0) + 1
+
+    china_quota = company_quota + broad_quota
+
+    # 第三层：总数不足10条则放宽补齐
+    if len(china_quota) < 10:
         china_ids = {id(i) for i in china_quota}
         for item in china_items:
             if id(item) not in china_ids:
                 china_quota.append(item)
                 china_ids.add(id(item))
-            if len(china_quota) >= 8:
+            if len(china_quota) >= 10:
                 break
 
     # 海外内容：取前30条
