@@ -1,6 +1,6 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T10:06:49.329722",
+  "generated_ts": "2026-04-29T10:11:12.770695",
   "summary": "本周追踪到 40 条AI动态，海外 40 条、国内 0 条。融资事件 2 起。",
   "top_story": {
     "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
@@ -94,6 +94,39 @@
       "hot": false
     },
     {
+      "title": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer - AD HOC NEWS",
+      "desc": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer    AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHF1X0hWTU1SSjFfc0xCQlRmMS1tNFJENGVTemlyUExpT2VFRHVpeG9qaV8zellTWFh6Vk9JZ0Ezd1JRZlpTcHkxMTJBcTVQVDJKczBlbkRCSFh5dlEzRG9lNC1DcE1qUEhReWJIRnVHN3cyVlVhRkQyOXN2Y1pKb0ZSbm43ZGZmSTlSSlRQNndtaGNEaWV4UHkxTlZPUmFibk45Zkl0VVc0cmk1ZjZjMXRZZ0c1NkJwZzNKWXQ2bUVzekU?oc=5",
+      "source": "AD HOC NEWS",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Ads Manager Amid $100 Million Revenue Milestone – What U.S. Marketers Need - AD HOC NEWS",
+      "desc": "OpenAI Launches ChatGPT Ads Manager Amid $100 Million Revenue Milestone – What U.S. Marketers Need    AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3lVOHhRYk1KZ1BwUkxjWnVla1hMdDhYQlZSTi1JSHR5NVFXM1Ftb1NJRzJ3V3Vndlplb19uLWdleW5LZE5rR25NZFItV0Q1TG5IRzd2cEZtZ3MzN2IwMm5CMHlvd2E3U0cwTDNIQk5YcG5ydVltWjlPWUF3RFJSOGdUUjd6Zm1tVGxRZE1yRFJ4UEh1bk5kMkxVbXhsY2NldWljb3gzUzVvRHozZ1lwOU1YRmtqSzdjNEdib3Jib0lOMlQ2YVowSw?oc=5",
+      "source": "AD HOC NEWS",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Manager Launches Amid $100 Million Revenue Milestone – What U.S. Marketers Need - AD HOC NEWS",
+      "desc": "OpenAI ChatGPT Ads Manager Launches Amid $100 Million Revenue Milestone – What U.S. Marketers Need    AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORVdOS2V1aURDYkdIZVZHdEllWHVnc2l5cHduQnFDUGtBNlExNUdmbUJoZGhnYWl5ZTB3MFJFNWVud1ljbmpXQkRHbi1OTW5LVlFZbVd2R21MeVV1ejdDVjFLQlBJWDl4QTB3UVZjTk9TVlh6cGNxcEoteGhvZzZvTEhtYU9jZkZHb2liUFdBWUdnWTZrTm91bXREbjM0U1JqakhEU3lJcVZVdUM3Ujc4a2ltZTYwZEJabE1KdVh1UHp1UldEcjg4Sw?oc=5",
+      "source": "AD HOC NEWS",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
       "title": "Blender CEO Addresses Funding From Claude AI Creator Anthropic - 80 Level",
       "desc": "Blender CEO Addresses Funding From Claude AI Creator Anthropic    80 Level",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzlFd3pYMkY5cDREZ3Z1NGNTOVVpTV8yeGVxbTlTTXhMUEVuNXVNNXVORHJldWYzNUlSOGN5RG9ibFlkV092UmN2dFhQbTM1aDN1VVRSS2RhSUF6WHNyc3RaQzl4cnl5T09kSzZhaC1ONnNjbTNlalNyUy1KbVJ4T01xR0pKZw?oc=5",
@@ -116,14 +149,14 @@
       "hot": false
     },
     {
-      "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says - Reuters",
-      "desc": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says    Reuters",
+      "title": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says - Reuters",
+      "desc": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says    Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
       "source": "Reuters",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
-      "impact": "low",
+      "impact": "mid",
       "hot": false
     },
     {
@@ -142,17 +175,6 @@
       "desc": "Claude AI Targets Animation Pipelines, Anthropic Backs Blender    Cartoon Brew",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE1yUFp2cE41aEFXZTEtMERJcFdlWFV6WWtlM2NHaGUtVGt4cldWekhXaHZrWHBqWWFBbzJBdk9xMndYbzJNNlRTaUFnVDBVNGVoME9ieC1Fb3NINFFoaFJGRDJZWUpQVmg2V2NLWGR5OU84Z1VydVZyWlp5TEU3UzhKQTlpWDZaX3lEMEFEcFZZM21QTHc?oc=5",
       "source": "Cartoon Brew",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says - Yahoo Finance",
-      "desc": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says    Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTZfTDRldWdkenpFMVVGX0Y4WU5pbXZ1N1RXQTBKTms1dlluR3daN2pDemFMRUwtcVllU2VZWkZ5bTlsUW5uMWowc1Q0UTY2WDRONU1kZ0pKRUY3VURyT3RiaElYbkdyOGdMelZWM3QzUk92RDNERFMzUHZYVEhoeTNNbVV0cFh1OEl5Y0Zidm1OQ2E4VlJBZ2VINGFGZw?oc=5",
-      "source": "Yahoo Finance",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -201,6 +223,17 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says By Reuters - Investing.com",
+      "desc": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says By Reuters    Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0NrY3h6WGt0cW1nM0dGZmNNYWg2RFdEeEZWQ25TQ2NOeVJkRXA4U3VybUZSYUloNE5waEdqZml5RjBWemt5VENFdXQ3aGZWTG94Snc4QklHTnpEZ0FZVXVvN2NwWmgwWjIzelo1Zi16TGxWYzl3NUdCLURkcVJFSEF4ZWVuaDNDc3dJZkw1eVU0b2ZreVRKZ1lFbkQ3a01aei1zb1o4TFZIZE9wQmx0eWtfNVRoRlRvdlFPNnJjNnUtdXNX?oc=5",
+      "source": "Investing.com",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
       "hot": false
     },
     {
@@ -281,6 +314,17 @@
       "hot": false
     },
     {
+      "title": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude - Latest news from Azerbaijan",
+      "desc": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude    Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEJoWll6MzRuQ1FPRzRDenNZc2tBN21iSHQ2WkQ0enVXVGtqWFIwMm1OSWlGUmx0c25YUWtvMTY4QXJrUkpRVVB3NE5yNV9BR05NNjExay1nY3JlbnltclBYSHRaUDZoMFRXc2otSEU2MVNvc181bzhxbXVQQ0dBcHVDNTh6VEpIMWVRMw?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
       "title": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows - MobiGyaan",
       "desc": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows    MobiGyaan",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUJfaGhNZ1Q3QlpzOUM3cm4xbUgtVkVkX2xkYUdlQWVXX1VTYVd5UlJ0WUY0VTZiTHFBeWRVTHh2ZWtFZzBZT1YtMHQtMUM2Q1pkSzdxRlViQnFVc1dqMEdfWlp5ak9lQ3VRX2pNblllVnFhUFl2OWVwWnlQN2hsQ1RVYkcyYi1I?oc=5",
@@ -296,17 +340,6 @@
       "desc": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works    Mint",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbDk3Wmo4cUhiOWdtY09EYkp3dy1xSXZkMGZKNGd1bWhnZFEzZGtBRW1xUVU1d19MMks2ZW1LYjhMSmhjRVpjc0NyLTJnRy1fdW1aR2owRWczakNwSTN0QU1aSThjZllTenJtODdpbDZ1N3pXeWhfZWtDdUhrN3VnY0ZxWDhMdmZuRjRZX01DUU9iWkRwNElYa2Vlbm9OM1VDTnVZVGpHeEF6RHdLM043QTNCbkJFeEx5ZTBRVUN1S19RQVphOUVjNU5UTXFadWdHdzNqbUlhUHRtVXczQkp3dm81SnkzTFRHOHgzNHp5bC1jMlp0T0h0SdIB_gFBVV95cUxPT2tHdnhBLW5pVnpiODBSZ3ZOZlc0NHJMWXBMV2VsOGxQb0Y5M1NfUmI3b25rZWlVUmRoZlI3Z3d3VXYwblU2VXhnRHYxbTJzRnpZRlFUczktc3RMaFhIenNNU29xcWtrbUpXOHlGaEJUNUpHaFRKeDhmS3E3OXNlR1ZiSkJXWmY1RHJ1Y3ZBMzJMdndYVGZscldUcEJwZGFrLVhSM1pNcjJLUjNsRjRPWXJBeUpPSlNuVXhSemwwb1M3eVkxRngwZ25Lb29iRmd2NGc4RzkxQTJCczZHeE1BU3ZyOTBrQ2lLcWdtMkZVVjl4M054OGVWVm1aVXE0UQ?oc=5",
       "source": "Mint",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude - Latest news from Azerbaijan",
-      "desc": "Goldman Sachs cuts AI access: Why Hong Kong Bankbars lost Claude    Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEJoWll6MzRuQ1FPRzRDenNZc2tBN21iSHQ2WkQ0enVXVGtqWFIwMm1OSWlGUmx0c25YUWtvMTY4QXJrUkpRVVB3NE5yNV9BR05NNjExay1nY3JlbnltclBYSHRaUDZoMFRXc2otSEU2MVNvc181bzhxbXVQQ0dBcHVDNTh6VEpIMWVRMw?oc=5",
-      "source": "Latest news from Azerbaijan",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -422,53 +455,16 @@
       "type": "infra",
       "impact": "low",
       "hot": false
-    },
-    {
-      "title": "Smart, but Unpredictable. How Can We Trust Front-end AI? - The Fast Mode",
-      "desc": "Smart, but Unpredictable. How Can We Trust Front-end AI?    The Fast Mode",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHY0d1A3Q2R6WGdUVTZHTGd6QUhJYzI0T2hoYm1zWVpJblUzejhjdmE3cWZiVTdVczFGYWhnd0daU0o5ck51dURrSUNnOFNaLVpkSHpfakVxOTFMT2RwZVNJdWdtNWtNSVdsZ3BOVTUybTY2UmU1MXc5WnNQOENHa0JYb0t0dW5XaEZGM2RaMzZqM2hPS2hmVzE4QmtYZDZ5VGJMYw?oc=5",
-      "source": "The Fast Mode",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Nvidia launches Nemotron 3 Nano Omni to power unified multimodal AI agents - digitimes",
-      "desc": "Nvidia launches Nemotron 3 Nano Omni to power unified multimodal AI agents    digitimes",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkhsbVB0X2FuYldoVEYzYlU0ZnZmMVFuWU95SlJSLUdJRERLYXFlZG80VnFaRS1ZWWlmLW1rT2JfYzVPV3VTWUprbmtIV0JNRHMtVV9LS0lrTHB1c1VOYkVyUkdOb3BBQ25CTmc0b3JjTWFaektLVkp2eFV0V0Mwd0FkX2QtakQ1?oc=5",
-      "source": "digitimes",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "infra",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI - MarkTechPost",
-      "desc": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI    MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5",
-      "source": "MarkTechPost",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false
     }
   ],
   "trends": [
     {
       "title": "Agent应用",
-      "body": "本周 7 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
+      "body": "本周 5 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
     },
     {
       "title": "模型竞争",
-      "body": "本周 3 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；Notified Launches AI Press Release Optim；Nvidia launches Nemotron 3 Nano Omni to 。"
-    },
-    {
-      "title": "多模态",
-      "body": "本周 1 条相关报道。代表：Nvidia launches Nemotron 3 Nano Omni to 。"
+      "body": "本周 5 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；OpenAI Launches ChatGPT Ads Manager as A；OpenAI Launches ChatGPT Ads Manager Amid。"
     },
     {
       "title": "AI治理",
