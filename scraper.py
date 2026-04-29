@@ -35,6 +35,9 @@ QUERIES = [
     {"name": "华为昇腾",           "url": "https://news.google.com/rss/search?q=%E5%8D%8E%E4%B8%BA+%E6%98%87%E8%85%BE+AI+%E8%8A%AF%E7%89%87&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
     {"name": "月之暗面Kimi",       "url": "https://news.google.com/rss/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",     "region": "china"},
     {"name": "国内AI融资",         "url": "https://news.google.com/rss/search?q=AI+%E8%9E%8D%E8%B5%84+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E4%BA%BF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
+    {"name": "腾讯混元",           "url": "https://news.google.com/rss/search?q=%E8%85%BE%E8%AE%AF+%E6%B7%B7%E5%85%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                             "region": "china"},
+    {"name": "智谱AI",             "url": "https://news.google.com/rss/search?q=%E6%99%BA%E8%B0%B1+AI+GLM&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                                           "region": "china"},
+    {"name": "国内AI产品",         "url": "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E4%BA%A7%E5%93%81+%E5%8F%91%E5%B8%83&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
 ]
 
 BLOCKED_DOMAINS = {
@@ -239,25 +242,36 @@ def main():
     all_items = dedup(all_items)
     print(f"去重后:   {len(all_items)}")
 
-    # 国内内容：每个查询最多贡献2条（避免单一话题霸屏），总计取前10条
+    # 国内内容：每个查询最多贡献4条，强制凑满10条
+    # 第一轮：每查询最多4条
     china_items = [i for i in all_items if i["region"] == "china"]
     china_items.sort(key=lambda x: x.get("date", ""), reverse=True)
     china_quota = []
     china_query_count = {}
     for item in china_items:
         q = item.get("_query", "")
-        if china_query_count.get(q, 0) < 2:
+        if china_query_count.get(q, 0) < 4:
             china_quota.append(item)
             china_query_count[q] = china_query_count.get(q, 0) + 1
-        if len(china_quota) >= 10:
-            break
 
-    # 海外内容：取前25条
+    # 第二轮：如果还不够10条，放宽限制补齐
+    if len(china_quota) < 10:
+        china_ids = {id(i) for i in china_quota}
+        for item in china_items:
+            if id(item) not in china_ids:
+                china_quota.append(item)
+                china_ids.add(id(item))
+            if len(china_quota) >= 10:
+                break
+
+    china_quota = china_quota[:10]
+
+    # 海外内容：取前30条
     overseas_items = [i for i in all_items if i["region"] != "china"]
     overseas_items.sort(key=lambda x: x.get("date", ""), reverse=True)
     overseas_quota = overseas_items[:30]
 
-    # 合并后按时间排序
+    # 合并后按时间排序，总计40条
     events = china_quota + overseas_quota
     events.sort(key=lambda x: x.get("date", ""), reverse=True)
 
