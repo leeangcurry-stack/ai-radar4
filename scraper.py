@@ -229,13 +229,24 @@ def main():
     all_items = dedup(all_items)
     print(f"去重后:   {len(all_items)}")
 
-    all_items.sort(key=lambda x: x.get("date", ""), reverse=True)
-    events = all_items[:40]
+    # 按海外/国内分别排序，保证国内至少15条席位，海外取前25条
+    # 避免英文内容过多时国内内容被完全挤出
+    china_items   = [i for i in all_items if i["region"] == "china"]
+    overseas_items = [i for i in all_items if i["region"] != "china"]
+
+    china_items.sort(key=lambda x: x.get("date", ""), reverse=True)
+    overseas_items.sort(key=lambda x: x.get("date", ""), reverse=True)
+
+    # 国内最多取15条，海外最多取25条，合并后再按时间排序
+    events = china_items[:15] + overseas_items[:25]
+    events.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     high_items    = [e for e in events if e["impact"] == "high"]
     china_count   = len([e for e in events if e["region"] == "china"])
+    overseas_count = len([e for e in events if e["region"] != "china"])
     funding_count = len([e for e in events if e["type"] == "funding"])
     top_story     = high_items[0] if high_items else (events[0] if events else {})
+    print(f"      国内: {china_count} 条 / 海外: {overseas_count} 条")
 
     now  = datetime.now()
     data = {
