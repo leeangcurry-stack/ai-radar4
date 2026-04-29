@@ -239,16 +239,26 @@ def main():
     all_items = dedup(all_items)
     print(f"去重后:   {len(all_items)}")
 
-    # 按海外/国内分别排序，保证国内至少15条席位，海外取前25条
-    # 避免英文内容过多时国内内容被完全挤出
-    china_items   = [i for i in all_items if i["region"] == "china"]
-    overseas_items = [i for i in all_items if i["region"] != "china"]
-
+    # 国内内容：每个查询最多贡献2条（避免单一话题霸屏），总计取前10条
+    china_items = [i for i in all_items if i["region"] == "china"]
     china_items.sort(key=lambda x: x.get("date", ""), reverse=True)
-    overseas_items.sort(key=lambda x: x.get("date", ""), reverse=True)
+    china_quota = []
+    china_query_count = {}
+    for item in china_items:
+        q = item.get("_query", "")
+        if china_query_count.get(q, 0) < 2:
+            china_quota.append(item)
+            china_query_count[q] = china_query_count.get(q, 0) + 1
+        if len(china_quota) >= 10:
+            break
 
-    # 国内最多取15条，海外最多取25条，合并后再按时间排序
-    events = china_items[:15] + overseas_items[:25]
+    # 海外内容：取前25条
+    overseas_items = [i for i in all_items if i["region"] != "china"]
+    overseas_items.sort(key=lambda x: x.get("date", ""), reverse=True)
+    overseas_quota = overseas_items[:30]
+
+    # 合并后按时间排序
+    events = china_quota + overseas_quota
     events.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     high_items    = [e for e in events if e["impact"] == "high"]
