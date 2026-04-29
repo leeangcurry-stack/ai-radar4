@@ -246,59 +246,54 @@ def main():
     all_items = dedup(all_items)
     print(f"去重后:   {len(all_items)}")
 
-    # 国内内容三层逻辑：
-    # 第一层：公司专属查询保证至少4条（每查询最多2条）
-    # 第二层：宽泛查询每查询最多2条补充话题多样性
-    # 第三层：总数不足10条则放宽补齐到10条，不设上限
-
     COMPANY_QUERIES = {"DeepSeek", "字节豆包", "阿里通义", "百度文心", "华为昇腾", "月之暗面Kimi", "腾讯混元", "智谱AI"}
     BROAD_QUERIES   = {"国内AI动态", "大模型发布", "AI产品上线", "AI融资投资", "AI芯片算力"}
 
     china_items = [i for i in all_items if i["region"] == "china"]
     china_items.sort(key=lambda x: x.get("date", ""), reverse=True)
 
-    # 第一层：公司查询，每查询最多2条
-    company_quota = []
-    company_query_count = {}
+    # ── 公司池：目标至少4条，每查询最多2条，不够则放宽 ──
+    company_pool = []
+    company_qcount = {}
     for item in china_items:
-        q = item.get("_query", "")
-        if q in COMPANY_QUERIES:
-            if company_query_count.get(q, 0) < 2:
-                company_quota.append(item)
-                company_query_count[q] = company_query_count.get(q, 0) + 1
-
-    # 如果公司查询不足4条，放宽限制补到4条
-    if len(company_quota) < 4:
-        company_ids = {id(i) for i in company_quota}
+        if item.get("_query", "") in COMPANY_QUERIES:
+            q = item["_query"]
+            if company_qcount.get(q, 0) < 2:
+                company_pool.append(item)
+                company_qcount[q] = company_qcount.get(q, 0) + 1
+    # 不足4条则放宽每查询上限直到凑够
+    if len(company_pool) < 4:
+        seen = {id(i) for i in company_pool}
         for item in china_items:
-            if item.get("_query", "") in COMPANY_QUERIES and id(item) not in company_ids:
-                company_quota.append(item)
-                company_ids.add(id(item))
-            if len(company_quota) >= 4:
+            if item.get("_query", "") in COMPANY_QUERIES and id(item) not in seen:
+                company_pool.append(item)
+                seen.add(id(item))
+            if len(company_pool) >= 4:
                 break
 
-    # 第二层：宽泛查询，每查询最多2条，不与公司条目重复
-    company_ids = {id(i) for i in company_quota}
-    broad_quota = []
-    broad_query_count = {}
+    # ── 宽泛池：目标至少6条，每查询最多2条，不与公司池重复，不够则放宽 ──
+    seen_company = {id(i) for i in company_pool}
+    broad_pool = []
+    broad_qcount = {}
     for item in china_items:
-        q = item.get("_query", "")
-        if q in BROAD_QUERIES and id(item) not in company_ids:
-            if broad_query_count.get(q, 0) < 2:
-                broad_quota.append(item)
-                broad_query_count[q] = broad_query_count.get(q, 0) + 1
-
-    china_quota = company_quota + broad_quota
-
-    # 第三层：总数不足10条则放宽补齐
-    if len(china_quota) < 10:
-        china_ids = {id(i) for i in china_quota}
+        if item.get("_query", "") in BROAD_QUERIES and id(item) not in seen_company:
+            q = item["_query"]
+            if broad_qcount.get(q, 0) < 2:
+                broad_pool.append(item)
+                broad_qcount[q] = broad_qcount.get(q, 0) + 1
+    # 不足6条则放宽每查询上限直到凑够
+    if len(broad_pool) < 6:
+        seen_all = seen_company | {id(i) for i in broad_pool}
         for item in china_items:
-            if id(item) not in china_ids:
-                china_quota.append(item)
-                china_ids.add(id(item))
-            if len(china_quota) >= 10:
+            if item.get("_query", "") in BROAD_QUERIES and id(item) not in seen_all:
+                broad_pool.append(item)
+                seen_all.add(id(item))
+            if len(broad_pool) >= 6:
                 break
+
+    # ── 合并：公司4条 + 宽泛6条 = 至少10条，不设上限 ──
+    china_quota = company_pool + broad_pool
+    print(f"      国内公司池: {len(company_pool)} 条 / 宽泛池: {len(broad_pool)} 条 / 合计: {len(china_quota)} 条")
 
     # 海外内容：取前30条
     overseas_items = [i for i in all_items if i["region"] != "china"]
