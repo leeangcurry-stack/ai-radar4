@@ -61,7 +61,7 @@ def classify(title: str, desc: str, query_name: str) -> str:
         return "funding"
     if any(k in text for k in ["chip", "gpu", "tpu", "npu", "昇腾", "算力", "ascend", "nvidia", "芯片", "mcp", "infrastructure"]):
         return "infra"
-    if any(k in text for k in ["deepseek", "字节", "阿里", "百度", "华为", "腾讯", "月之暗面", "智谱", "qwen", "文心", "通义", "混元", "豆包", "kimi"]):
+    if any(k in text for k in ["deepseek", "字节", "阿里", "百度", "华为", "腾讯", "月之暗面", "智谱", "qwen", "文心", "通义", "混元", "豆包", "kimi", "小米", "vivo", "oppo", "荣耀", "讯飞", "商汤", "旷视", "云从", "360", "网易", "京东", "美团", "滴滴", "快手", "抖音", "微信", "钉钉", "飞书", "支付宝", "蚂蚁", "昆仑万维", "minimax", "零一万物", "稀宇", "阶跃星辰"]):
         return "china"
     if any(k in text for k in ["release", "launch", "model", "gpt", "claude", "gemini", "llama", "发布", "推出", "版本", "update"]):
         return "model"
