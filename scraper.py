@@ -27,12 +27,14 @@ QUERIES = [
     {"name": "Meta AI Llama",    "url": "https://news.google.com/rss/search?q=Meta+AI+Llama+open+source&hl=en-US&gl=US&ceid=US:en",               "region": "overseas"},
     {"name": "AI 芯片",           "url": "https://news.google.com/rss/search?q=Nvidia+AI+chip+GPU+inference&hl=en-US&gl=US&ceid=US:en",            "region": "overseas"},
     # 国内 · 中文
-    {"name": "DeepSeek",         "url": "https://news.google.com/rss/search?q=DeepSeek&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                           "region": "china"},
-    {"name": "国内大模型",         "url": "https://news.google.com/rss/search?q=大模型+发布+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                     "region": "china"},
-    {"name": "字节豆包",           "url": "https://news.google.com/rss/search?q=字节跳动+豆包+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                   "region": "china"},
-    {"name": "阿里百度 AI",        "url": "https://news.google.com/rss/search?q=阿里通义+百度文心+大模型&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",           "region": "china"},
-    {"name": "华为昇腾",           "url": "https://news.google.com/rss/search?q=华为+昇腾+AI+芯片&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                 "region": "china"},
-    {"name": "国内AI融资",         "url": "https://news.google.com/rss/search?q=AI+融资+人工智能+亿&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",               "region": "china"},
+    {"name": "DeepSeek",         "url": "https://news.google.com/rss/search?q=DeepSeek&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                                        "region": "china"},
+    {"name": "国内大模型",         "url": "https://news.google.com/rss/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B+%E5%8F%91%E5%B8%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",   "region": "china"},
+    {"name": "字节豆包",           "url": "https://news.google.com/rss/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8+%E8%B1%86%E5%8C%85+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
+    {"name": "阿里通义",           "url": "https://news.google.com/rss/search?q=%E9%98%BF%E9%87%8C+%E9%80%9A%E4%B9%89+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
+    {"name": "百度文心",           "url": "https://news.google.com/rss/search?q=%E7%99%BE%E5%BA%A6+%E6%96%87%E5%BF%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",          "region": "china"},
+    {"name": "华为昇腾",           "url": "https://news.google.com/rss/search?q=%E5%8D%8E%E4%B8%BA+%E6%98%87%E8%85%BE+AI+%E8%8A%AF%E7%89%87&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
+    {"name": "月之暗面Kimi",       "url": "https://news.google.com/rss/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",     "region": "china"},
+    {"name": "国内AI融资",         "url": "https://news.google.com/rss/search?q=AI+%E8%9E%8D%E8%B5%84+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E4%BA%BF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
 ]
 
 BLOCKED_DOMAINS = {
@@ -104,7 +106,15 @@ CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
 
 def fetch_query(q: dict) -> list[dict]:
     try:
-        req = Request(q["url"], headers=HEADERS)
+        # 对URL中的中文关键词做编码，避免部分环境下请求失败
+        from urllib.parse import quote, urlparse, urlunparse, urlencode, parse_qs
+        parsed = urlparse(q["url"])
+        qs = parse_qs(parsed.query, keep_blank_values=True)
+        # 重新编码query参数（parse_qs已解码，urlencode重新编码）
+        encoded_query = urlencode({k: v[0] for k, v in qs.items()})
+        safe_url = urlunparse((parsed.scheme, parsed.netloc, parsed.path,
+                               parsed.params, encoded_query, parsed.fragment))
+        req = Request(safe_url, headers=HEADERS)
         with urlopen(req, timeout=20) as resp:
             raw = resp.read()
     except Exception as e:
