@@ -251,7 +251,7 @@ function renderEvents(events) {
 function filterEvents(type, btn) {
   document.querySelectorAll('.fbtn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  const filtered = type === 'all' ? allEvents : allEvents.filter(e => e.type === type);
+  const filtered = type === 'all' ? allEvents : type === 'china' ? allEvents.filter(e => e.region === 'china') : allEvents.filter(e => e.type === type);
   document.getElementById('event-list').innerHTML = renderEvents(filtered);
 }
 
