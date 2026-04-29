@@ -1,17 +1,17 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T10:30:11.072176",
-  "summary": "本周追踪到 32 条AI动态，海外 30 条、国内 2 条。融资事件 1 起。",
+  "generated_ts": "2026-04-29T10:40:04.706348",
+  "summary": "本周追踪到 40 条AI动态，海外 30 条、国内 10 条。高影响事件 2 条。融资事件 1 起。",
   "top_story": {
-    "title": "DeepSeek加入多模态功能，小鲸鱼终于能看到东西了|Hugging Face|GitHub|官网|权重|科技_手机新浪网 - 新浪财经",
-    "desc": "DeepSeek加入多模态功能，小鲸鱼终于能看到东西了|Hugging Face|GitHub|官网|权重|科技_手机新浪网    新浪财经",
-    "source": "新浪财经",
+    "title": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片 - 联合早报",
+    "desc": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片    联合早报",
+    "source": "联合早报",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0twN0Y2cDJQazZZdjNXa2xHa0l1YXVIWXp5blk4dmtvY1hEdklKM1Ffam9Dd0gwdUd6cnhQU2RkSEZoekdYeFZ5Uk1kV3BNbnJrWG85VWdpT0RDOHpfVVRjSUNHakpYSXJhem1NQkhHSGJXQmVHd0xSS0VMZm0zdl8zeXJvbFB0aDMyc0lZLS0wYXo5WG12elVYTDR2WG1fVzdfWVZ6cw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fam05M1JBajhfdHFWVXQ4MFhNaEFVeWhZaGlyU0dNTjIzSzhsUWc2WV9uYXR2ZXM4elNYdW1PRFk3YmZmM1ZzRVNOeVd3WjN5ZFdRNjJuNURjbkk0ckdJcEVKWmdMNUFSVFE?oc=5"
   },
   "metrics": {
-    "events_count": 32,
-    "china_count": 2,
+    "events_count": 40,
+    "china_count": 10,
     "overseas_count": 30,
     "funding_count": 1
   },
@@ -32,6 +32,94 @@
       "desc": "科技连线｜DeepSeek V4上线，AI世界正在改变的规则    thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43MGIwLWE4dXVUb3NlOUNhdldFRkNsR1JDejZadjVpZjJQalN3aWQ0RUlzRTlNUXgxTENiTkgtWW1uT0UtYy1aOF95dlp4Z0VRY1k0dkFQUWViN2gtd3E3QQ?oc=5",
       "source": "thepaper.cn",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片 - 联合早报",
+      "desc": "DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片    联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fam05M1JBajhfdHFWVXQ4MFhNaEFVeWhZaGlyU0dNTjIzSzhsUWc2WV9uYXR2ZXM4elNYdW1PRFk3YmZmM1ZzRVNOeVd3WjN5ZFdRNjJuNURjbkk0ckdJcEVKWmdMNUFSVFE?oc=5",
+      "source": "联合早报",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "high",
+      "hot": true
+    },
+    {
+      "title": "中国AI“双子星”杀出重围，西方封锁者的如意算盘彻底碎了！ - 观察者",
+      "desc": "中国AI“双子星”杀出重围，西方封锁者的如意算盘彻底碎了！    观察者",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMWpnRkNVclhEOUVaRmpqZGxRTmdoZDlFdWFCZ0RhblN3MlJYTVNrRW5vMGt6OC05bTJINDdVRWJYNTFON29wNFkxeUtleExvSmJhZEZBb3RGckt0ZTFkZUpyOXMwNm1PMHc?oc=5",
+      "source": "观察者",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "跑出去的Manus路断了，守在国内的DeepSeek路却越走越宽了_精彩视频为您呈现_36氪 - 36kr.com",
+      "desc": "跑出去的Manus路断了，守在国内的DeepSeek路却越走越宽了_精彩视频为您呈现_36氪    36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tY2dfTldoU0xUOHNmTUI0anR1bDMxcm5kNWZJM2FuS1BmeGl0QThtMVRjZ2dtMEFXWWhTQXZvWEJXeFhKLUlqZ3hReG5rMFNHb21sdzBn?oc=5",
+      "source": "36kr.com",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "科技连线｜DeepSeek V4上线，AI世界正在改变的规则 - 新浪财经",
+      "desc": "科技连线｜DeepSeek V4上线，AI世界正在改变的规则    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzlHTHRSQW9qV1B4WmxYdFpZU3FQalR0YVloWHhKNFItQWV3Z1JtZ0RZWGNhOVBrN3hDYndoQTFva3R4NF83ZkdIelY5V0RpM3dVY2t6SV9lcWpEMjdyY0NzNllhdlV3RWVwaF9td19hWG1KSzc4VGR4YzJkUGwyT2o4ektZUFpTUWhpalRqT0tyUHNiQU5weVpacGZSS3FGWWZubUNqcVNTY0IwaDV1cUNZNDVyaklhQlVEUA?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "第一时间！DeepSeek-V4发布，畅学AI 小畅AI-Coding 迎来超强进化 - 新华报业网",
+      "desc": "第一时间！DeepSeek-V4发布，畅学AI 小畅AI-Coding 迎来超强进化    新华报业网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55anB6RV9LYXNSTThKTkVBSEZZTEhhc01mV1NPT1BGX0w2dUJEc3lFN1hETmwteFctbnpLZUhnZGtLMjNob2MwR3hDQThfVElWRHlTSFR6V1o5UTJBNmVLUTF1eWJudmtOTElZ?oc=5",
+      "source": "新华报业网",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "high",
+      "hot": true
+    },
+    {
+      "title": "DeepSeek增资500万，梁文锋总持股超84%！ - 电子工程专辑",
+      "desc": "DeepSeek增资500万，梁文锋总持股超84%！    电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iNTZYMWtZLWVnYTZDSEtFZ0p3QUhjdHB1TmtnLTdwZGttRWV2V0otbE1jRVVXWnVDV0FUT2t0eGdCSE5uRDZ0eFhQcElNZnptUkpJ?oc=5",
+      "source": "电子工程专辑",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "DeepSeek这次，掀了哪两张桌子｜日新说 - 京报网",
+      "desc": "DeepSeek这次，掀了哪两张桌子｜日新说    京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WVG9VTG9BSE1sOVhFNE9mQ3V2V01jb0JQTk9RX1dRZ3FsSGpmajBOTlQzYmdnY1RLRGtvS2xXdVJKRnRGV25KNk1mek1TS0FKaVFLd2Q4YmZER1BvcEE?oc=5",
+      "source": "京报网",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "DeepSeek‑V4 技术报告全面分析 - 电子工程专辑",
+      "desc": "DeepSeek‑V4 技术报告全面分析    电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaZnJ2cUpObE5XRG5NN092dG41NzZLSm00eUpiQkNmOHZnVUY5UVBhTHk3QlVPMlN0R1liRDRMaW1YWnVMaUdHZjFnd0cxV3BBTkpn?oc=5",
+      "source": "电子工程专辑",
       "region": "china",
       "date": "2026-04-29",
       "type": "china",
@@ -109,17 +197,6 @@
       "desc": "Is the Prompt Outdated? GPT-5.5 Boasts Intuition, AI Takes Over Automatically with Specified Targets    eu.36kr.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RV3Fsb1NvRktaeWJJMWtzcllwNE93X2UwRU1qVkNpTzVVajdfbnlnVE9fX1I4SnoyYTRtYmxsT2hlR25zakd1aHM2U0VHVk1mVnV3?oc=5",
       "source": "eu.36kr.com",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Manager Launches: New Tool Reshapes AI Advertising for U.S. Marketers Amid $100M - AD HOC NEWS",
-      "desc": "OpenAI ChatGPT Ads Manager Launches: New Tool Reshapes AI Advertising for U.S. Marketers Amid $100M    AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUF94SXpVdmFiRUFUZ2hSTXh1VUNrOE9mN3Nzd1BwNFYwN0NQX3BSdXlPcDE1ZEIzMnFKZEVsQU5QQjkzXzRDWlM2YUJIU2hBcVRkcnpvQ01rN3F6Z0x2aV9aZ2hzVFBmQmFOOU1ibVFRZzJhVWp3dFhycFlOUUhYRFluMjZqdFBGSmhLSEZnc2ZScXliSTJocTJIbmRvSnlUazVTM25rV1JRdjFRMlVSVlhhU2NSQzhFR3JxM3BoaHROQmYzT1FMM1ViNA?oc=5",
-      "source": "AD HOC NEWS",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -270,17 +347,6 @@
       "hot": false
     },
     {
-      "title": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk - Gadgets 360",
-      "desc": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk    Gadgets 360",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVhJankzYV9hZXI1NFNPcU5zeTZ0U1lVRHFUYWVLNnlMd0dLNjBoeHFhZmdYZ3h5N1c4ZlpfaWJwaHBTRjA4ekgzNGpEWE1OTTdka3NzMjVxY1VJUnRoVGtsd0E0MnpGOTV6U3Vqd293LXpPbER4ajJuLW0tTVZVX1RvOU1CUHdVS2VFZFpUenRDRGNkVHZLSmQwTmpYcVRWTGlsM0dvbW41QXYxQnl5YmtwY0JZS1RBNFlLQmF2aWRuRWpfcXp30gHMAUFVX3lxTE9aTTh4OWx3b0xhaXFZSE0zTzk0REJTYUNYZ2RCWFpyRHNVd2ZlQ093c2ZtbnN4eENfZkVicGUyS1JwT0JmUmMyc1hhb0pDbEVOdFdyYjIzcFBKWXJETVlKOWlRTV9STGhvR0RDZVBrdzBRMGFaR2hzYk5BSmxNcTZpTW1QbUZjSC02NXdkNFRHWVdQNzlCZklwaTRrcUo0YVlzVDNtWFRhdG5LRWN0bXNMNXNqOXFDUGJJbUU0ZzhWVDlFRVlxVUR3dGZHMA?oc=5",
-      "source": "Gadgets 360",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
       "title": "Anthropic's AI agents spark debate over business risk - IT Brief UK",
       "desc": "Anthropic's AI agents spark debate over business risk    IT Brief UK",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkxXdTNYMVE4dXNVLXpnVDJOd09vM003RnhXSVRrcVVlblZKVU1yYlQwWEtjUjdZX280UVl4TnpWTm1jWUM3UUIybHd3OGMxZ3dMNXRSTkdCODJqZ0huREdyWTZMUVMweXBjMmpuV1VtNVYzMFcyVExGUW0zaEhLTlRaMVYyTmdF?oc=5",
@@ -296,6 +362,17 @@
       "desc": "Goldman Sachs blocks Anthropic Claude in Hong Kong as AI tension between US and China rises    India Today",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd25CUzJiVkNENnhrUjJnVldYT0RPdzRfeVpQdmJOTExfWnE0YmtwOGpOdlRfX2swOHFodTBfSmRycUlYNG9QRWdLQkJIU2tiOTJmVFdPTklZUVY3RTdkamNIZWlMYXhaOUh6WmFOaGNUUXVsT1J0ZHhrdnRoSklpY2Jub1YtbXpuSU5OYkNKX2xXRmdCRjR6bUc2ei1KbEctMDNNUkQ1MTA0Y1prR1hsRk40U0RNdnI4Tjl2THhmcDNpRGF2TFFvWGYxNUZNcTQza0EwSTVhRTVTRk84U0RqalcxWjVHZ01FSm1NY2Y1d9IB9AFBVV95cUxNS2xnc1NyZjlUUEhyMXlmWWE5ZURXS1d1VWZLQlFIM1FoUDd1TE1RR0djRTF2SkhzMmdUdnllamhTdEZGS05hOUM2OWxqelNXM0tJdk1uem5sSzJPeUpPVmFLQVJlemJIa2tpa3ZkZkNEU3o2SExFQlhVZ0cwTWluSU5hMTRHN0VFRDh5YkN3alJSSHdsWGdnS2xSRkd3eUhfM1FPcUxIcXItbHFkZlF0ZnJEUXVGOVQzNHpaRXBuVmJoNHZ1bnhlZ2RfWkFCQVlQZ1oyS2JONEFfYmFQQlZ2NURHaEhvWlNZTHRUOERwbkF6bUZL?oc=5",
       "source": "India Today",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk - Gadgets 360",
+      "desc": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk    Gadgets 360",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVhJankzYV9hZXI1NFNPcU5zeTZ0U1lVRHFUYWVLNnlMd0dLNjBoeHFhZmdYZ3h5N1c4ZlpfaWJwaHBTRjA4ekgzNGpEWE1OTTdka3NzMjVxY1VJUnRoVGtsd0E0MnpGOTV6U3Vqd293LXpPbER4ajJuLW0tTVZVX1RvOU1CUHdVS2VFZFpUenRDRGNkVHZLSmQwTmpYcVRWTGlsM0dvbW41QXYxQnl5YmtwY0JZS1RBNFlLQmF2aWRuRWpfcXp30gHMAUFVX3lxTE9aTTh4OWx3b0xhaXFZSE0zTzk0REJTYUNYZ2RCWFpyRHNVd2ZlQ093c2ZtbnN4eENfZkVicGUyS1JwT0JmUmMyc1hhb0pDbEVOdFdyYjIzcFBKWXJETVlKOWlRTV9STGhvR0RDZVBrdzBRMGFaR2hzYk5BSmxNcTZpTW1QbUZjSC02NXdkNFRHWVdQNzlCZklwaTRrcUo0YVlzVDNtWFRhdG5LRWN0bXNMNXNqOXFDUGJJbUU0ZzhWVDlFRVlxVUR3dGZHMA?oc=5",
+      "source": "Gadgets 360",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -367,24 +444,35 @@
       "type": "model",
       "impact": "mid",
       "hot": false
+    },
+    {
+      "title": "Centre In Talks With US, Anthropic For Access To Claude Mythos: Report - Inc42",
+      "desc": "Centre In Talks With US, Anthropic For Access To Claude Mythos: Report    Inc42",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGFzNlZpeGFsckVfTGt4OVBVbmhQN3FwX0RGY19BR19GcUN3cm5fQW1namVCWTdmYVdjNnY4bkZXVkxpRjhvR0xfTDRvZTlteHR1c0NCUmJHY3U3T3ltWURYd2tFQVpTTWNtdDBtLUVtRUtnelFia00yVnJDbmpEVGc1WkpqSW1hNVdhd0htajJvR0c1cy1n?oc=5",
+      "source": "Inc42",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
     }
   ],
   "trends": [
+    {
+      "title": "开源生态",
+      "body": "本周 9 条相关报道。代表：DeepSeek加入多模态功能，小鲸鱼终于能看到东西了|Hugging Face；科技连线｜DeepSeek V4上线，AI世界正在改变的规则 - thepape；DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片 - 联合早报。"
+    },
+    {
+      "title": "国产AI",
+      "body": "本周 9 条相关报道。代表：跑出去的Manus路断了，守在国内的DeepSeek路却越走越宽了_精彩视频为您；科技连线｜DeepSeek V4上线，AI世界正在改变的规则 - 新浪财经；第一时间！DeepSeek-V4发布，畅学AI 小畅AI-Coding 迎来超强。"
+    },
     {
       "title": "Agent应用",
       "body": "本周 5 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
     },
     {
-      "title": "开源生态",
-      "body": "本周 2 条相关报道。代表：DeepSeek加入多模态功能，小鲸鱼终于能看到东西了|Hugging Face；科技连线｜DeepSeek V4上线，AI世界正在改变的规则 - thepape。"
-    },
-    {
-      "title": "国产AI",
-      "body": "本周 2 条相关报道。代表：DeepSeek加入多模态功能，小鲸鱼终于能看到东西了|Hugging Face；科技连线｜DeepSeek V4上线，AI世界正在改变的规则 - thepape。"
-    },
-    {
       "title": "模型竞争",
-      "body": "本周 1 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New。"
+      "body": "本周 2 条相关报道。代表：DeepSeek新模型发布后 中国大型科企争相抢购华为AI晶片 - 联合早报；第一时间！DeepSeek-V4发布，畅学AI 小畅AI-Coding 迎来超强。"
     },
     {
       "title": "多模态",
