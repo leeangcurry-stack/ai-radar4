@@ -174,6 +174,7 @@ def fetch_query(q: dict) -> list[dict]:
             "type":   classify(title, desc, q["name"]),
             "impact": impact_score(title, desc),
             "hot":    impact_score(title, desc) == "high",
+            "_query": q["name"],
         })
 
     print(f"  [OK] {q['name']}: {len(results)} 条  (来自 {len(set(r['source'] for r in results))} 个媒体)")
