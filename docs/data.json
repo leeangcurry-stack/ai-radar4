@@ -1,131 +1,21 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T11:08:19.461268",
-  "summary": "本周追踪到 40 条AI动态，海外 30 条、国内 10 条。高影响事件 1 条。融资事件 1 起。",
+  "generated_ts": "2026-04-29T11:13:42.963830",
+  "summary": "本周追踪到 30 条AI动态，海外 30 条、国内 0 条。融资事件 1 起。",
   "top_story": {
-    "title": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理 - 搜狐网",
-    "desc": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理    搜狐网",
-    "source": "搜狐网",
+    "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
+    "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
+    "source": "Search Engine Journal",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnc4WVB2R2xhUl9DdDFDSDZKclFKMXdkTVgweVc5Vzg5SjJtX3huY01ETzJHTkpncjJ1bVJJbjNVWmlKV28zUHZzYXBxbVZxc3ZUVXhwT3E3UkprVEMtcHZHamNVYTJ6cmdta2xiU2xLcy1GNmNXLXBINlQ5X2JkQTlIVnBtdmNvVV8weQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjZndXNoQWZuajQwUEJLVGNoMjRZZmd4b0tUOVAzVTdNclQ1U1Q5ZFNic2V3TndOLXlnRHlVZmZvRklTQm9GQ2hwOXo5dmZ3ZFlMakpvVEJ2R2VZMjZ3aXducFBhQm16WnBPOEx5MHBXTXlUUDMtSUhycnZCWjN1YlFRbExyMXVmbi15SDJIRnlFcEdhTzdZX2JJU3M?oc=5"
   },
   "metrics": {
-    "events_count": 40,
-    "china_count": 10,
+    "events_count": 30,
+    "china_count": 0,
     "overseas_count": 30,
     "funding_count": 1
   },
   "events": [
-    {
-      "title": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻 - 白鲸出海",
-      "desc": "发改委叫停外资收购 Manus，国内 AI 赛道明星项目出海受阻    白鲸出海",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CODhPVHM0OGxOTkVsZ0liSEJMVk9qV1Jza1diUENjVmNPZktYdFpLNXAwaGU1cGZMTFEzdWRkaFFkNEo4amYza2k3V3pBaFlRLW01cGRhQjY?oc=5",
-      "source": "白鲸出海",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "中国科学院发布“磐石100”模型体系 - 新华网",
-      "desc": "中国科学院发布“磐石100”模型体系    新华网",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZHB3SExFNTAwNjhMbDB1V2tKcHJFM0lNZnZIYVNjZEtRSkg0QVZoRE4tUEM0Wk1lUDBhSDVKcEZibTBEaV9FMFJCMGdoc0lSZlFwQ0NidXdFM0RQMHI2NjU3UlR1azFRYnNMVDBjUUJxYVpzV09N?oc=5",
-      "source": "新华网",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.com",
-      "desc": "服务国家重大空天战略，“磐石·临空”学科领域大模型发布    jfdaily.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wWV9HbXlneHhQT0ZDaUNDSDl6eHVRNTJtQk56d1J5TnRvR3hrUlgtY0liOTJQMDgtZFEtN3FrYk5fSDlEc1NMVEtnN1RiTzVNRDVTYXVON3lSUQ?oc=5",
-      "source": "jfdaily.com",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计|盘古大模型|智能体|路径_手机新浪网 - 新浪财经",
-      "desc": "效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计|盘古大模型|智能体|路径_手机新浪网    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3pkRk1BcXcwTzJNWExQQUl6MVVicjc5QWpUNE04RXMzMVpRNzdxa1Q5QWliYXRuV011bmkzNXkxeDRGclVFLVlNWi1BV0JLWjJKRWpvSTlNNll3X2llZlJkY041eW5iOF9LZGJzVXVoT0FNWnRMZU5xeDZSMW9rbERCdDluNjNVS0lmWU1neURtY090VXkzU1UxM1pSN3h4US1SQzZjcw?oc=5",
-      "source": "新浪财经",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "福州大学在第九届数字中国建设峰会发布全国首个智慧城市多学科交叉大模型 - 福州大学",
-      "desc": "福州大学在第九届数字中国建设峰会发布全国首个智慧城市多学科交叉大模型    福州大学",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3VGxSSVJfVnN5cjRscVVIWkMyM2lORG0tUDZac3ItZlRQZzlkNngzS1RWd3lTdnVqdTRsejVYbTdvYXB3R2NDN0JsSU96bWh6czQwNFI2TQ?oc=5",
-      "source": "福州大学",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "讯飞星火发布X2-Flash，国产算力实现大模型降本增效突破 - 品玩",
-      "desc": "讯飞星火发布X2-Flash，国产算力实现大模型降本增效突破    品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iaWI0WnZ2R0xQMGtvbDk2SU53ZjRpTXllNFBsbEF4Z1J2YnRZaTluc3otTGtjLXFyS1BuU21LeG5VeWdEZ0JRQQ?oc=5",
-      "source": "品玩",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "infra",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "维信诺发布自研OLED垂域大模型“维擎” - 电子工程专辑",
-      "desc": "维信诺发布自研OLED垂域大模型“维擎”    电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VbnBxYXltWDE4VzhfLVFoNVFDdFlUVjA4blVnc3hpdV9GNWVvN2RKTUgtcVZzbXE2Ym9ya29nY0l4V1ZYaWZZcF9ld3hHa1N3dDcw?oc=5",
-      "source": "电子工程专辑",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenRouter发布最新大模型调用量排行榜，混元Hy3 preview登顶 - 东方财富",
-      "desc": "OpenRouter发布最新大模型调用量排行榜，混元Hy3 preview登顶    东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBROUlyYXFkaFdUT0JHWjU1bHdJVU1faUxSQUlCSTlGNnFRWG9XTDhyS21JelJhT2pVb0xQMGM4dGhCdjdEVmlIa0swY1lfUmtubDM5cmFKa0RzWE9iSGhCSw?oc=5",
-      "source": "东方财富",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "【福州日报】全国首个智慧城市多学科交叉大模型出炉 由福大和超星集团研发，推出七大智能应用 - 福州大学",
-      "desc": "【福州日报】全国首个智慧城市多学科交叉大模型出炉 由福大和超星集团研发，推出七大智能应用    福州大学",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUY1k2OGItOEdTTHFNRGJtVllsNWxCamV0bG83ZTVYV0N5cGV0OEZsandHbXpTUm94azZyTUpHNTVjbXVxbGdwRGJNOHZZRmo4U2U4T2gtNA?oc=5",
-      "source": "福州大学",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理 - 搜狐网",
-      "desc": "追觅旗舰冰箱N1硅谷发布：接入Gemini大模型，从保鲜升级健康管理    搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcnc4WVB2R2xhUl9DdDFDSDZKclFKMXdkTVgweVc5Vzg5SjJtX3huY01ETzJHTkpncjJ1bVJJbjNVWmlKV28zUHZzYXBxbVZxc3ZUVXhwT3E3UkprVEMtcHZHamNVYTJ6cmdta2xiU2xLcy1GNmNXLXBINlQ5X2JkQTlIVnBtdmNvVV8weQ?oc=5",
-      "source": "搜狐网",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "high",
-      "hot": true
-    },
     {
       "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
       "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
@@ -347,10 +237,10 @@
       "hot": false
     },
     {
-      "title": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more - India Today",
-      "desc": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more    India Today",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeG1zV2taQ0FhOWV0OE9oa0RYaW1DRzE3S05ORkNVcG1sMThxdnJtV3VGV0hUY3Axa1Q4c1FjT2dTUTZFOWtWMnB1ZGt5M0RpVzRkckptdkZ3bjFrM3FycTIwUU9OY3pTTFlNaVpxVTdDS3BidmJsbVhic0N5RDhtT2tQeEQtT2NIdzdaWU5zenBqblJGSk9xUXVhd1drYVdzYXZzRkhmb3hvSTVrWGxzSHVCU3EtTE15dGtMQ2hGR3RkekRrREFfOWVaUFEzdmU2bFNMTW9vT05TMldBNG1iNlpXS0t3dDVpT1NscVNVWklLTFo2UXfSAfsBQVVfeXFMUExzUHJ4RDRWMEJURjBvVldxU3JPWk92b1N2OVRSSndFQWY4ejhGRkhKa0Z3SndPNHZFVVRYN1JPUWxNUi1va19nUWpyM2x1dkNkQkdOWk9YeFhwRkdzRHo2cGEzQkpLQnVYV1N3MkE0Wm41R21MY0ZRdEl4cExFZV84cEtpM2V0VFpQajh4T2p1QWRSR1M3SnppRzVST2k5TkEtOXlxN00tRWJUVDROdlNsVE9rVDk5bjNnQk1IR3Nkb3RrbkVoYmFWeUVtcGMyQnBHWmtINlpuMmlUQ2NUb0dNWlZ3S1EzeTJYUjJoQ1R5NFdPZWYzd2NhZEU?oc=5",
-      "source": "India Today",
+      "title": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender - iClarified",
+      "desc": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender    iClarified",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnVjUmVIbTBjN2VjLVUxLUhJSmRNYjFTTEM0N0RKRmdTSUFNVDJFTDBGZ0x2azc4ekhqakl4bmUxOXFUVTFCSUZtWmJtS3AwU28zekpBMk1mejZ5b1lEaWtMTXJUY1RkR0NwNUdhQ3R1OC1mczNRT041bnA5azIyUEFVTlRGZGZUSmY5TG5VR1JmZElVTUo1ZjhVVlJLUlRSZFBR?oc=5",
+      "source": "iClarified",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -358,10 +248,10 @@
       "hot": false
     },
     {
-      "title": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender - iClarified",
-      "desc": "Anthropic Brings Claude AI Directly Into Adobe, Autodesk, and Blender    iClarified",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnVjUmVIbTBjN2VjLVUxLUhJSmRNYjFTTEM0N0RKRmdTSUFNVDJFTDBGZ0x2azc4ekhqakl4bmUxOXFUVTFCSUZtWmJtS3AwU28zekpBMk1mejZ5b1lEaWtMTXJUY1RkR0NwNUdhQ3R1OC1mczNRT041bnA5azIyUEFVTlRGZGZUSmY5TG5VR1JmZElVTUo1ZjhVVlJLUlRSZFBR?oc=5",
-      "source": "iClarified",
+      "title": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more - India Today",
+      "desc": "Anthropic expands Claude AI capabilities with new creative connectors for Adobe, Blender and more    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeG1zV2taQ0FhOWV0OE9oa0RYaW1DRzE3S05ORkNVcG1sMThxdnJtV3VGV0hUY3Axa1Q4c1FjT2dTUTZFOWtWMnB1ZGt5M0RpVzRkckptdkZ3bjFrM3FycTIwUU9OY3pTTFlNaVpxVTdDS3BidmJsbVhic0N5RDhtT2tQeEQtT2NIdzdaWU5zenBqblJGSk9xUXVhd1drYVdzYXZzRkhmb3hvSTVrWGxzSHVCU3EtTE15dGtMQ2hGR3RkekRrREFfOWVaUFEzdmU2bFNMTW9vT05TMldBNG1iNlpXS0t3dDVpT1NscVNVWklLTFo2UXfSAfsBQVVfeXFMUExzUHJ4RDRWMEJURjBvVldxU3JPWk92b1N2OVRSSndFQWY4ejhGRkhKa0Z3SndPNHZFVVRYN1JPUWxNUi1va19nUWpyM2x1dkNkQkdOWk9YeFhwRkdzRHo2cGEzQkpLQnVYV1N3MkE0Wm41R21MY0ZRdEl4cExFZV84cEtpM2V0VFpQajh4T2p1QWRSR1M3SnppRzVST2k5TkEtOXlxN00tRWJUVDROdlNsVE9rVDk5bjNnQk1IR3Nkb3RrbkVoYmFWeUVtcGMyQnBHWmtINlpuMmlUQ2NUb0dNWlZ3S1EzeTJYUjJoQ1R5NFdPZWYzd2NhZEU?oc=5",
+      "source": "India Today",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -459,12 +349,12 @@
   ],
   "trends": [
     {
-      "title": "模型竞争",
-      "body": "本周 10 条相关报道。代表：中国科学院发布“磐石100”模型体系 - 新华网；服务国家重大空天战略，“磐石·临空”学科领域大模型发布 - jfdaily.co；效率涨9倍！英伟达发布全模态模型，AI Agent打响肉搏战|AI智能|AI设计。"
+      "title": "Agent应用",
+      "body": "本周 5 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
     },
     {
-      "title": "Agent应用",
-      "body": "本周 6 条相关报道。代表：OpenAI brings GPT-5.5, Codex, and manage；Startup Founder Claims Claude AI Agent W；The Agentic AI Revolution is Here: Anthr。"
+      "title": "模型竞争",
+      "body": "本周 2 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；Claude gets creative: Anthropic launches。"
     },
     {
       "title": "AI治理",
