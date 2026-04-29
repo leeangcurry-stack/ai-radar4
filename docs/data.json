@@ -1,6 +1,6 @@
 {
   "generated_at": "2026年04月29日",
-  "generated_ts": "2026-04-29T09:24:30.679438",
+  "generated_ts": "2026-04-29T10:06:49.329722",
   "summary": "本周追踪到 40 条AI动态，海外 40 条、国内 0 条。融资事件 2 起。",
   "top_story": {
     "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
@@ -94,24 +94,13 @@
       "hot": false
     },
     {
-      "title": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer - AD HOC NEWS",
-      "desc": "OpenAI Launches ChatGPT Ads Manager as Ad Revenue Hits $100 Million Milestone – What U.S. Marketer    AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVVKSURJNUNDY0NUbHEtSGRCNGl3Vjh3LVRDbjlia28wbjdIOFpGZWJUUjEtVkdsZFRObWxRYUFpWktEWjhIMEh4V211a2FlNFVFOVpzN3YxVDdiM0I1S3Ztd3VuOE95c2JLVy05WWwybWpXb1BUa3YyZDRWTmpua2dnck9IemhqX3BHc2JxeGZUcU9YejBJVW9YWW5KQUVhMmZYcjZqdTI1cU1GazZnV1RJWUs2NG5SUThGT2IwZ29HdTg?oc=5",
-      "source": "AD HOC NEWS",
+      "title": "Blender CEO Addresses Funding From Claude AI Creator Anthropic - 80 Level",
+      "desc": "Blender CEO Addresses Funding From Claude AI Creator Anthropic    80 Level",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzlFd3pYMkY5cDREZ3Z1NGNTOVVpTV8yeGVxbTlTTXhMUEVuNXVNNXVORHJldWYzNUlSOGN5RG9ibFlkV092UmN2dFhQbTM1aDN1VVRSS2RhSUF6WHNyc3RaQzl4cnl5T09kSzZhaC1ONnNjbTNlalNyUy1KbVJ4T01xR0pKZw?oc=5",
+      "source": "80 Level",
       "region": "overseas",
       "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Manager Launches Amid $100 Million Revenue Milestone – What U.S. Marketers Need - AD HOC NEWS",
-      "desc": "OpenAI ChatGPT Ads Manager Launches Amid $100 Million Revenue Milestone – What U.S. Marketers Need    AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORVdOS2V1aURDYkdIZVZHdEllWHVnc2l5cHduQnFDUGtBNlExNUdmbUJoZGhnYWl5ZTB3MFJFNWVud1ljbmpXQkRHbi1OTW5LVlFZbVd2R21MeVV1ejdDVjFLQlBJWDl4QTB3UVZjTk9TVlh6cGNxcEoteGhvZzZvTEhtYU9jZkZHb2liUFdBWUdnWTZrTm91bXREbjM0U1JqakhEU3lJcVZVdUM3Ujc4a2ltZTYwZEJabE1KdVh1UHp1UldEcjg4Sw?oc=5",
-      "source": "AD HOC NEWS",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
+      "type": "funding",
       "impact": "mid",
       "hot": false
     },
@@ -153,6 +142,17 @@
       "desc": "Claude AI Targets Animation Pipelines, Anthropic Backs Blender    Cartoon Brew",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE1yUFp2cE41aEFXZTEtMERJcFdlWFV6WWtlM2NHaGUtVGt4cldWekhXaHZrWHBqWWFBbzJBdk9xMndYbzJNNlRTaUFnVDBVNGVoME9ieC1Fb3NINFFoaFJGRDJZWUpQVmg2V2NLWGR5OU84Z1VydVZyWlp5TEU3UzhKQTlpWDZaX3lEMEFEcFZZM21QTHc?oc=5",
       "source": "Cartoon Brew",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says - Yahoo Finance",
+      "desc": "Goldman cuts access to Anthropic's Claude for Hong Kong bankers, source says    Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTZfTDRldWdkenpFMVVGX0Y4WU5pbXZ1N1RXQTBKTms1dlluR3daN2pDemFMRUwtcVllU2VZWkZ5bTlsUW5uMWowc1Q0UTY2WDRONU1kZ0pKRUY3VURyT3RiaElYbkdyOGdMelZWM3QzUk92RDNERFMzUHZYVEhoeTNNbVV0cFh1OEl5Y0Zidm1OQ2E4VlJBZ2VINGFGZw?oc=5",
+      "source": "Yahoo Finance",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -237,6 +237,17 @@
       "hot": false
     },
     {
+      "title": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk - Gadgets 360",
+      "desc": "Anthropic’s Claude Can Now Complete Creative Tasks in Adobe, Blender and Autodesk    Gadgets 360",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVhJankzYV9hZXI1NFNPcU5zeTZ0U1lVRHFUYWVLNnlMd0dLNjBoeHFhZmdYZ3h5N1c4ZlpfaWJwaHBTRjA4ekgzNGpEWE1OTTdka3NzMjVxY1VJUnRoVGtsd0E0MnpGOTV6U3Vqd293LXpPbER4ajJuLW0tTVZVX1RvOU1CUHdVS2VFZFpUenRDRGNkVHZLSmQwTmpYcVRWTGlsM0dvbW41QXYxQnl5YmtwY0JZS1RBNFlLQmF2aWRuRWpfcXp30gHMAUFVX3lxTE9aTTh4OWx3b0xhaXFZSE0zTzk0REJTYUNYZ2RCWFpyRHNVd2ZlQ093c2ZtbnN4eENfZkVicGUyS1JwT0JmUmMyc1hhb0pDbEVOdFdyYjIzcFBKWXJETVlKOWlRTV9STGhvR0RDZVBrdzBRMGFaR2hzYk5BSmxNcTZpTW1QbUZjSC02NXdkNFRHWVdQNzlCZklwaTRrcUo0YVlzVDNtWFRhdG5LRWN0bXNMNXNqOXFDUGJJbUU0ZzhWVDlFRVlxVUR3dGZHMA?oc=5",
+      "source": "Gadgets 360",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
       "title": "Anthropic's AI agents spark debate over business risk - IT Brief UK",
       "desc": "Anthropic's AI agents spark debate over business risk    IT Brief UK",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkxXdTNYMVE4dXNVLXpnVDJOd09vM003RnhXSVRrcVVlblZKVU1yYlQwWEtjUjdZX280UVl4TnpWTm1jWUM3UUIybHd3OGMxZ3dMNXRSTkdCODJqZ0huREdyWTZMUVMweXBjMmpuV1VtNVYzMFcyVExGUW0zaEhLTlRaMVYyTmdF?oc=5",
@@ -259,10 +270,10 @@
       "hot": false
     },
     {
-      "title": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works - Mint",
-      "desc": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works    Mint",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbDk3Wmo4cUhiOWdtY09EYkp3dy1xSXZkMGZKNGd1bWhnZFEzZGtBRW1xUVU1d19MMks2ZW1LYjhMSmhjRVpjc0NyLTJnRy1fdW1aR2owRWczakNwSTN0QU1aSThjZllTenJtODdpbDZ1N3pXeWhfZWtDdUhrN3VnY0ZxWDhMdmZuRjRZX01DUU9iWkRwNElYa2Vlbm9OM1VDTnVZVGpHeEF6RHdLM043QTNCbkJFeEx5ZTBRVUN1S19RQVphOUVjNU5UTXFadWdHdzNqbUlhUHRtVXczQkp3dm81SnkzTFRHOHgzNHp5bC1jMlp0T0h0SdIB_gFBVV95cUxPT2tHdnhBLW5pVnpiODBSZ3ZOZlc0NHJMWXBMV2VsOGxQb0Y5M1NfUmI3b25rZWlVUmRoZlI3Z3d3VXYwblU2VXhnRHYxbTJzRnpZRlFUczktc3RMaFhIenNNU29xcWtrbUpXOHlGaEJUNUpHaFRKeDhmS3E3OXNlR1ZiSkJXWmY1RHJ1Y3ZBMzJMdndYVGZscldUcEJwZGFrLVhSM1pNcjJLUjNsRjRPWXJBeUpPSlNuVXhSemwwb1M3eVkxRngwZ25Lb29iRmd2NGc4RzkxQTJCczZHeE1BU3ZyOTBrQ2lLcWdtMkZVVjl4M054OGVWVm1aVXE0UQ?oc=5",
-      "source": "Mint",
+      "title": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI - FXLeaders",
+      "desc": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI    FXLeaders",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGV2cTAtWk1aY25nNTBWWmtVVFp4R0tHdjdjQUpYai15Z0hRLU9kZEIyRjh6S0JqT2tEZlhkakdaSE5vNzRfeG1NZ19CeG9xSXFZdF82dnZMY0d1dC1NTmhhYlZ0T2pla05HQ2wza1dHNld2YldoX1JYdGZPVlZvbUEtZ1MwNEtDamF4NTVFd2s3Ym1yLV9UdFVOd3BlLWJwOGR6NjkwZXZCa2Vj?oc=5",
+      "source": "FXLeaders",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -270,10 +281,21 @@
       "hot": false
     },
     {
-      "title": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI - FXLeaders",
-      "desc": "Goldman Sachs Restricts Hong Kong Staff from Anthropic’s Claude AI    FXLeaders",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGV2cTAtWk1aY25nNTBWWmtVVFp4R0tHdjdjQUpYai15Z0hRLU9kZEIyRjh6S0JqT2tEZlhkakdaSE5vNzRfeG1NZ19CeG9xSXFZdF82dnZMY0d1dC1NTmhhYlZ0T2pla05HQ2wza1dHNld2YldoX1JYdGZPVlZvbUEtZ1MwNEtDamF4NTVFd2s3Ym1yLV9UdFVOd3BlLWJwOGR6NjkwZXZCa2Vj?oc=5",
-      "source": "FXLeaders",
+      "title": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows - MobiGyaan",
+      "desc": "Anthropic expands Claude AI with Adobe, Blender, and Autodesk integrations for creative workflows    MobiGyaan",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUJfaGhNZ1Q3QlpzOUM3cm4xbUgtVkVkX2xkYUdlQWVXX1VTYVd5UlJ0WUY0VTZiTHFBeWRVTHh2ZWtFZzBZT1YtMHQtMUM2Q1pkSzdxRlViQnFVc1dqMEdfWlp5ak9lQ3VRX2pNblllVnFhUFl2OWVwWnlQN2hsQ1RVYkcyYi1I?oc=5",
+      "source": "MobiGyaan",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works - Mint",
+      "desc": "Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works    Mint",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbDk3Wmo4cUhiOWdtY09EYkp3dy1xSXZkMGZKNGd1bWhnZFEzZGtBRW1xUVU1d19MMks2ZW1LYjhMSmhjRVpjc0NyLTJnRy1fdW1aR2owRWczakNwSTN0QU1aSThjZllTenJtODdpbDZ1N3pXeWhfZWtDdUhrN3VnY0ZxWDhMdmZuRjRZX01DUU9iWkRwNElYa2Vlbm9OM1VDTnVZVGpHeEF6RHdLM043QTNCbkJFeEx5ZTBRVUN1S19RQVphOUVjNU5UTXFadWdHdzNqbUlhUHRtVXczQkp3dm81SnkzTFRHOHgzNHp5bC1jMlp0T0h0SdIB_gFBVV95cUxPT2tHdnhBLW5pVnpiODBSZ3ZOZlc0NHJMWXBMV2VsOGxQb0Y5M1NfUmI3b25rZWlVUmRoZlI3Z3d3VXYwblU2VXhnRHYxbTJzRnpZRlFUczktc3RMaFhIenNNU29xcWtrbUpXOHlGaEJUNUpHaFRKeDhmS3E3OXNlR1ZiSkJXWmY1RHJ1Y3ZBMzJMdndYVGZscldUcEJwZGFrLVhSM1pNcjJLUjNsRjRPWXJBeUpPSlNuVXhSemwwb1M3eVkxRngwZ25Lb29iRmd2NGc4RzkxQTJCczZHeE1BU3ZyOTBrQ2lLcWdtMkZVVjl4M054OGVWVm1aVXE0UQ?oc=5",
+      "source": "Mint",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -289,6 +311,17 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "mid",
+      "hot": false
+    },
+    {
+      "title": "😺 Anthropic just LAPPED OpenAI - The Neuron",
+      "desc": "😺 Anthropic just LAPPED OpenAI    The Neuron",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02cm1RNGJUUW9PUVYtcmk4Tnh0b05aZGh3eUdMeTRYWnh6UGQ1S01IeHBfdFQwRFFjbi03OXdUZmIwNGhSenlTQV9vTHB4V0w4Z2lTa2lhc3IxR0tUYTJQVW9ETDRyRi05aEZwN013?oc=5",
+      "source": "The Neuron",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "low",
       "hot": false
     },
     {
@@ -336,17 +369,6 @@
       "hot": false
     },
     {
-      "title": "Goldman blocks Claude use for Hong Kong bankers - Tech in Asia",
-      "desc": "Goldman blocks Claude use for Hong Kong bankers    Tech in Asia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHJWU0ptRXBmYlA1bkx4U0FlTDZFVXF5ZUYxdndJVHBvMGFKUDJxYjZvX1hIZWFSdGZuX2FtMWpvVzRiWHVIVXVqUXRzdm05cUtROWExS242TVFhOGhOUUN3MEdRajYwemZOczRoRm5sZGZOZzBhQV84ZFQ2b0JIMEZlMG5DUQ?oc=5",
-      "source": "Tech in Asia",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false
-    },
-    {
       "title": "Snap CEO Predicts AI Shifts Software Spending - Let's Data Science",
       "desc": "Snap CEO Predicts AI Shifts Software Spending    Let's Data Science",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHlxVTF2a0dEclg4YWp3Z29FTG9TZnlHY2k1MzlZSTJwUXJLUERpUm1QY0RZVlg3YWk3UmxWdWF3TjZNc3BRcHlGSVhkcno0OHRNSEVRY3o1TTJlWXJudVlrQnFkY1RFdW9NZzRkUnJGUU9PbTBNcHVkTDdESWdVRjVUcUE0Y0lBRjBkQmRTUDc?oc=5",
@@ -358,10 +380,10 @@
       "hot": false
     },
     {
-      "title": "Notified Launches AI Press Release Optimizer to Strengthen Corporate Narratives and Increase AI Citations - GlobeNewswire",
-      "desc": "Notified Launches AI Press Release Optimizer to Strengthen Corporate Narratives and Increase AI Citations    GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNjBXWnQ3aFg5NDFMb1Z1c0oyVERpUWxHZWN4bjdnNXluS1F1aDVCUE83TjVWZjJpODhLaVh6YWwtNDNxV3pNckJxZzhBbC1nOFBudlZHVE9VODZnZlRSdlRZTVAtZFJvS0VaeVUxcXc0YjVidnBiSHFLUGxRRGRpUEM3VW1ESkVETUdDa2d4WWloSzVXX1FQWmFHOXJHWk1iSWhidi1Ha1FaMWJ3X1drTlVEU0psR1QtM0hjSmFuZUxvN01SNWVIZWVLYXpfRVhOWURaSjV3ZlF5cnQ4dlRNaDJSdGZNT1JSOGxWMjFrQV9KTDNPMkZGVlBoTmNMRm1relJUbXA0LWw?oc=5",
-      "source": "GlobeNewswire",
+      "title": "Goldman blocks Claude use for Hong Kong bankers - Tech in Asia",
+      "desc": "Goldman blocks Claude use for Hong Kong bankers    Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHJWU0ptRXBmYlA1bkx4U0FlTDZFVXF5ZUYxdndJVHBvMGFKUDJxYjZvX1hIZWFSdGZuX2FtMWpvVzRiWHVIVXVqUXRzdm05cUtROWExS242TVFhOGhOUUN3MEdRajYwemZOczRoRm5sZGZOZzBhQV84ZFQ2b0JIMEZlMG5DUQ?oc=5",
+      "source": "Tech in Asia",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -369,14 +391,25 @@
       "hot": false
     },
     {
-      "title": "Smart, but Unpredictable. How Can We Trust Front-end AI? - The Fast Mode",
-      "desc": "Smart, but Unpredictable. How Can We Trust Front-end AI?    The Fast Mode",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHY0d1A3Q2R6WGdUVTZHTGd6QUhJYzI0T2hoYm1zWVpJblUzejhjdmE3cWZiVTdVczFGYWhnd0daU0o5ck51dURrSUNnOFNaLVpkSHpfakVxOTFMT2RwZVNJdWdtNWtNSVdsZ3BOVTUybTY2UmU1MXc5WnNQOENHa0JYb0t0dW5XaEZGM2RaMzZqM2hPS2hmVzE4QmtYZDZ5VGJMYw?oc=5",
-      "source": "The Fast Mode",
+      "title": "'Incredibly Ashamed': Google DeepMind Scientists Revolt Over Secret Pentagon Deal to Use AI in Warfare - International Business Times UK",
+      "desc": "'Incredibly Ashamed': Google DeepMind Scientists Revolt Over Secret Pentagon Deal to Use AI in Warfare    International Business Times UK",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RdEVnUjRtc2R1SUotQ29rT1ZQazFnOFZCWVFhVXNPNDNfMFFYTFNncXZXUXVFV1JmNkJUVENEMTF3YVpRenpheHBRUTl3Yk1Od1d0VWtIV0J1eUFsUnJRc21tQ1RHTzRkUE1CUk5EeTJ2Uzlf?oc=5",
+      "source": "International Business Times UK",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "product",
+      "impact": "low",
+      "hot": false
+    },
+    {
+      "title": "Notified Launches AI Press Release Optimizer to Strengthen Corporate Narratives and Increase AI Citations - GlobeNewswire",
+      "desc": "Notified Launches AI Press Release Optimizer to Strengthen Corporate Narratives and Increase AI Citations    GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNM0VfVE1hRkd0WG1TQU52NnlBWVptTDI1RnUwanZDcXNqeS1Ndy1KcHh1RjlLVVNKbngyYjRvMkxuZlVzVkZEUlV6YkJUdmotYm9HNHlIenlpbHc1YXBSTl9MTUNIRVFaZG11OExhekI4QmdvVGFDeElSbHhVbEdvU1ZfRG1tVU5mYVY2bVBDTW5EcGp0TzVncHBxTUlXS1Z6d3RkeEFmZWY1MnJoQTExd3lPTHU1MzhGRnc4TUJZeHR2MlBnUm5JZjFFNTIwcmFtUzBmWlNEZGZMMHpyLXhoNGZCYWhxbTV0VGw1cjZQU0ZDYTdLUXNObXh4LVdQS3V2RzZVUmluNXY?oc=5",
+      "source": "GlobeNewswire",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
-      "impact": "low",
+      "impact": "mid",
       "hot": false
     },
     {
@@ -391,10 +424,10 @@
       "hot": false
     },
     {
-      "title": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI - MarkTechPost",
-      "desc": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI    MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5",
-      "source": "MarkTechPost",
+      "title": "Smart, but Unpredictable. How Can We Trust Front-end AI? - The Fast Mode",
+      "desc": "Smart, but Unpredictable. How Can We Trust Front-end AI?    The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHY0d1A3Q2R6WGdUVTZHTGd6QUhJYzI0T2hoYm1zWVpJblUzejhjdmE3cWZiVTdVczFGYWhnd0daU0o5ck51dURrSUNnOFNaLVpkSHpfakVxOTFMT2RwZVNJdWdtNWtNSVdsZ3BOVTUybTY2UmU1MXc5WnNQOENHa0JYb0t0dW5XaEZGM2RaMzZqM2hPS2hmVzE4QmtYZDZ5VGJMYw?oc=5",
+      "source": "The Fast Mode",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
@@ -413,47 +446,14 @@
       "hot": false
     },
     {
-      "title": "SK Telecom Unveils LLM-Based AI Recommendation System to Improve Personalized Recommendations - The Fast Mode",
-      "desc": "SK Telecom Unveils LLM-Based AI Recommendation System to Improve Personalized Recommendations    The Fast Mode",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMl9zQ2lURk1CVWlDWFpNYXJkaWh0N3hCUTRBbllLYjRlbC1tVUhuMVdmVzRTTHl1dlJGb2xHcUNQVnlpSnFBYUJlY3FwU2JlYVRfT1BjZmU5VnMyVVNITGhqSW91QUZvRzRVTXdLNk5Lbk95OG8tYzJxTzRocFRnaElxRkRWTVhsYUI1UFRkT09pQVgtVTg4SUhjc1FlTDlyTnJuVU5Yd1IzR1lwT3pRUlZPc01VM3djbUF5YXdlX2EwYTVDWEdlRXpOOEs5VGNya05kYWNrZTRWZjRLaEZtdzhB?oc=5",
-      "source": "The Fast Mode",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified - MarkTechPost",
-      "desc": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified    MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWnlnRXpncWRkY19nQUlwWmpwa2JNc3pVZ0JNemdkQlF0Rll2el91LVNLV3I2dEt6akwzc2lVY0U5RFdjUkczcURRa0NWRXJWcUhHNXgySGRaakdBR0k1aE9KWG9BWVppU203ZjZON2pfVkdndW4tNTRkcjJHdldPOUpjRnMyZW5rYlFnMXN0OTdDN3J1THk5QVlYMXZUSFdfMFpRNC1ib1JHYzNhNFVXaUpRZ0ZjcWNybTBWRVJqcjNzWnd4NjVqTEg1SFU1dHYxX1NadVltby1CR1NVNm81Q0NqZGPSAeoBQVVfeXFMT1FVOWRqU0ZOblJHUzN2aHI0eVV3NTJwWndCYWRlZERlLXJVb3E1ZlNWa3JhNEhBbkJtWDcwVW04MnlKMmZlTmhLU3l6dmQzeDRpUlVpWmwxV3Jrc2FlUmlGSWVlVjBmSDJBc3c5WW9XUF93d1RzS1BNT215akx1OWRBeXZLQlRwNVVGNS1TRWtuTmFkU19WSWR4WW14ZDhaeXhUclZjTHIwcmg5bm90MWNhQXBwYklMaGZFUFBXUXotNE5ZakY3OEl3WGxIc2F1bXNMbG5vZ25odjNvNDBkQkxOYjl1LWxjWE5n?oc=5",
+      "title": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI - MarkTechPost",
+      "desc": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI    MarkTechPost",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5",
       "source": "MarkTechPost",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "From SEO to LLM SEO: How AI is rewriting the rules of brand visibility - Adgully.com",
-      "desc": "From SEO to LLM SEO: How AI is rewriting the rules of brand visibility    Adgully.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWldNeGdpR3RqQTYwamlWanNxSmhaa0RQc0RSVnVNd2N5Wk56SWh0ODdiOE9sOU1VNTU1N2ZuRklKWTByUWhuZU1LRmE4NnV6eTJDOTIzMWFmMU1teENoLWxOT1NsNUtvLTdvdnFRMElwWlVFcjJZZFpkRTZZTV9aalFsd1ZuUkRRY0VuNUFUaXFrN1BtVm1QUWhjaFEySlMzWGJaMnZmcw?oc=5",
-      "source": "Adgully.com",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false
-    },
-    {
-      "title": "Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation - WSJ",
-      "desc": "Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation    WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbE1FYVZqU0hDTUZyUGcyRWNMd2t2V1E1X1RFWk1PRUlYOUFDUTQyV1lIT3NLMjcweFQ2Si1fclRNQnBQNm1EckN3aEczTDdERFlsdVhTNDllZGIyR2c4bzBrRGtfU3Jld29nZ0pjeU8yRmUteExfSmQ2UTJqbWZIdWc5WkRGZ2h1VFhRbGNqR1VZM1JIeUpONEV6cnlWb0RSaGZZNF9B?oc=5",
-      "source": "WSJ",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "funding",
-      "impact": "mid",
       "hot": false
     }
   ],
@@ -464,7 +464,7 @@
     },
     {
       "title": "模型竞争",
-      "body": "本周 5 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；OpenAI Launches ChatGPT Ads Manager as A；OpenAI ChatGPT Ads Manager Launches Amid。"
+      "body": "本周 3 条相关报道。代表：OpenAI ChatGPT Ads Manager Launches: New；Notified Launches AI Press Release Optim；Nvidia launches Nemotron 3 Nano Omni to 。"
     },
     {
       "title": "多模态",
