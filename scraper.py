@@ -26,18 +26,22 @@ QUERIES = [
     {"name": "xAI Grok",         "url": "https://news.google.com/rss/search?q=xAI+Grok+Elon+Musk+AI&hl=en-US&gl=US&ceid=US:en",                  "region": "overseas"},
     {"name": "Meta AI Llama",    "url": "https://news.google.com/rss/search?q=Meta+AI+Llama+open+source&hl=en-US&gl=US&ceid=US:en",               "region": "overseas"},
     {"name": "AI 芯片",           "url": "https://news.google.com/rss/search?q=Nvidia+AI+chip+GPU+inference&hl=en-US&gl=US&ceid=US:en",            "region": "overseas"},
-    # 国内 · 中文
-    {"name": "DeepSeek",         "url": "https://news.google.com/rss/search?q=DeepSeek&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                                        "region": "china"},
-    {"name": "国内大模型",         "url": "https://news.google.com/rss/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B+%E5%8F%91%E5%B8%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",   "region": "china"},
-    {"name": "字节豆包",           "url": "https://news.google.com/rss/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8+%E8%B1%86%E5%8C%85+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
-    {"name": "阿里通义",           "url": "https://news.google.com/rss/search?q=%E9%98%BF%E9%87%8C+%E9%80%9A%E4%B9%89+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
-    {"name": "百度文心",           "url": "https://news.google.com/rss/search?q=%E7%99%BE%E5%BA%A6+%E6%96%87%E5%BF%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",          "region": "china"},
-    {"name": "华为昇腾",           "url": "https://news.google.com/rss/search?q=%E5%8D%8E%E4%B8%BA+%E6%98%87%E8%85%BE+AI+%E8%8A%AF%E7%89%87&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
-    {"name": "月之暗面Kimi",       "url": "https://news.google.com/rss/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",     "region": "china"},
-    {"name": "国内AI融资",         "url": "https://news.google.com/rss/search?q=AI+%E8%9E%8D%E8%B5%84+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E4%BA%BF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
-    {"name": "腾讯混元",           "url": "https://news.google.com/rss/search?q=%E8%85%BE%E8%AE%AF+%E6%B7%B7%E5%85%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                             "region": "china"},
-    {"name": "智谱AI",             "url": "https://news.google.com/rss/search?q=%E6%99%BA%E8%B0%B1+AI+GLM&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                                           "region": "china"},
-    {"name": "国内AI产品",         "url": "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E4%BA%A7%E5%93%81+%E5%8F%91%E5%B8%83&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
+    # 国内 · 中文（宽泛话题查询 + 主要公司查询并存）
+    # 宽泛查询：覆盖更多公司和话题
+    {"name": "国内AI动态",    "url": "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E5%9B%BD%E5%86%85+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",               "region": "china"},
+    {"name": "大模型发布",    "url": "https://news.google.com/rss/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B+%E5%8F%91%E5%B8%83&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                          "region": "china"},
+    {"name": "AI产品上线",    "url": "https://news.google.com/rss/search?q=AI+%E4%BA%A7%E5%93%81+%E4%B8%8A%E7%BA%BF+%E6%9B%B4%E6%96%B0&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",           "region": "china"},
+    {"name": "AI融资投资",    "url": "https://news.google.com/rss/search?q=AI+%E8%9E%8D%E8%B5%84+%E6%8A%95%E8%B5%84+%E4%BA%BF%E5%85%83&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",           "region": "china"},
+    {"name": "AI芯片算力",    "url": "https://news.google.com/rss/search?q=AI+%E8%8A%AF%E7%89%87+%E7%AE%97%E5%8A%9B+%E5%9B%BD%E4%BA%A7&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",           "region": "china"},
+    # 主要公司查询
+    {"name": "DeepSeek",     "url": "https://news.google.com/rss/search?q=DeepSeek&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                                                                  "region": "china"},
+    {"name": "字节豆包",      "url": "https://news.google.com/rss/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8+%E8%B1%86%E5%8C%85+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",            "region": "china"},
+    {"name": "阿里通义",      "url": "https://news.google.com/rss/search?q=%E9%98%BF%E9%87%8C+%E9%80%9A%E4%B9%89+AI+%E5%A4%A7%E6%A8%A1%E5%9E%8B&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "region": "china"},
+    {"name": "百度文心",      "url": "https://news.google.com/rss/search?q=%E7%99%BE%E5%BA%A6+%E6%96%87%E5%BF%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                               "region": "china"},
+    {"name": "华为昇腾",      "url": "https://news.google.com/rss/search?q=%E5%8D%8E%E4%B8%BA+%E6%98%87%E8%85%BE+AI+%E8%8A%AF%E7%89%87&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",           "region": "china"},
+    {"name": "月之暗面Kimi",  "url": "https://news.google.com/rss/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                          "region": "china"},
+    {"name": "腾讯混元",      "url": "https://news.google.com/rss/search?q=%E8%85%BE%E8%AE%AF+%E6%B7%B7%E5%85%83+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                               "region": "china"},
+    {"name": "智谱AI",        "url": "https://news.google.com/rss/search?q=%E6%99%BA%E8%B0%B1+AI+GLM&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",                                               "region": "china"},
 ]
 
 BLOCKED_DOMAINS = {
@@ -242,29 +246,26 @@ def main():
     all_items = dedup(all_items)
     print(f"去重后:   {len(all_items)}")
 
-    # 国内内容：每个查询最多贡献4条，强制凑满10条
-    # 第一轮：每查询最多4条
+    # 国内内容：每个查询最多贡献2条，至少8条不设上限
     china_items = [i for i in all_items if i["region"] == "china"]
     china_items.sort(key=lambda x: x.get("date", ""), reverse=True)
     china_quota = []
     china_query_count = {}
+    # 第一轮：每查询最多2条
     for item in china_items:
         q = item.get("_query", "")
-        if china_query_count.get(q, 0) < 4:
+        if china_query_count.get(q, 0) < 2:
             china_quota.append(item)
             china_query_count[q] = china_query_count.get(q, 0) + 1
-
-    # 第二轮：如果还不够10条，放宽限制补齐
-    if len(china_quota) < 10:
+    # 第二轮：如果不足8条，放宽限制补到8条
+    if len(china_quota) < 8:
         china_ids = {id(i) for i in china_quota}
         for item in china_items:
             if id(item) not in china_ids:
                 china_quota.append(item)
                 china_ids.add(id(item))
-            if len(china_quota) >= 10:
+            if len(china_quota) >= 8:
                 break
-
-    china_quota = china_quota[:10]
 
     # 海外内容：取前30条
     overseas_items = [i for i in all_items if i["region"] != "china"]
