@@ -1,13 +1,9 @@
-# .github/workflows/weekly.yml
-# 每周一 09:00 北京时间自动爬取 RSS，生成 data.json，推送到 Pages
-# 无需任何 API Key
-
 name: AI Radar 每日更新
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # 每天 01:00 UTC = 北京时间 09:00
-  workflow_dispatch:        # 支持手动触发
+    - cron: "0 1 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -29,12 +25,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: 运行爬虫（无需安装额外依赖，只用标准库）
+      - name: 运行爬虫
         run: python scraper.py
 
-      - name: 推送数据到仓库（触发 Pages 自动更新）
+      - name: 推送数据到仓库
         run: |
-          git config user.name  "AI Radar Bot"
+          git config user.name "AI Radar Bot"
           git config user.email "bot@ai-radar"
           git add docs/data.json
           git diff --staged --quiet || git commit -m "data: update $(date +'%Y-%m-%d')"
