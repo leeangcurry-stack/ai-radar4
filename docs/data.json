@@ -1,6 +1,6 @@
 {
   "generated_at": "2026年04月30日",
-  "generated_ts": "2026-04-30T03:26:55.917063",
+  "generated_ts": "2026-04-30T03:44:58.669768",
   "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 2 条。融资事件 3 起。",
   "top_story": {
     "title": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台 - Infoq.cn",
@@ -161,6 +161,18 @@
       "_query": "OpenAI 动态"
     },
     {
+      "title": "OpenAI schedules private GPT-5.5 event in San Francisco - The Economic Times",
+      "desc": "OpenAI schedules private GPT-5.5 event in San Francisco    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEl6NjZwbVdGNFExSGwtVmkwdWpxWm5oVjRfRk8zZ2lNTWZ1TmFVb0IwMWo0c2VVRmdfZHZEUkZ6YUduY2l5WGtnWURhV19qUzlMZnFaSkVjbHgzdHNzTUNJSnIwMFB0WmF3QWJTbWRhT2c0NnJmS3RlOGlpRFYwNXpxakd4S09jTVhyeWJ0Wkd6a1hwbzczU0R4SDJCNTJ2MXd4WUZHWHFzT19MVDgzNU9zZTZRc00td0JRcDkzQnNLeEpTRy1ZcXEtZm0wNnFocUZoVtIB2gFBVV95cUxQYjRiMEl6cHRBbjQtV1p1RDhORDAwWkZBTkVUamJDR1lsekxBVFotb0pic1lhYUZvQ2ZuaS1YdllhS1kwTjl1eEllRk0tbHhjRWhYUnhfNXZwLWJsY3IxOEpJcDM4QzMzeHV4eDFJUExjbTAzdlJHMy1BMDFLRE5yZXdfb2J2dlNrWXZNT0dlYmUtR2w4NVlHa0JGTndNTXdKWHBmNFlHbEJrQlRMZ2dVanlidlJ4TE5yQnJlRHoyTHpkNTlVRFE4YVk4Z05IWGctSF9ucDgxM1dDdw?oc=5",
+      "source": "The Economic Times",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
       "title": "OpenAI Has Just the Right Person to Curb Its Wild Spending - Bloomberg",
       "desc": "OpenAI Has Just the Right Person to Curb Its Wild Spending    Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUxveExFRERoR1o5OG1ScW1IbmJUWmtubEtZbjRTbV9Db05vNWlsZnpBWUFLQmhqYXBldEpKNjZWYVRYYnJrSGlTQ0JxNlNqSFFpNWhrb0tpWng4anh0bVFVbnplclZGR0dVTHpjQjlZRmNsQnBza1dTckh4MERYa0tYWExFTDlUdnNnSzhzY18wVmNxTUhnNXRWY1VwZW5qMjVvdEdCWTVnZmcwNkFrcnhFdkxicEtIVzI3Y1JqLW1STUVTRXc?oc=5",
@@ -181,30 +193,6 @@
       "date": "2026-04-30",
       "type": "product",
       "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI schedules private GPT-5.5 event in San Francisco - The Economic Times",
-      "desc": "OpenAI schedules private GPT-5.5 event in San Francisco    The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEl6NjZwbVdGNFExSGwtVmkwdWpxWm5oVjRfRk8zZ2lNTWZ1TmFVb0IwMWo0c2VVRmdfZHZEUkZ6YUduY2l5WGtnWURhV19qUzlMZnFaSkVjbHgzdHNzTUNJSnIwMFB0WmF3QWJTbWRhT2c0NnJmS3RlOGlpRFYwNXpxakd4S09jTVhyeWJ0Wkd6a1hwbzczU0R4SDJCNTJ2MXd4WUZHWHFzT19MVDgzNU9zZTZRc00td0JRcDkzQnNLeEpTRy1ZcXEtZm0wNnFocUZoVtIB2gFBVV95cUxQYjRiMEl6cHRBbjQtV1p1RDhORDAwWkZBTkVUamJDR1lsekxBVFotb0pic1lhYUZvQ2ZuaS1YdllhS1kwTjl1eEllRk0tbHhjRWhYUnhfNXZwLWJsY3IxOEpJcDM4QzMzeHV4eDFJUExjbTAzdlJHMy1BMDFLRE5yZXdfb2J2dlNrWXZNT0dlYmUtR2w4NVlHa0JGTndNTXdKWHBmNFlHbEJrQlRMZ2dVanlidlJ4TE5yQnJlRHoyTHpkNTlVRFE4YVk4Z05IWGctSF9ucDgxM1dDdw?oc=5",
-      "source": "The Economic Times",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Sam Altman invites users to exclusive GPT-5.5 party — here’s how you can attend for free - Firstpost",
-      "desc": "Sam Altman invites users to exclusive GPT-5.5 party — here’s how you can attend for free    Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2hocFZYSk1kSkVEb0JtUk5RZFRZbzZCM2lrTFZJRzdrNWdhNVBqbWNhMmJsZGhISjNrYzRiSVI3ZXduTVBadFFfZTRUdllHOFZGd3lfRS0xcEFLXzNCOVlDWkRjQmVQbEplTzQ0c0tZNnZqWUNEeDNwbFRnaEFqMHpKMEFOSV9QMm5GZkJINXkxd3UtXy1mb0JZTU55VC1zTWMtTjh2cV9FMkVEenV5UXVZT3JqeEZiSWhYQ2Nvd1ZkaUpRNm91YXlR0gHPAUFVX3lxTE9teEp1dUQyc0xhVGxzOUwtbEJFN2M1ZGNtNUZ1R3V3Zmg3Y1lRM1M4T2FJLTJQSlFEUEEyNEVZX1laX1AwRnNWVUI2aEdkcXpILVVXcEdwYlZ1VlBheEJuakJKUHpFVE14OEdfN0otZTFsNWhnMnhiTVVPY21oRHloMGJROEVJUmhUU2tYUG0yYkp2U3MzX0ItT19waEJJU0pJd2FrRzV6OThhbFBzTWtmV0hnUzlNTmFwWWdOZ0o3YmtkUTUyV2V5WWZfM0hmVQ?oc=5",
-      "source": "Firstpost",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "mid",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -297,6 +285,18 @@
       "desc": "《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.HK)、阿里(09988.HK)入选    AASTOCKS.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CQ0xPb1J6M2ZuLUttTF8yQWx2eEUta19PcG50a0l0TE9Rb09yYndZYnNsTGozN2NqV25FSVFDS3Z3T1h5Rjl4YVZnMDJUbkpnQnlCaVJyRVVjYjRwSTcwYjBJdE5hRFZoUEtLeVdEQQ?oc=5",
       "source": "AASTOCKS.com",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "字节豆包"
+    },
+    {
+      "title": "​中文视觉大模型竞争新局面：豆包夺魁，国产实力全面反超！ - AIBase",
+      "desc": "​中文视觉大模型竞争新局面：豆包夺魁，国产实力全面反超！    AIBase",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwNUY5dkhWZDNjbk9CNXBtWWdEQjBBdktkd00wbi1pbEFuTHA5LUIyaDVDYTRnaUV4OGloTTJSOXpTWnlTUlZJaDZtazhzZw?oc=5",
+      "source": "AIBase",
       "region": "china",
       "date": "2026-04-29",
       "type": "china",
@@ -413,6 +413,18 @@
       "_query": "OpenAI 动态"
     },
     {
+      "title": "OpenAI Chases Goblins, Gremlins From Answers - Newser",
+      "desc": "OpenAI Chases Goblins, Gremlins From Answers    Newser",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTNodVo0MDdUbUNEaE1nTURlOS13YWZ6d2JZY1NZWjF3QlJkbHVyYzR3Q0UzY042MmhPbE5BaXFmMTNFZjY3SHF2dl9ENjA5VkpodnB3RWpob0RxSmdZU213UTNXeWd3TlhuelNhcGZvbHczZVhuZTEwcVlXU1RtZjNBanBNTzN1ZjVOQzdnRV9Rc2c?oc=5",
+      "source": "Newser",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "product",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
       "title": "Families sue OpenAI over Canadian mass shooter's use of ChatGPT - NPR",
       "desc": "Families sue OpenAI over Canadian mass shooter's use of ChatGPT    NPR",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUdmZ0tiYlBDZVNlVWhLbDBmWnE2ZlFabjJiai1ubEhmbW5KM1A4RDAyMFduZ3BEYW5TNDBFZ0QzTk5OYzFaU3BoQS1UakRCamYza0RsV2R4MXNqcml6UW95bzZkSDZ3ZEFxSFduM0psc01WU2FUWXFlanpjajFRWnB1ZlB6R3RkT29GODRwajU0bkU?oc=5",
@@ -433,30 +445,6 @@
       "date": "2026-04-29",
       "type": "model",
       "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows - Search Engine Journal",
-      "desc": "OpenAI Crawl Activity Tripled Since GPT-5, Data Shows    Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjZndXNoQWZuajQwUEJLVGNoMjRZZmd4b0tUOVAzVTdNclQ1U1Q5ZFNic2V3TndOLXlnRHlVZmZvRklTQm9GQ2hwOXo5dmZ3ZFlMakpvVEJ2R2VZMjZ3aXducFBhQm16WnBPOEx5MHBXTXlUUDMtSUhycnZCWjN1YlFRbExyMXVmbi15SDJIRnlFcEdhTzdZX2JJU3M?oc=5",
-      "source": "Search Engine Journal",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet - AI News",
-      "desc": "GPT-5.5 is OpenAI’s most capable agentic AI model yet    AI News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlVIUlFSQnRfOWdTNlI0NjNFV1llczlZU283WlFoTS1EeWRfQVVNTzVoQ1RseWEyamtDRjlnZWQxS0ZlRkJxQzczRm1NMVVmZERVUkFhWEdwRmZiUFJ3bTlCVlh3QnlFU3BzSUFJUHpsSktZRWljaDQ1TlhaMXNuZUp2UnJoRTVlZXRrNzJRT1ZHc1ZkdWE3MFNQaEhieWxTQlIxNFRTOHlPLXRKMGZJZmxZMkN3ZDlLaHN1eGNuRk9FZ2M?oc=5",
-      "source": "AI News",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -521,6 +509,18 @@
       "_query": "OpenAI 动态"
     },
     {
+      "title": "Cybersecurity in the Intelligence Age - OpenAI",
+      "desc": "Cybersecurity in the Intelligence Age    OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTmJINXN6MVZ2b3g5ZW9pNTRhUFN4bjJjSEFDMjFsTWNxSy1qZXZHVEVScWotbk5CdDNlNU5HSUNOS0F6OGFxbFdmLURtNnlMd3kzMkF6SWdPNmdoekFmWmJzMWRfckVhMGctWDV6ZEk?oc=5",
+      "source": "OpenAI",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "product",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
       "title": "Building the compute infrastructure for the Intelligence Age - OpenAI",
       "desc": "Building the compute infrastructure for the Intelligence Age    OpenAI",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXpXVS1qTkltd3V3VUNFcUI0T0R0UVNMQ1V4S1dnWTdHb0lvOFhEd0E5V2pGZzdWRW50cTJvNnRWZThyUzhnUVRXaGQxNGtkLW1JOXE5RTVuaFVkNmp4eWNSTzExMFhOS3Z3OHhSc0diLWY0MnRLRXd5bFFaTk9sMFdOeGZsNW1GdjJiSXpabw?oc=5",
@@ -536,18 +536,6 @@
       "title": "Our commitment to community safety - OpenAI",
       "desc": "Our commitment to community safety    OpenAI",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dmFVRVlSX1Bya0hINnNGTlZZTktuTjF5UHhaZ05iYjg5SmZCaXVrdVlEQW9tUDFfckE4M25YcWFSOUhjbmpxSHNtTEFLdVo4ckN5OVRraXN4YTA2c05GeVFMVjN3VExDWS1FTw?oc=5",
-      "source": "OpenAI",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Cybersecurity in the Intelligence Age - OpenAI",
-      "desc": "Cybersecurity in the Intelligence Age    OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTmJINXN6MVZ2b3g5ZW9pNTRhUFN4bjJjSEFDMjFsTWNxSy1qZXZHVEVScWotbk5CdDNlNU5HSUNOS0F6OGFxbFdmLURtNnlMd3kzMkF6SWdPNmdoekFmWmJzMWRfckVhMGctWDV6ZEk?oc=5",
       "source": "OpenAI",
       "region": "overseas",
       "date": "2026-04-29",
@@ -581,16 +569,28 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法 - 36kr.com",
-      "desc": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法    36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTbGV4R1VaY2ZhVUdPdnFQc1ZvWkp3ZmpXTi1FZUx2VzBhWnJycGZEQWxXRzVLd1VPdjZScUFHN3NnMTdlMTJWR0prYWRpdw?oc=5",
-      "source": "36kr.com",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "china",
-      "impact": "low",
+      "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO - The Verge",
+      "desc": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO    The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1RkVURoV1dDZDlDcnZqbE5kMXUxdnJvcnZRZlFtdTBhMXdkU3FPQUNuUFM0ZzBIbVB1NDRDWVhjNTRmMVo5MzBDMWtQaXE1TmN2d2NEeU1RSjRGZ1EzcUNFazcyOXpTMnNXV29EcjhSWE50OGJYanlyanFQMmIyRm1hd1ljdGlsakh0MGU4eDlpUWJhV3lmbEFiU1MxZw?oc=5",
+      "source": "The Verge",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
       "hot": false,
-      "_query": "字节豆包"
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live - EdTech Innovation Hub",
+      "desc": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live    EdTech Innovation Hub",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3QxbHJjbWRXZ0ZNWk1oa1IyQjBPTTBKekNfSmdwX2E5enRTdFNTMGVXeE93SjlaTVRlemxZNXNob0h4YV92UkdRLU9EWDl5QWFJcjMzTmdMSERDNnRHeHNpZjBCZlFPQ0xKTFJEUlNCUFJyMDlleTh1ajhZUy1keEtQNXIwY3hzWGotNjlnYlM2alEtelVQcUYyY0lJSGxYeGRON2YteENFUFJIOWw0Z2gwcWhpYVlmYU9oUGhkWGNfNEQzY3JDZ2NzT05xSHc?oc=5",
+      "source": "EdTech Innovation Hub",
+      "region": "overseas",
+      "date": "2026-04-29",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "大麦娱乐联合阿里通义发布潮玩创作者AI设计平台“妙呀” - 多知网",
@@ -629,12 +629,12 @@
       "_query": "月之暗面Kimi"
     },
     {
-      "title": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀” - 东方财富",
-      "desc": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀”    东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91WnByWWFndU1XMEdoWW53VkJEYzM5Uk5sWTFSMDlfRk5ZZHItVmE1TnR0VWowM0xOZDREeTZiS0V6bUdQbXFBNFBQNm9xUGxqX0d1YVpSMXZqOTU1QjJPRWc4LXEwdw?oc=5",
-      "source": "东方财富",
+      "title": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CTO",
+      "desc": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型    51CTO",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsSEJIdXkxVV9xUElSVlVXMWhYVlBVX2xMdGVBVEQ4ZXluZXc5eHpHYXc5bmgwRUM0TVNMeVNrVUppTXlsOEtZdzhZVlBuZw?oc=5",
+      "source": "51CTO",
       "region": "china",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "type": "china",
       "impact": "mid",
       "hot": false,
@@ -659,20 +659,20 @@
       "body": "本周 11 条相关报道。代表：DeepSeek灰测识图模式 多模态识别新突破 - 中华网；DeepSeek「开眼」引爆AI圈：我用12张刁钻图片，试出了它的能力边界 - ；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS。"
     },
     {
+      "title": "开源生态",
+      "body": "本周 7 条相关报道。代表：DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cn。"
+    },
+    {
       "title": "模型竞争",
       "body": "本周 6 条相关报道。代表：智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG” - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；llm CLI package releases version 0.32a0 。"
     },
     {
-      "title": "开源生态",
-      "body": "本周 6 条相关报道。代表：DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cn。"
-    },
-    {
       "title": "Agent应用",
-      "body": "本周 3 条相关报道。代表：AI Coding Agent Powered by Claude Opus 4；GPT-5.5 is OpenAI’s most capable agentic。"
+      "body": "本周 3 条相关报道。代表：AI Coding Agent Powered by Claude Opus 4；OpenAI brings GPT-5.5, Codex, and manage。"
     },
     {
-      "title": "企业落地",
-      "body": "本周 2 条相关报道。代表：全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；AI Coding Agent Powered by Claude Opus 4。"
+      "title": "多模态",
+      "body": "本周 2 条相关报道。代表：FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CT。"
     }
   ]
 }
