@@ -1,13 +1,13 @@
 {
   "generated_at": "2026年04月30日",
-  "generated_ts": "2026-04-30T04:18:39.417301",
+  "generated_ts": "2026-04-30T04:23:00.932764",
   "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 1 条。融资事件 4 起。",
   "top_story": {
-    "title": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网",
-    "desc": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增    观点网",
-    "source": "观点网",
+    "title": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cnBeta.COM",
+    "desc": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片    cnBeta.COM",
+    "source": "cnBeta.COM",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41RDVlakU2Q0VwZHgyenRyZURoOTdjek85dXF1R252Z0w5ZzZwY09KdEs3V1M4NndlOGlaOEZHbVZYZ3cxRVFEdWVZZTRKUQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbU9uTUY1UGNHUTN6V1l2MDdoX29vWEtvSHJKNFlxamJVUDF6YXpmY2NzSmFXOTRxTC05enJtS1k3SGllSE80TVh4cUhadk4wOHM2d25VQkpvSjJySXBGRQ?oc=5"
   },
   "metrics": {
     "events_count": 53,
@@ -65,25 +65,13 @@
       "_query": "华为昇腾"
     },
     {
-      "title": "姚顺雨的88天 - 新浪财经",
-      "desc": "姚顺雨的88天    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOdHdoZDRGanROUkRHanU4MkJJUEJiTUhvUVFpOFBZdTdkZktJSmdLNVlVREtUMmx6SDFLdzFmczFRSEZnSzVKbTZhMDA1TW5hRWh2WDNyM2lyQ041RGVxekdkRkZmZVNlZWpiNXJ6ZXJGdFBDVDdGeTQ3Q1FLZENOWlZBcEowbzgxT2NXOUZOOGxpdEdTMFZxUVI3Y3BZcnVJUTJ6dGdVN1pxWHJVZFlpSlVwWkVZU2FlUlFZc0JmOV8zZzhlWHp6UFNiVkJ4LWVYUmRmMHlzaFlKRHBKaXQzdU56RVk3YUJHdnNjN3RwYnY3WFdUai1qdmNMcTg5QXo0dG15ME9XV1pOU1hXc2lhaU9IbWczUE5zbVFkRE5fVkFmV1NpZ0pZOHBILWNsOTFRc2hpVFkwTlA4M3F6dXRfN05Db3hydnRJcl9QY21mYW9QRVRNMGJMbDY3TzdqaFR4cFVLNGtRc3lmV195QjhSSm5kN3FVamVLR3lqY1Y1SkkyTEhfdDBFN1FWNjBEQUdRRGZqYTRscjk3VjdxSHRCc3IycFNINm9BUHowQnZXdHZVR0w3dC1rSXlxQWVmVnZkZTRoVmhsaUVMNnFHdV9EMzNBa091cEhGbDVFT2NDUlY3QURUY0hWaVp1Q1NsZHMzMnBpZ1BXLWtSUjJnUnJkWW5EajJkVGx0RDdqdTk3eUpNcTBfVEFtUXB0bzJtR0loZ3lmVlo5MA?oc=5",
-      "source": "新浪财经",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "腾讯混元"
-    },
-    {
-      "title": "智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG” - 东方财富",
-      "desc": "智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG”    东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oRC1nMllWbW9mSkJacEVCZnRlSjBDQUFWbHBYb3RocVJSWVdPbnFURHZuLWRLeXQxR2ZvNlFPYmRzYlcyb3FST2cxRlEzdEJzVUF5cGhHQUJpX005WjdOdVVRRmQ2Zw?oc=5",
+      "title": "星辰大模型等十项中央企业数字技术成果发布 全链路自主可控 - 东方财富",
+      "desc": "星辰大模型等十项中央企业数字技术成果发布 全链路自主可控    东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ibHVkNUVXSVBFZnNScGFqcENUNF9iNmNhQ29neHA2SzhkaUNFa0dDX0VGdno2VTdHdW8ybDhhTnZueWtFb2lRbDBJMlVKT0JrWExCRUxfVHBpell3bVlkNkZwV1Yzdw?oc=5",
       "source": "东方财富",
       "region": "china",
       "date": "2026-04-30",
-      "type": "china",
+      "type": "model",
       "impact": "mid",
       "hot": false,
       "_query": "大模型发布"
@@ -125,18 +113,6 @@
       "_query": "AI融资投资"
     },
     {
-      "title": "芯原股份订单超预期，关注国产AI芯片订单落地带来的需求证据催化 - 东方财富",
-      "desc": "芯原股份订单超预期，关注国产AI芯片订单落地带来的需求证据催化    东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxQXExNm8wWi1fY3RwYWljdjM5am9kckRyR0s0SmxGZEdjZ1UxZDRnNlNBQmhqOWJrd0RxQlVxZHA2TUFoNlMtdWJETlUyS2RVUjFnLTRpYi1nak9MQWFWcDJESkY?oc=5",
-      "source": "东方财富",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "infra",
-      "impact": "low",
-      "hot": false,
-      "_query": "AI芯片算力"
-    },
-    {
       "title": "国产AI芯片加速突围，芯片ETF华夏（159995）盘中大涨3.25%，成分股芯原股份涨超15% - 证券之星",
       "desc": "国产AI芯片加速突围，芯片ETF华夏（159995）盘中大涨3.25%，成分股芯原股份涨超15%    证券之星",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvcDRSaG1LbjJ0Zldfdi1EWHlrOXdNSkJLN0gxazROQzRxaWFKa1RsdlVGYm9TTzBrcVI4d2duVEZUZU5XR3BDdGRwb3ZaMnBjRUFKckVDSy1XM2F2WXNmag?oc=5",
@@ -145,6 +121,18 @@
       "date": "2026-04-30",
       "type": "infra",
       "impact": "low",
+      "hot": false,
+      "_query": "AI芯片算力"
+    },
+    {
+      "title": "DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工程专辑",
+      "desc": "DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢”    电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wT3pabmZ4bWZaNU90cXZweVhldHFHNW5kUzBLQkctTU5aRzJoZDUwU2RwSzM3bkZsdGVLeFZtX3dDU2kwQVJJMElBOVhmNk84QnUtLWJoa19LWXJM?oc=5",
+      "source": "电子工程专辑",
+      "region": "china",
+      "date": "2026-04-30",
+      "type": "infra",
+      "impact": "mid",
       "hot": false,
       "_query": "AI芯片算力"
     },
@@ -173,18 +161,6 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "Why Microsoft CEO Satya Nadella Feels ‘Very Good’ About New OpenAI Deal While Amazon Adds GPT Models To AWS - Stocktwits",
-      "desc": "Why Microsoft CEO Satya Nadella Feels ‘Very Good’ About New OpenAI Deal While Amazon Adds GPT Models To AWS    Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmtxaUpKd0xRTXVuRU0yYWt0ZURGWXdjOVh5U0V6LXVNLWJKbUFTUG1vLVdZM05VYXBVemh5WnZVR2c5WjF1MUFxa1FBQUc1c0o4a3F6eDlaaTBGLVRhOXY4T2VrZV9DTEFVb1pHZ0s2YUlPd1UyNVZHdnBaOXJRVll6dTYtX0kxc0JoWkMwc2Q2akJXcEN4UUFpNE5rak43T0lUQk5JSFd5OEVfLVgtZVo4aWd6bnNGYl9jSUc0d2lwOGJTeTN4el9qMmp0NEhCamM1N01xOTBycGdEems3T1dZRmhYRW02bHl3OWQ1LTh4NVNRQXhtaTJoUHROTHM?oc=5",
-      "source": "Stocktwits",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
       "title": "OpenAI schedules private GPT-5.5 launch event - Let's Data Science",
       "desc": "OpenAI schedules private GPT-5.5 launch event    Let's Data Science",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVZucy1TOWVDTExya25TT2xYMFZ4dEZvd1JMT0t0azMtdGNRV3dZUmI5TzBHcDEwX19FMWZTUzdRdUc4VUE0VWxiZldla0puVzg3QnhmV05XdFV6c0JIV2prMkExbXZJclZrNVk5bm9MM0tCeTlULWR6a2VMckxzNVFpaUJKVVBlbzdNQzJKUQ?oc=5",
@@ -193,6 +169,18 @@
       "date": "2026-04-30",
       "type": "model",
       "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "Why Microsoft CEO Satya Nadella Feels ‘Very Good’ About New OpenAI Deal While Amazon Adds GPT Models To AWS - Stocktwits",
+      "desc": "Why Microsoft CEO Satya Nadella Feels ‘Very Good’ About New OpenAI Deal While Amazon Adds GPT Models To AWS    Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcmtxaUpKd0xRTXVuRU0yYWt0ZURGWXdjOVh5U0V6LXVNLWJKbUFTUG1vLVdZM05VYXBVemh5WnZVR2c5WjF1MUFxa1FBQUc1c0o4a3F6eDlaaTBGLVRhOXY4T2VrZV9DTEFVb1pHZ0s2YUlPd1UyNVZHdnBaOXJRVll6dTYtX0kxc0JoWkMwc2Q2akJXcEN4UUFpNE5rak43T0lUQk5JSFd5OEVfLVgtZVo4aWd6bnNGYl9jSUc0d2lwOGJTeTN4el9qMmp0NEhCamM1N01xOTBycGdEems3T1dZRmhYRW02bHl3OWQ1LTh4NVNRQXhtaTJoUHROTHM?oc=5",
+      "source": "Stocktwits",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "low",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -341,18 +329,6 @@
       "_query": "字节豆包"
     },
     {
-      "title": "​中文视觉大模型竞争新局面：豆包夺魁，国产实力全面反超！ - AIBase",
-      "desc": "​中文视觉大模型竞争新局面：豆包夺魁，国产实力全面反超！    AIBase",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwNUY5dkhWZDNjbk9CNXBtWWdEQjBBdktkd00wbi1pbEFuTHA5LUIyaDVDYTRnaUV4OGloTTJSOXpTWnlTUlZJaDZtazhzZw?oc=5",
-      "source": "AIBase",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "字节豆包"
-    },
-    {
       "title": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网 - 新浪财经",
       "desc": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网    新浪财经",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1hpSjdnTjhQcDlHM21CZU1LM1EwY2NfTDRPQ3o0cW01dy14N1pmY0FJRUVlMkk0VzF4Q0laVzNFU0pBYlNtR2UwQVo1bDRYa2ZnNS1zQTMyd01jb1VVR2JScnFuMW9zYUtJOExTaDlNYXM2UDZSVkRjQm96MXBYZE5CQVVPbEtaeXJTdnNQM2xGYlpreFNteDBnbzlmMnNwQVZhTGtnQQ?oc=5",
@@ -365,10 +341,10 @@
       "_query": "百度文心"
     },
     {
-      "title": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网",
-      "desc": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增    观点网",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41RDVlakU2Q0VwZHgyenRyZURoOTdjek85dXF1R252Z0w5ZzZwY09KdEs3V1M4NndlOGlaOEZHbVZYZ3cxRVFEdWVZZTRKUQ?oc=5",
-      "source": "观点网",
+      "title": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cnBeta.COM",
+      "desc": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片    cnBeta.COM",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbU9uTUY1UGNHUTN6V1l2MDdoX29vWEtvSHJKNFlxamJVUDF6YXpmY2NzSmFXOTRxTC05enJtS1k3SGllSE80TVh4cUhadk4wOHM2d25VQkpvSjJySXBGRQ?oc=5",
+      "source": "cnBeta.COM",
       "region": "china",
       "date": "2026-04-29",
       "type": "infra",
@@ -381,6 +357,18 @@
       "desc": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平    爱范儿",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xb1pTZlBxbmVtZGdRRk5JT3lUOXVPV2I0djlqS2RmRnBoUVRUR0NzYjNqOE9kcXk4elFvVnRjbk5YMVU?oc=5",
       "source": "爱范儿",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "腾讯混元"
+    },
+    {
+      "title": "“能说会做”！腾讯智能体生态亮相福州，让“好用的AI”成为新质生产力 - 中国日报网",
+      "desc": "“能说会做”！腾讯智能体生态亮相福州，让“好用的AI”成为新质生产力    中国日报网",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbVN2Q2Y5aXRwdVh4VWZEbnRMbDBCak05My03Z1QyekpxRVJsRVh1eGVmN2kyVEdqWndabDJGVlZNb1ZaVE1OT3lVODdyazdEQ2tWMHlLMnpOTDhVcUlkWUpuTTRvVWJUTG91YlNxbU9YOGItcVZZc2xmVnI?oc=5",
+      "source": "中国日报网",
       "region": "china",
       "date": "2026-04-29",
       "type": "china",
@@ -593,6 +581,18 @@
       "_query": "OpenAI 动态"
     },
     {
+      "title": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法 - 36kr.com",
+      "desc": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法    36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTbGV4R1VaY2ZhVUdPdnFQc1ZvWkp3ZmpXTi1FZUx2VzBhWnJycGZEQWxXRzVLd1VPdjZScUFHN3NnMTdlMTJWR0prYWRpdw?oc=5",
+      "source": "36kr.com",
+      "region": "china",
+      "date": "2026-04-28",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "字节豆包"
+    },
+    {
       "title": "大麦娱乐联合阿里通义发布潮玩创作者AI设计平台“妙呀” - 多知网",
       "desc": "大麦娱乐联合阿里通义发布潮玩创作者AI设计平台“妙呀”    多知网",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EbTVhVVVrQVRUaUpfS01BTnJzVTNaTV9MNkxoT1BGc244cF90SDMtdVVZTm1XemJ4dlFBZU1OZ3QzQ1VTcW0wQmtkamRlakJ0MmY3NWNwQVBkQ0VSNS1fMExTc3NYX2tWVGc?oc=5",
@@ -629,12 +629,12 @@
       "_query": "月之暗面Kimi"
     },
     {
-      "title": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀” - 东方财富",
-      "desc": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀”    东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91WnByWWFndU1XMEdoWW53VkJEYzM5Uk5sWTFSMDlfRk5ZZHItVmE1TnR0VWowM0xOZDREeTZiS0V6bUdQbXFBNFBQNm9xUGxqX0d1YVpSMXZqOTU1QjJPRWc4LXEwdw?oc=5",
-      "source": "东方财富",
+      "title": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CTO",
+      "desc": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型    51CTO",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsSEJIdXkxVV9xUElSVlVXMWhYVlBVX2xMdGVBVEQ4ZXluZXc5eHpHYXc5bmgwRUM0TVNMeVNrVUppTXlsOEtZdzhZVlBuZw?oc=5",
+      "source": "51CTO",
       "region": "china",
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "type": "china",
       "impact": "mid",
       "hot": false,
@@ -656,23 +656,23 @@
   "trends": [
     {
       "title": "国产AI",
-      "body": "本周 8 条相关报道。代表：DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS；《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.。"
+      "body": "本周 9 条相关报道。代表：DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS；DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工。"
     },
     {
       "title": "模型竞争",
-      "body": "本周 6 条相关报道。代表：智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG” - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；OpenAI schedules private GPT-5.5 launch 。"
+      "body": "本周 6 条相关报道。代表：星辰大模型等十项中央企业数字技术成果发布 全链路自主可控 - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；OpenAI schedules private GPT-5.5 launch 。"
     },
     {
       "title": "开源生态",
-      "body": "本周 4 条相关报道。代表：中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网。"
-    },
-    {
-      "title": "企业落地",
-      "body": "本周 3 条相关报道。代表：芯原股份订单超预期，关注国产AI芯片订单落地带来的需求证据催化 - 东方财富；AI Coding Agent Powered by Claude Opus 4。"
+      "body": "本周 6 条相关报道。代表：中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cn；FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CT。"
     },
     {
       "title": "Agent应用",
-      "body": "本周 2 条相关报道。代表：全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；AI Coding Agent Powered by Claude Opus 4。"
+      "body": "本周 3 条相关报道。代表：AI Coding Agent Powered by Claude Opus 4。"
+    },
+    {
+      "title": "企业落地",
+      "body": "本周 3 条相关报道。代表：星辰大模型等十项中央企业数字技术成果发布 全链路自主可控 - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；AI Coding Agent Powered by Claude Opus 4。"
     }
   ]
 }
