@@ -1,42 +1,42 @@
 {
   "generated_at": "2026年04月30日",
-  "generated_ts": "2026-04-30T04:23:00.932764",
-  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 1 条。融资事件 4 起。",
+  "generated_ts": "2026-04-30T06:17:32.601691",
+  "summary": "本周追踪到 52 条AI动态，海外 30 条、国内 22 条。高影响事件 1 条。融资事件 4 起。",
   "top_story": {
-    "title": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cnBeta.COM",
-    "desc": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片    cnBeta.COM",
-    "source": "cnBeta.COM",
+    "title": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网",
+    "desc": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增    观点网",
+    "source": "观点网",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbU9uTUY1UGNHUTN6V1l2MDdoX29vWEtvSHJKNFlxamJVUDF6YXpmY2NzSmFXOTRxTC05enJtS1k3SGllSE80TVh4cUhadk4wOHM2d25VQkpvSjJySXBGRQ?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41RDVlakU2Q0VwZHgyenRyZURoOTdjek85dXF1R252Z0w5ZzZwY09KdEs3V1M4NndlOGlaOEZHbVZYZ3cxRVFEdWVZZTRKUQ?oc=5"
   },
   "metrics": {
-    "events_count": 53,
-    "china_count": 23,
+    "events_count": 52,
+    "china_count": 22,
     "overseas_count": 30,
     "funding_count": 4
   },
   "events": [
     {
-      "title": "DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网",
-      "desc": "DeepSeek V4适配华为昇腾_新浪新闻    手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55N2RXS2Nfa2czSk9ueWFMWjdRZzhXMjM0S3NJZXVYLVdDdlB2b3dQbzVPWWV3bkEyMFBIOUFSbTlzWVNPbFAtcXVrVWRkREo4dk5oOU1NZkRYcy1DM1FTOVNZbw?oc=5",
-      "source": "手机新浪网",
+      "title": "DeepSeek“开眼”引爆AI圈：我用12张刁钻图片，试出了它的能力边界 - thepaper.cn",
+      "desc": "DeepSeek“开眼”引爆AI圈：我用12张刁钻图片，试出了它的能力边界    thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OYzBHZHZaMWdDQmNxVXFxV3NDVmJrcVl2TkJkWlRjd19kdkNFNTFheTB6bGNfaDJlcEY4N1lvdktlSzFWekR1eE9ZX0tMLUpVcDJEbFdlOXBVaUlhREFrXw?oc=5",
+      "source": "thepaper.cn",
       "region": "china",
       "date": "2026-04-30",
-      "type": "infra",
+      "type": "china",
       "impact": "mid",
       "hot": false,
       "_query": "DeepSeek"
     },
     {
-      "title": "知春路最有AGI理想的两个男人 - 投资界",
-      "desc": "知春路最有AGI理想的两个男人    投资界",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85bEZmUWFJT3NIVUY1WXI4WmpQa3dIbW85MWlIMU9DejB1Z2tSTUhNcFhkY1pwQjY0cFByd3RrQmdHU296MFVyZFBCT2dHS25xZDlEUkF3?oc=5",
-      "source": "投资界",
+      "title": "比DeepSeek更快？科大讯飞研究院院长：我们在国产算力上完成模型训练 - 新浪财经",
+      "desc": "比DeepSeek更快？科大讯飞研究院院长：我们在国产算力上完成模型训练    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YdTd0WVlpQzl3VUN5ZXVvLVNEMDRoU2NlYWRjd3lLVjNmdjZQbVVmVV91dDU5NHIzQTRaSFYyRGpHd3pCb0hoa2lJajJMZzY5c0ZyVXRvWE5GbGU4Z29qNFBLRjV0VW8xVnNmNTBDNG5KQlhKdE9TTjJYRUQ?oc=5",
+      "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
-      "type": "funding",
-      "impact": "low",
+      "type": "infra",
+      "impact": "mid",
       "hot": false,
       "_query": "DeepSeek"
     },
@@ -185,10 +185,10 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "OpenAI Has Just the Right Person to Curb Its Wild Spending - Bloomberg",
-      "desc": "OpenAI Has Just the Right Person to Curb Its Wild Spending    Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUxveExFRERoR1o5OG1ScW1IbmJUWmtubEtZbjRTbV9Db05vNWlsZnpBWUFLQmhqYXBldEpKNjZWYVRYYnJrSGlTQ0JxNlNqSFFpNWhrb0tpWng4anh0bVFVbnplclZGR0dVTHpjQjlZRmNsQnBza1dTckh4MERYa0tYWExFTDlUdnNnSzhzY18wVmNxTUhnNXRWY1VwZW5qMjVvdEdCWTVnZmcwNkFrcnhFdkxicEtIVzI3Y1JqLW1STUVTRXc?oc=5",
-      "source": "Bloomberg",
+      "title": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI - The Washington Post",
+      "desc": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI    The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV29adWpVZGxhTW10ckdEVnlGWXNCNXh3UEUyZW5ySjZVbktUTmFlZW9XaWxGREZpaDhJNEJOVDh2OFl6cmo2SExhNUVjQk1FaXQ4LS1TQ3d5UTh2bkc2Wmo5UTN6emdyVkM4NFhjTEFTRGhSTEpuVWhzZUV2WVU1NWJ3ci05dVJuck9QTXRxc2JSUQ?oc=5",
+      "source": "The Washington Post",
       "region": "overseas",
       "date": "2026-04-30",
       "type": "product",
@@ -209,14 +209,38 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI - The Washington Post",
-      "desc": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI    The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV29adWpVZGxhTW10ckdEVnlGWXNCNXh3UEUyZW5ySjZVbktUTmFlZW9XaWxGREZpaDhJNEJOVDh2OFl6cmo2SExhNUVjQk1FaXQ4LS1TQ3d5UTh2bkc2Wmo5UTN6emdyVkM4NFhjTEFTRGhSTEpuVWhzZUV2WVU1NWJ3ci05dVJuck9QTXRxc2JSUQ?oc=5",
-      "source": "The Washington Post",
+      "title": "OpenAI Has Just the Right Person to Curb Its Wild Spending - Bloomberg.com",
+      "desc": "OpenAI Has Just the Right Person to Curb Its Wild Spending    Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUxveExFRERoR1o5OG1ScW1IbmJUWmtubEtZbjRTbV9Db05vNWlsZnpBWUFLQmhqYXBldEpKNjZWYVRYYnJrSGlTQ0JxNlNqSFFpNWhrb0tpWng4anh0bVFVbnplclZGR0dVTHpjQjlZRmNsQnBza1dTckh4MERYa0tYWExFTDlUdnNnSzhzY18wVmNxTUhnNXRWY1VwZW5qMjVvdEdCWTVnZmcwNkFrcnhFdkxicEtIVzI3Y1JqLW1STUVTRXc?oc=5",
+      "source": "Bloomberg.com",
       "region": "overseas",
       "date": "2026-04-30",
       "type": "product",
       "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "Sam Altman teases GPT-5.5 Cyber rollout as OpenAI doubles down on AI-led defence - Firstpost",
+      "desc": "Sam Altman teases GPT-5.5 Cyber rollout as OpenAI doubles down on AI-led defence    Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUtPYlpTMk9Lb0VxS0EzOS1wa0w1dFhxTnozZTZQR0ozX1Fvd0NpNHA1dEFneWczQ3p6bG9pVGZabHJ5Y3lwSW0xbUVaWWd0QjlrYjdnMGxWNFRCMVNUNjNDUDRjUC1hQ0l3bVlCcXpNRkpWdEdrbllldE01MFI0bHBERWk4WmNFN0c0TEdHNWVEU2hGbUI4U295Q3JyNlYyQ1FRRXhsLXdKRGlOOUphTG9tQVdLekpXVUR2RU9FSThrZFHSAcgBQVVfeXFMTVJaaC1BZ2hRYU1qbzYwekxUTGFYUURTeWpWVGlEX090bkVIN0hkRmpENXJiUjRtRXFKUEZtb18wQ1plSkZmTHZtR1pXQjBjWDJYR2I4ZUhGbnBRQUl1bVBTcmNzU1hIai1ZM255RWRoYkpfVUIzeXBjUnJQUzdoUU1WTTNVLURZS3lfd1VTU29BM1k4c29xblo3bjMxUnFuaGMzcy1fUEg5LTh4ZmhocE5wc2xnVHBPZkVwSndzSHFoWWhlVXgwQnc?oc=5",
+      "source": "Firstpost",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says GPT-5.5-Cyber to launch for cyber defenders with focus on trusted government access - Mint",
+      "desc": "OpenAI’s Sam Altman says GPT-5.5-Cyber to launch for cyber defenders with focus on trusted government access    Mint",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkh5ZTM2TXpEZlZVdzFhM0VTUFhVNHJuNnFOYzczWWdNMGFJbVNHQnZtN2s3eWNkUER0UHBQQWZiVTBFclY2VExJcVl0MExXd0h2V1lEVXdXM21MRUw0MDlqbXV0ZVVNX2E5ZFJsWDA0X0ZfSms3ZXdZZ1NGTTZjUGwwZTE4cVlwdGFkOUxveXZkNThxN29VX1pPZWhQVnBYS05GeXJEVGdEOUYtVlRratIBtgFBVV95cUxOUlBKSjRWdHV6aHFHbE0yMnp4RGxUMl9MalJESXNTTmh5V2Iycm93RWNLMFNVN2ljd1FZU3FYd05pak5ubmt1T0RiQVdKN3hVY3gtY0dPbHExcmR5VXUyVE5vZWxvVFdUbFhSN2poZExjeFJyeGhPMWdfRVZINkhSS1dkbnh4U1ZMOUdDTms2RjhBNFRBSzg1Uzl4NDBBdWE3NDRFaHF6MHBrNHMxQ3dfRlBhZHRVUQ?oc=5",
+      "source": "Mint",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "mid",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -281,6 +305,18 @@
       "_query": "AI 模型发布"
     },
     {
+      "title": "Ubuntu Will Get Opt-In \"Thoughtful AI Integration\" In Upcoming Releases - TechPowerUp",
+      "desc": "Ubuntu Will Get Opt-In \"Thoughtful AI Integration\" In Upcoming Releases    TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1ZjWDdwQTJ1b09YQm12YWQzZmRFM0JuVW5abGs3akFUUTFycmRyay0zWVlfc09LQndTMjY4RXZDWmI1c2FmTGlhZm9lYk1hTm9TLVdLdTk3S0U1ZWhibUFnQUlLMS0yTjlXdVJPZkVZblNYSnJlcHJoTWhObmxOUDlXT1gxY1hzYmVPOGg4Um9jSFBkd0V1SWhpQzlCOTBIazJXSWJDVdIBrAFBVV95cUxOdUpoQUxlY2tBQ1h6THFKNGxlYkdmTUQtMEotanB3Q3BvYzdQeUZyRDdrSHdtdVozd1ZOdzFtbUZ4SkpHTXY0VkFkZ0tWdFBON1lzTTBPSTlTUjVWelhaMm05NW95elhEdGVGdUZpZ2l3VS1hVXMtR2NZT0xXcW5ScVNLSGNGWjNOYUlVaDE2N29rTFZLMmtiR0g2Wm1zSXBHcHg0V3lydkFuYU1f?oc=5",
+      "source": "TechPowerUp",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "AI 模型发布"
+    },
+    {
       "title": "llm CLI package releases version 0.32a0 - Let's Data Science",
       "desc": "llm CLI package releases version 0.32a0    Let's Data Science",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFZjbXhhZlN2eUhocWJBaE5ESnZhR2JPWUhTdmI3Y29sX083MWFNSEFUeG53bGRvTHdYUWYtZW9rakdwRmhFTk0xUEUwdVJKQm9DRk1iYUw0NjhtekY1REl1WEtqcGxoWEhIZ2ZGM2NEM0RwOUdJSHpwSjJOT1M4RjJ5M1c5R0U?oc=5",
@@ -289,6 +325,18 @@
       "date": "2026-04-30",
       "type": "model",
       "impact": "mid",
+      "hot": false,
+      "_query": "AI 模型发布"
+    },
+    {
+      "title": "AI Faces Reliability Gaps Triggering Market Correction - Let's Data Science",
+      "desc": "AI Faces Reliability Gaps Triggering Market Correction    Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjNTbkUtMmdrV0g3SmN3U0VURHhGQWlYU1JUeWdkSHNQWldQUmRNT3V2MjB6YWR0MXo1aUxJSUdpeXpyd2dmV0RWd0JjZkI2ei0xbUVnaXJDa0I1djY0bUlERW5nQ0dnR05tRkpZb0ZQRlg4U1BtWnF1c296NW13aG5wT3JqcjJxSzZyX0gzOThJejRVelYtSTNnUjg?oc=5",
+      "source": "Let's Data Science",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "low",
       "hot": false,
       "_query": "AI 模型发布"
     },
@@ -317,10 +365,34 @@
       "_query": "AI 模型发布"
     },
     {
+      "title": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere - CNBC",
+      "desc": "Nvidia just invested in the AI legal startup that's splashing Jude Law ads everywhere    CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IY21ZYkpfWHFzZFdjaDJNYUg2T2k3NWFwOWNFTVRPTHI5dE9KX1FlZGc5czBYSFZIOUdlYTRCTEx4aGRJaC1IQnpkSDE5RkxlMjQzdXo3NjNpOXNONmcxSmt3TmRfR0g5a1hNTk1tRml6U0MtZzZJS2pn0gF_QVVfeXFMUG1JLTRyMFZCS1ZFcGtMc2JBQmV3a2JCdm1rdUU1SlVDdkt3b0oyVXNZSU9uUVF3WC1ydUxCWGZjMnlRcDU1YUFnU0hSSkdUMFVsRWZzZTJxTkg0YkJ0MFB2b2t4VTFoN2JYV3RZZGg3WjhJeW84SXotWlFCYXhUaw?oc=5",
+      "source": "CNBC",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "funding",
+      "impact": "low",
+      "hot": false,
+      "_query": "AI 融资"
+    },
+    {
       "title": "《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.HK)、阿里(09988.HK)入选 - AASTOCKS.com",
       "desc": "《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.HK)、阿里(09988.HK)入选    AASTOCKS.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CQ0xPb1J6M2ZuLUttTF8yQWx2eEUta19PcG50a0l0TE9Rb09yYndZYnNsTGozN2NqV25FSVFDS3Z3T1h5Rjl4YVZnMDJUbkpnQnlCaVJyRVVjYjRwSTcwYjBJdE5hRFZoUEtLeVdEQQ?oc=5",
       "source": "AASTOCKS.com",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "字节豆包"
+    },
+    {
+      "title": "​中文视觉大模型竞争新局面：豆包夺魁，国产实力全面反超！ - AIBase",
+      "desc": "​中文视觉大模型竞争新局面：豆包夺魁，国产实力全面反超！    AIBase",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwNUY5dkhWZDNjbk9CNXBtWWdEQjBBdktkd00wbi1pbEFuTHA5LUIyaDVDYTRnaUV4OGloTTJSOXpTWnlTUlZJaDZtazhzZw?oc=5",
+      "source": "AIBase",
       "region": "china",
       "date": "2026-04-29",
       "type": "china",
@@ -341,10 +413,10 @@
       "_query": "百度文心"
     },
     {
-      "title": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cnBeta.COM",
-      "desc": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片    cnBeta.COM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbU9uTUY1UGNHUTN6V1l2MDdoX29vWEtvSHJKNFlxamJVUDF6YXpmY2NzSmFXOTRxTC05enJtS1k3SGllSE80TVh4cUhadk4wOHM2d25VQkpvSjJySXBGRQ?oc=5",
-      "source": "cnBeta.COM",
+      "title": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网",
+      "desc": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增    观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41RDVlakU2Q0VwZHgyenRyZURoOTdjek85dXF1R252Z0w5ZzZwY09KdEs3V1M4NndlOGlaOEZHbVZYZ3cxRVFEdWVZZTRKUQ?oc=5",
+      "source": "观点网",
       "region": "china",
       "date": "2026-04-29",
       "type": "infra",
@@ -497,22 +569,10 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "Uninstalls of ChatGPT Are Spiking at the Worst Time Imaginable for OpenAI - Futurism",
-      "desc": "Uninstalls of ChatGPT Are Spiking at the Worst Time Imaginable for OpenAI    Futurism",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVE9rSGlmM1ROczlLTU4zYW5UUTBqS2Q0bHBHcGY4VGthZFQwRnpmamMyRV9wejNER1VObWlERF9OVWhvWU1SbDhrdDZuYzVJcGdpazVUbG4wekJjU3dTY2I3SXVJcE9mY1lBdHJmVjZZVy1tTmZYU1QxU0VqRGF1NTVtS1VDN0ZLd21VbTk3d2duQQ?oc=5",
-      "source": "Futurism",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Musk takes the stand in court battle against OpenAI and Altman - BBC",
-      "desc": "Musk takes the stand in court battle against OpenAI and Altman    BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bTI3WkJ5MFVla2JjbTVxM2R2RjdzQ2hPanE0enRSOXhTenhBREttUkxWZ1BTd3NlMzBxeVRxMVZsQ2tBNW1qdXhSZlRIdk9xT0FCbENsYWdCUQ?oc=5",
-      "source": "BBC",
+      "title": "Cybersecurity in the Intelligence Age - OpenAI",
+      "desc": "Cybersecurity in the Intelligence Age    OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTmJINXN6MVZ2b3g5ZW9pNTRhUFN4bjJjSEFDMjFsTWNxSy1qZXZHVEVScWotbk5CdDNlNU5HSUNOS0F6OGFxbFdmLURtNnlMd3kzMkF6SWdPNmdoekFmWmJzMWRfckVhMGctWDV6ZEk?oc=5",
+      "source": "OpenAI",
       "region": "overseas",
       "date": "2026-04-29",
       "type": "product",
@@ -531,66 +591,6 @@
       "impact": "low",
       "hot": false,
       "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Our commitment to community safety - OpenAI",
-      "desc": "Our commitment to community safety    OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dmFVRVlSX1Bya0hINnNGTlZZTktuTjF5UHhaZ05iYjg5SmZCaXVrdVlEQW9tUDFfckE4M25YcWFSOUhjbmpxSHNtTEFLdVo4ckN5OVRraXN4YTA2c05GeVFMVjN3VExDWS1FTw?oc=5",
-      "source": "OpenAI",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI Sued by Seven Families Over Mass Shooting Suspect’s ChatGPT Use - WSJ",
-      "desc": "OpenAI Sued by Seven Families Over Mass Shooting Suspect’s ChatGPT Use    WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2VHQUhXWGtZTHNYelNtcnB2TE43aDNJbElMYjEwTGw3U2VJenJXYWdZS2pWNEpucmZZS25RTUR2aHF1NlBFTzBKZGdLaEg5SUI4NnplTmxxbExQN1BsQ1BPYzFkWVdjVkhNX001cUhlTjRTNTA3RW0zMWl5NXRrdmNxTk9tZUlTZkNwd3JwOXZUamxsajlPVFYtTHpJOVo0OHNyeG5sRnBLdw?oc=5",
-      "source": "WSJ",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO - The Verge",
-      "desc": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO    The Verge",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1RkVURoV1dDZDlDcnZqbE5kMXUxdnJvcnZRZlFtdTBhMXdkU3FPQUNuUFM0ZzBIbVB1NDRDWVhjNTRmMVo5MzBDMWtQaXE1TmN2d2NEeU1RSjRGZ1EzcUNFazcyOXpTMnNXV29EcjhSWE50OGJYanlyanFQMmIyRm1hd1ljdGlsakh0MGU4eDlpUWJhV3lmbEFiU1MxZw?oc=5",
-      "source": "The Verge",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Victims allege OpenAI and Sam Altman are responsible for a mass shooting - Mother Jones",
-      "desc": "Victims allege OpenAI and Sam Altman are responsible for a mass shooting    Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWdESDA0eWlRZVo5Vmc2VFdIU3JTMzFWU3lNUWRFYm41bS1LZ0ZRX05rSVEwRmlteW55cWo1Y3FnaDFMUDVmYTMtcnpMTzVaMk1jamlrN3lKWmxHZUEyWm9NaVVReDJlX2VKa1o5UDRtQndjOGZia2lxbDBlc2JvWnZTYmU0WldERS1Qek9fanpUR3R4SFFOSUtKWF9MdURZbkVQdTF4U3l2cU5yVGcxbTln?oc=5",
-      "source": "Mother Jones",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法 - 36kr.com",
-      "desc": "工信部约谈剪映、猫箱、即梦AI网站等平台，违反AI生成内容标识办法    36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTbGV4R1VaY2ZhVUdPdnFQc1ZvWkp3ZmpXTi1FZUx2VzBhWnJycGZEQWxXRzVLd1VPdjZScUFHN3NnMTdlMTJWR0prYWRpdw?oc=5",
-      "source": "36kr.com",
-      "region": "china",
-      "date": "2026-04-28",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "字节豆包"
     },
     {
       "title": "大麦娱乐联合阿里通义发布潮玩创作者AI设计平台“妙呀” - 多知网",
@@ -629,18 +629,6 @@
       "_query": "月之暗面Kimi"
     },
     {
-      "title": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CTO",
-      "desc": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型    51CTO",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsSEJIdXkxVV9xUElSVlVXMWhYVlBVX2xMdGVBVEQ4ZXluZXc5eHpHYXc5bmgwRUM0TVNMeVNrVUppTXlsOEtZdzhZVlBuZw?oc=5",
-      "source": "51CTO",
-      "region": "china",
-      "date": "2026-04-24",
-      "type": "china",
-      "impact": "mid",
-      "hot": false,
-      "_query": "阿里通义"
-    },
-    {
       "title": "智谱致歉：全额退款+服务延期，运营失误致股价承压 - 雪球",
       "desc": "智谱致歉：全额退款+服务延期，运营失误致股价承压    雪球",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kSXk2dm5ZNDhqRDU3cXZCYVhqSVM2Y3lTdTFOcEI3WmxtMnYtNlk5bFdLQzMzdWx2c2VJcWh3SjRrcUxoNFNzQzF2bVVSZmxw?oc=5",
@@ -656,15 +644,15 @@
   "trends": [
     {
       "title": "国产AI",
-      "body": "本周 9 条相关报道。代表：DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS；DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工。"
+      "body": "本周 9 条相关报道。代表：DeepSeek“开眼”引爆AI圈：我用12张刁钻图片，试出了它的能力边界 - ；比DeepSeek更快？科大讯飞研究院院长：我们在国产算力上完成模型训练 - 新；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS。"
     },
     {
       "title": "模型竞争",
-      "body": "本周 6 条相关报道。代表：星辰大模型等十项中央企业数字技术成果发布 全链路自主可控 - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；OpenAI schedules private GPT-5.5 launch 。"
+      "body": "本周 8 条相关报道。代表：星辰大模型等十项中央企业数字技术成果发布 全链路自主可控 - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；OpenAI schedules private GPT-5.5 launch 。"
     },
     {
       "title": "开源生态",
-      "body": "本周 6 条相关报道。代表：中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cn；FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CT。"
+      "body": "本周 6 条相关报道。代表：DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网。"
     },
     {
       "title": "Agent应用",
