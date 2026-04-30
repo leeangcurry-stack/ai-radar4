@@ -1,44 +1,56 @@
 {
   "generated_at": "2026年04月30日",
-  "generated_ts": "2026-04-30T03:44:58.669768",
-  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 2 条。融资事件 3 起。",
+  "generated_ts": "2026-04-30T04:18:39.417301",
+  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 1 条。融资事件 4 起。",
   "top_story": {
-    "title": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台 - Infoq.cn",
-    "desc": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台    Infoq.cn",
-    "source": "Infoq.cn",
+    "title": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网",
+    "desc": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增    观点网",
+    "source": "观点网",
     "date": "2026-04-29",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RllJSl9FWkxTTE1wQWhmRmU1U09kbUVyMmlCWF8xdHZLTkFRQnczNXlXbm13NFdLek1PMk9RbldZS3pSdThsSzY1V1BHam9FeHhjbWFJN0RPdw?oc=5"
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41RDVlakU2Q0VwZHgyenRyZURoOTdjek85dXF1R252Z0w5ZzZwY09KdEs3V1M4NndlOGlaOEZHbVZYZ3cxRVFEdWVZZTRKUQ?oc=5"
   },
   "metrics": {
     "events_count": 53,
     "china_count": 23,
     "overseas_count": 30,
-    "funding_count": 3
+    "funding_count": 4
   },
   "events": [
     {
-      "title": "DeepSeek灰测识图模式 多模态识别新突破 - 中华网",
-      "desc": "DeepSeek灰测识图模式 多模态识别新突破    中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FaldIMXlYTkFzQ3M4cS1jQ1VkWkZMZ1dFU2x0SDhoTmg3cmVLM0hueDZ1QW9HQ3NaY0dmaVkwWlJBQ2FIZjJWZ0lFRDZaMW9RQ19EME9oTmV5R25Vazd5a2w4eGgtZVd4N1FfZXRsa0s?oc=5",
-      "source": "中华网",
+      "title": "DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网",
+      "desc": "DeepSeek V4适配华为昇腾_新浪新闻    手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55N2RXS2Nfa2czSk9ueWFMWjdRZzhXMjM0S3NJZXVYLVdDdlB2b3dQbzVPWWV3bkEyMFBIOUFSbTlzWVNPbFAtcXVrVWRkREo4dk5oOU1NZkRYcy1DM1FTOVNZbw?oc=5",
+      "source": "手机新浪网",
       "region": "china",
       "date": "2026-04-30",
-      "type": "china",
+      "type": "infra",
       "impact": "mid",
       "hot": false,
       "_query": "DeepSeek"
     },
     {
-      "title": "DeepSeek「开眼」引爆AI圈：我用12张刁钻图片，试出了它的能力边界 - 创业邦",
-      "desc": "DeepSeek「开眼」引爆AI圈：我用12张刁钻图片，试出了它的能力边界    创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93UHdfelpYc1RDX0x0QmZaeGxCc1hUMEdnQV9NNjZsWkxCTEE1enhsdHVIVkVvb0NVUmNLRHJIaDlweXplSEJ6Z0w5Ni1UZWUyd3A0?oc=5",
-      "source": "创业邦",
+      "title": "知春路最有AGI理想的两个男人 - 投资界",
+      "desc": "知春路最有AGI理想的两个男人    投资界",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85bEZmUWFJT3NIVUY1WXI4WmpQa3dIbW85MWlIMU9DejB1Z2tSTUhNcFhkY1pwQjY0cFByd3RrQmdHU296MFVyZFBCT2dHS25xZDlEUkF3?oc=5",
+      "source": "投资界",
+      "region": "china",
+      "date": "2026-04-30",
+      "type": "funding",
+      "impact": "low",
+      "hot": false,
+      "_query": "DeepSeek"
+    },
+    {
+      "title": "文心一言5.1预览版上线 LMSYS 竞技场，目前位列全球第13位 - article.9466.com",
+      "desc": "文心一言5.1预览版上线 LMSYS 竞技场，目前位列全球第13位    article.9466.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OQjQtSUQ4Z2xtUW9zRmswY1NBTzNoVlBVZXhOTkpnOFRENzhjY0QzRHZibV92bTBTejUwUFF4TjB1UU5uVTIzQ2IwSEJ0dmc?oc=5",
+      "source": "article.9466.com",
       "region": "china",
       "date": "2026-04-30",
       "type": "china",
-      "impact": "mid",
+      "impact": "low",
       "hot": false,
-      "_query": "DeepSeek"
+      "_query": "百度文心"
     },
     {
       "title": "DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MSN",
@@ -51,6 +63,18 @@
       "impact": "mid",
       "hot": false,
       "_query": "华为昇腾"
+    },
+    {
+      "title": "姚顺雨的88天 - 新浪财经",
+      "desc": "姚顺雨的88天    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOdHdoZDRGanROUkRHanU4MkJJUEJiTUhvUVFpOFBZdTdkZktJSmdLNVlVREtUMmx6SDFLdzFmczFRSEZnSzVKbTZhMDA1TW5hRWh2WDNyM2lyQ041RGVxekdkRkZmZVNlZWpiNXJ6ZXJGdFBDVDdGeTQ3Q1FLZENOWlZBcEowbzgxT2NXOUZOOGxpdEdTMFZxUVI3Y3BZcnVJUTJ6dGdVN1pxWHJVZFlpSlVwWkVZU2FlUlFZc0JmOV8zZzhlWHp6UFNiVkJ4LWVYUmRmMHlzaFlKRHBKaXQzdU56RVk3YUJHdnNjN3RwYnY3WFdUai1qdmNMcTg5QXo0dG15ME9XV1pOU1hXc2lhaU9IbWczUE5zbVFkRE5fVkFmV1NpZ0pZOHBILWNsOTFRc2hpVFkwTlA4M3F6dXRfN05Db3hydnRJcl9QY21mYW9QRVRNMGJMbDY3TzdqaFR4cFVLNGtRc3lmV195QjhSSm5kN3FVamVLR3lqY1Y1SkkyTEhfdDBFN1FWNjBEQUdRRGZqYTRscjk3VjdxSHRCc3IycFNINm9BUHowQnZXdHZVR0w3dC1rSXlxQWVmVnZkZTRoVmhsaUVMNnFHdV9EMzNBa091cEhGbDVFT2NDUlY3QURUY0hWaVp1Q1NsZHMzMnBpZ1BXLWtSUjJnUnJkWW5EajJkVGx0RDdqdTk3eUpNcTBfVEFtUXB0bzJtR0loZ3lmVlo5MA?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-04-30",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "腾讯混元"
     },
     {
       "title": "智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG” - 东方财富",
@@ -101,10 +125,10 @@
       "_query": "AI融资投资"
     },
     {
-      "title": "国产AI芯片加速突围，芯片ETF华夏（159995）盘中大涨3.25%，成分股芯原股份涨超15% - 证券之星",
-      "desc": "国产AI芯片加速突围，芯片ETF华夏（159995）盘中大涨3.25%，成分股芯原股份涨超15%    证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvcDRSaG1LbjJ0Zldfdi1EWHlrOXdNSkJLN0gxazROQzRxaWFKa1RsdlVGYm9TTzBrcVI4d2duVEZUZU5XR3BDdGRwb3ZaMnBjRUFKckVDSy1XM2F2WXNmag?oc=5",
-      "source": "证券之星",
+      "title": "芯原股份订单超预期，关注国产AI芯片订单落地带来的需求证据催化 - 东方财富",
+      "desc": "芯原股份订单超预期，关注国产AI芯片订单落地带来的需求证据催化    东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxQXExNm8wWi1fY3RwYWljdjM5am9kckRyR0s0SmxGZEdjZ1UxZDRnNlNBQmhqOWJrd0RxQlVxZHA2TUFoNlMtdWJETlUyS2RVUjFnLTRpYi1nak9MQWFWcDJESkY?oc=5",
+      "source": "东方财富",
       "region": "china",
       "date": "2026-04-30",
       "type": "infra",
@@ -113,14 +137,14 @@
       "_query": "AI芯片算力"
     },
     {
-      "title": "DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工程专辑",
-      "desc": "DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢”    电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wT3pabmZ4bWZaNU90cXZweVhldHFHNW5kUzBLQkctTU5aRzJoZDUwU2RwSzM3bkZsdGVLeFZtX3dDU2kwQVJJMElBOVhmNk84QnUtLWJoa19LWXJM?oc=5",
-      "source": "电子工程专辑",
+      "title": "国产AI芯片加速突围，芯片ETF华夏（159995）盘中大涨3.25%，成分股芯原股份涨超15% - 证券之星",
+      "desc": "国产AI芯片加速突围，芯片ETF华夏（159995）盘中大涨3.25%，成分股芯原股份涨超15%    证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvcDRSaG1LbjJ0Zldfdi1EWHlrOXdNSkJLN0gxazROQzRxaWFKa1RsdlVGYm9TTzBrcVI4d2duVEZUZU5XR3BDdGRwb3ZaMnBjRUFKckVDSy1XM2F2WXNmag?oc=5",
+      "source": "证券之星",
       "region": "china",
       "date": "2026-04-30",
       "type": "infra",
-      "impact": "mid",
+      "impact": "low",
       "hot": false,
       "_query": "AI芯片算力"
     },
@@ -161,10 +185,10 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "OpenAI schedules private GPT-5.5 event in San Francisco - The Economic Times",
-      "desc": "OpenAI schedules private GPT-5.5 event in San Francisco    The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEl6NjZwbVdGNFExSGwtVmkwdWpxWm5oVjRfRk8zZ2lNTWZ1TmFVb0IwMWo0c2VVRmdfZHZEUkZ6YUduY2l5WGtnWURhV19qUzlMZnFaSkVjbHgzdHNzTUNJSnIwMFB0WmF3QWJTbWRhT2c0NnJmS3RlOGlpRFYwNXpxakd4S09jTVhyeWJ0Wkd6a1hwbzczU0R4SDJCNTJ2MXd4WUZHWHFzT19MVDgzNU9zZTZRc00td0JRcDkzQnNLeEpTRy1ZcXEtZm0wNnFocUZoVtIB2gFBVV95cUxQYjRiMEl6cHRBbjQtV1p1RDhORDAwWkZBTkVUamJDR1lsekxBVFotb0pic1lhYUZvQ2ZuaS1YdllhS1kwTjl1eEllRk0tbHhjRWhYUnhfNXZwLWJsY3IxOEpJcDM4QzMzeHV4eDFJUExjbTAzdlJHMy1BMDFLRE5yZXdfb2J2dlNrWXZNT0dlYmUtR2w4NVlHa0JGTndNTXdKWHBmNFlHbEJrQlRMZ2dVanlidlJ4TE5yQnJlRHoyTHpkNTlVRFE4YVk4Z05IWGctSF9ucDgxM1dDdw?oc=5",
-      "source": "The Economic Times",
+      "title": "OpenAI schedules private GPT-5.5 launch event - Let's Data Science",
+      "desc": "OpenAI schedules private GPT-5.5 launch event    Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVZucy1TOWVDTExya25TT2xYMFZ4dEZvd1JMT0t0azMtdGNRV3dZUmI5TzBHcDEwX19FMWZTUzdRdUc4VUE0VWxiZldla0puVzg3QnhmV05XdFV6c0JIV2prMkExbXZJclZrNVk5bm9MM0tCeTlULWR6a2VMckxzNVFpaUJKVVBlbzdNQzJKUQ?oc=5",
+      "source": "Let's Data Science",
       "region": "overseas",
       "date": "2026-04-30",
       "type": "model",
@@ -181,6 +205,18 @@
       "date": "2026-04-30",
       "type": "product",
       "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI schedules private GPT-5.5 event in San Francisco - The Economic Times",
+      "desc": "OpenAI schedules private GPT-5.5 event in San Francisco    The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEl6NjZwbVdGNFExSGwtVmkwdWpxWm5oVjRfRk8zZ2lNTWZ1TmFVb0IwMWo0c2VVRmdfZHZEUkZ6YUduY2l5WGtnWURhV19qUzlMZnFaSkVjbHgzdHNzTUNJSnIwMFB0WmF3QWJTbWRhT2c0NnJmS3RlOGlpRFYwNXpxakd4S09jTVhyeWJ0Wkd6a1hwbzczU0R4SDJCNTJ2MXd4WUZHWHFzT19MVDgzNU9zZTZRc00td0JRcDkzQnNLeEpTRy1ZcXEtZm0wNnFocUZoVtIB2gFBVV95cUxQYjRiMEl6cHRBbjQtV1p1RDhORDAwWkZBTkVUamJDR1lsekxBVFotb0pic1lhYUZvQ2ZuaS1YdllhS1kwTjl1eEllRk0tbHhjRWhYUnhfNXZwLWJsY3IxOEpJcDM4QzMzeHV4eDFJUExjbTAzdlJHMy1BMDFLRE5yZXdfb2J2dlNrWXZNT0dlYmUtR2w4NVlHa0JGTndNTXdKWHBmNFlHbEJrQlRMZ2dVanlidlJ4TE5yQnJlRHoyTHpkNTlVRFE4YVk4Z05IWGctSF9ucDgxM1dDdw?oc=5",
+      "source": "The Economic Times",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "mid",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -205,6 +241,18 @@
       "date": "2026-04-30",
       "type": "funding",
       "impact": "low",
+      "hot": false,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "“The Classic Product Playbook Is Dead”: What Anthropic’s Head of Product Learned Building Claude - QUASA Connect",
+      "desc": "“The Classic Product Playbook Is Dead”: What Anthropic’s Head of Product Learned Building Claude    QUASA Connect",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEIzNmZhSmRNc2dKTGQzamMyRndnd0JCU2FXVV8tOWV3enA5SE5JTWh6elR0MlhINDlzVXFJZFZPMGR2YjJJRFdVQXFjRXpxa1NMaDNMSE95dW9nS0tIYnhoLWlVSGFhaUNndjdoT1NpOXRsQ0VFUGhJZlVOeG45S2NmOC1RM2ZnNmFCY3FNYTZ3VGJrMjk3VFB3Vl90Q1JmOFBYdFdMdEVGeWdkUzlISmJTZkdUQ2M?oc=5",
+      "source": "QUASA Connect",
+      "region": "overseas",
+      "date": "2026-04-30",
+      "type": "model",
+      "impact": "mid",
       "hot": false,
       "_query": "Anthropic Claude"
     },
@@ -317,22 +365,10 @@
       "_query": "百度文心"
     },
     {
-      "title": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台 - Infoq.cn",
-      "desc": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台    Infoq.cn",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RllJSl9FWkxTTE1wQWhmRmU1U09kbUVyMmlCWF8xdHZLTkFRQnczNXlXbm13NFdLek1PMk9RbldZS3pSdThsSzY1V1BHam9FeHhjbWFJN0RPdw?oc=5",
-      "source": "Infoq.cn",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "high",
-      "hot": true,
-      "_query": "百度文心"
-    },
-    {
-      "title": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cnBeta.COM",
-      "desc": "DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片    cnBeta.COM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbU9uTUY1UGNHUTN6V1l2MDdoX29vWEtvSHJKNFlxamJVUDF6YXpmY2NzSmFXOTRxTC05enJtS1k3SGllSE80TVh4cUhadk4wOHM2d25VQkpvSjJySXBGRQ?oc=5",
-      "source": "cnBeta.COM",
+      "title": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网",
+      "desc": "报道：DeepSeek V4发布后 市场对华为AI芯片需求急增    观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41RDVlakU2Q0VwZHgyenRyZURoOTdjek85dXF1R252Z0w5ZzZwY09KdEs3V1M4NndlOGlaOEZHbVZYZ3cxRVFEdWVZZTRKUQ?oc=5",
+      "source": "观点网",
       "region": "china",
       "date": "2026-04-29",
       "type": "infra",
@@ -345,18 +381,6 @@
       "desc": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平    爱范儿",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xb1pTZlBxbmVtZGdRRk5JT3lUOXVPV2I0djlqS2RmRnBoUVRUR0NzYjNqOE9kcXk4elFvVnRjbk5YMVU?oc=5",
       "source": "爱范儿",
-      "region": "china",
-      "date": "2026-04-29",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "腾讯混元"
-    },
-    {
-      "title": "“能说会做”！腾讯智能体生态亮相福州，让“好用的AI”成为新质生产力 - 中国日报网",
-      "desc": "“能说会做”！腾讯智能体生态亮相福州，让“好用的AI”成为新质生产力    中国日报网",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbVN2Q2Y5aXRwdVh4VWZEbnRMbDBCak05My03Z1QyekpxRVJsRVh1eGVmN2kyVEdqWndabDJGVlZNb1ZaVE1OT3lVODdyazdEQ2tWMHlLMnpOTDhVcUlkWUpuTTRvVWJUTG91YlNxbU9YOGItcVZZc2xmVnI?oc=5",
-      "source": "中国日报网",
       "region": "china",
       "date": "2026-04-29",
       "type": "china",
@@ -509,18 +533,6 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "Cybersecurity in the Intelligence Age - OpenAI",
-      "desc": "Cybersecurity in the Intelligence Age    OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTmJINXN6MVZ2b3g5ZW9pNTRhUFN4bjJjSEFDMjFsTWNxSy1qZXZHVEVScWotbk5CdDNlNU5HSUNOS0F6OGFxbFdmLURtNnlMd3kzMkF6SWdPNmdoekFmWmJzMWRfckVhMGctWDV6ZEk?oc=5",
-      "source": "OpenAI",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
       "title": "Building the compute infrastructure for the Intelligence Age - OpenAI",
       "desc": "Building the compute infrastructure for the Intelligence Age    OpenAI",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXpXVS1qTkltd3V3VUNFcUI0T0R0UVNMQ1V4S1dnWTdHb0lvOFhEd0E5V2pGZzdWRW50cTJvNnRWZThyUzhnUVRXaGQxNGtkLW1JOXE5RTVuaFVkNmp4eWNSTzExMFhOS3Z3OHhSc0diLWY0MnRLRXd5bFFaTk9sMFdOeGZsNW1GdjJiSXpabw?oc=5",
@@ -557,18 +569,6 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "Victims allege OpenAI and Sam Altman are responsible for a mass shooting - Mother Jones",
-      "desc": "Victims allege OpenAI and Sam Altman are responsible for a mass shooting    Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWdESDA0eWlRZVo5Vmc2VFdIU3JTMzFWU3lNUWRFYm41bS1LZ0ZRX05rSVEwRmlteW55cWo1Y3FnaDFMUDVmYTMtcnpMTzVaMk1jamlrN3lKWmxHZUEyWm9NaVVReDJlX2VKa1o5UDRtQndjOGZia2lxbDBlc2JvWnZTYmU0WldERS1Qek9fanpUR3R4SFFOSUtKWF9MdURZbkVQdTF4U3l2cU5yVGcxbTln?oc=5",
-      "source": "Mother Jones",
-      "region": "overseas",
-      "date": "2026-04-29",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
       "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO - The Verge",
       "desc": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO    The Verge",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1RkVURoV1dDZDlDcnZqbE5kMXUxdnJvcnZRZlFtdTBhMXdkU3FPQUNuUFM0ZzBIbVB1NDRDWVhjNTRmMVo5MzBDMWtQaXE1TmN2d2NEeU1RSjRGZ1EzcUNFazcyOXpTMnNXV29EcjhSWE50OGJYanlyanFQMmIyRm1hd1ljdGlsakh0MGU4eDlpUWJhV3lmbEFiU1MxZw?oc=5",
@@ -581,14 +581,14 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live - EdTech Innovation Hub",
-      "desc": "OpenAI brings GPT-5.5, Codex, and managed agents to AWS as expanded Amazon partnership goes live    EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3QxbHJjbWRXZ0ZNWk1oa1IyQjBPTTBKekNfSmdwX2E5enRTdFNTMGVXeE93SjlaTVRlemxZNXNob0h4YV92UkdRLU9EWDl5QWFJcjMzTmdMSERDNnRHeHNpZjBCZlFPQ0xKTFJEUlNCUFJyMDlleTh1ajhZUy1keEtQNXIwY3hzWGotNjlnYlM2alEtelVQcUYyY0lJSGxYeGRON2YteENFUFJIOWw0Z2gwcWhpYVlmYU9oUGhkWGNfNEQzY3JDZ2NzT05xSHc?oc=5",
-      "source": "EdTech Innovation Hub",
+      "title": "Victims allege OpenAI and Sam Altman are responsible for a mass shooting - Mother Jones",
+      "desc": "Victims allege OpenAI and Sam Altman are responsible for a mass shooting    Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWdESDA0eWlRZVo5Vmc2VFdIU3JTMzFWU3lNUWRFYm41bS1LZ0ZRX05rSVEwRmlteW55cWo1Y3FnaDFMUDVmYTMtcnpMTzVaMk1jamlrN3lKWmxHZUEyWm9NaVVReDJlX2VKa1o5UDRtQndjOGZia2lxbDBlc2JvWnZTYmU0WldERS1Qek9fanpUR3R4SFFOSUtKWF9MdURZbkVQdTF4U3l2cU5yVGcxbTln?oc=5",
+      "source": "Mother Jones",
       "region": "overseas",
       "date": "2026-04-29",
-      "type": "model",
-      "impact": "mid",
+      "type": "product",
+      "impact": "low",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -629,12 +629,12 @@
       "_query": "月之暗面Kimi"
     },
     {
-      "title": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CTO",
-      "desc": "FunCineForge： 阿里通义开源首个影视级多模态配音大模型    51CTO",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsSEJIdXkxVV9xUElSVlVXMWhYVlBVX2xMdGVBVEQ4ZXluZXc5eHpHYXc5bmgwRUM0TVNMeVNrVUppTXlsOEtZdzhZVlBuZw?oc=5",
-      "source": "51CTO",
+      "title": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀” - 东方财富",
+      "desc": "大麦娱乐联合阿里通义 推出全球首个潮玩创作者AI设计平台“妙呀”    东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91WnByWWFndU1XMEdoWW53VkJEYzM5Uk5sWTFSMDlfRk5ZZHItVmE1TnR0VWowM0xOZDREeTZiS0V6bUdQbXFBNFBQNm9xUGxqX0d1YVpSMXZqOTU1QjJPRWc4LXEwdw?oc=5",
+      "source": "东方财富",
       "region": "china",
-      "date": "2026-04-24",
+      "date": "2026-04-23",
       "type": "china",
       "impact": "mid",
       "hot": false,
@@ -656,23 +656,23 @@
   "trends": [
     {
       "title": "国产AI",
-      "body": "本周 11 条相关报道。代表：DeepSeek灰测识图模式 多模态识别新突破 - 中华网；DeepSeek「开眼」引爆AI圈：我用12张刁钻图片，试出了它的能力边界 - ；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS。"
-    },
-    {
-      "title": "开源生态",
-      "body": "本周 7 条相关报道。代表：DeepSeek V4引爆国产算力狂欢：华为昇腾950遭大厂“疯抢” - 电子工；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；DeepSeek V4发布引爆需求 中国科技巨头纷抢华为昇腾950芯片 - cn。"
+      "body": "本周 8 条相关报道。代表：DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网；DeepSeek V4 引爆需求：华为昇腾950芯片遭各大厂商“疯抢” - MS；《时代》杂志公布2026年十大最具影响力AI公司榜单字节跳动、智谱(02513.。"
     },
     {
       "title": "模型竞争",
-      "body": "本周 6 条相关报道。代表：智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG” - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；llm CLI package releases version 0.32a0 。"
+      "body": "本周 6 条相关报道。代表：智谱首次发布推理基础设施技术报告 揭秘大模型后台“隐形BUG” - 东方财富；全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；OpenAI schedules private GPT-5.5 launch 。"
+    },
+    {
+      "title": "开源生态",
+      "body": "本周 4 条相关报道。代表：中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；报道：DeepSeek V4发布后 市场对华为AI芯片需求急增 - 观点网。"
+    },
+    {
+      "title": "企业落地",
+      "body": "本周 3 条相关报道。代表：芯原股份订单超预期，关注国产AI芯片订单落地带来的需求证据催化 - 东方财富；AI Coding Agent Powered by Claude Opus 4。"
     },
     {
       "title": "Agent应用",
-      "body": "本周 3 条相关报道。代表：AI Coding Agent Powered by Claude Opus 4；OpenAI brings GPT-5.5, Codex, and manage。"
-    },
-    {
-      "title": "多模态",
-      "body": "本周 2 条相关报道。代表：FunCineForge： 阿里通义开源首个影视级多模态配音大模型 - 51CT。"
+      "body": "本周 2 条相关报道。代表：全链路自主可控！星辰大模型等十项中央企业数字技术成果发布 - 搜狐网；AI Coding Agent Powered by Claude Opus 4。"
     }
   ]
 }
