@@ -1,21 +1,33 @@
 {
   "generated_at": "2026年05月01日",
-  "generated_ts": "2026-05-01T08:28:29.865197",
-  "summary": "本周追踪到 52 条AI动态，海外 30 条、国内 22 条。高影响事件 1 条。融资事件 5 起。",
+  "generated_ts": "2026-05-01T20:51:38.183682",
+  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 2 条。融资事件 2 起。",
   "top_story": {
-    "title": "中国阻止Meta以20亿美元收购人工智能初创公司Manus - BBC",
-    "desc": "中国阻止Meta以20亿美元收购人工智能初创公司Manus    BBC",
-    "source": "BBC",
-    "date": "2026-04-28",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ2ZnT19GQ0dmN1RjYkEtNVd2czVlS19ldnBJZ2RRYnQweU1ZRGp2Y1dTN1FRcFlfSGpnelBHNmlNTjItNFAtVFFUSUdNamFJazVISGI1SjdKM1JzOTU3TFdwck9NQdIBa0FVX3lxTE84Tk5WMml6WHE2QlMxcFVlaFBDOXcwengtME9xYUR2YlhwRDRZaVh5RDJNc0YwSWI4ay1VN2lrcE5lWVdCcEstcjNQS3FfbklqdU5QWTlSaU9QOFNSU3paYi0zdjl6cEtkRDQ0?oc=5"
+    "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute - Decrypt",
+    "desc": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute    Decrypt",
+    "source": "Decrypt",
+    "date": "2026-05-01",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0JXdmNuZEgwb2FRZDkxRHU3cUtCT1ZYbTdvdGtwTUFYRVRpSEpHT3p6Y1cwalRHb1JkMnNoXzhUOVY1cXJrTlFxT1dsbkNXUXU4UDItRTFzTkNZblpBVEtDM0VDVng3d284dDBadE0zZ19GZDNIOVJ4THdlN3NtcC1DZnlZbzRhTmlJazZCZ0k3MFAwVzVwZENuc0fSAaQBQVVfeXFMTWoxMUo2MkhnSjZ2U3lNTFFCR0pmUjFjYjZxeU44VlJPc1VHcUVDSjY2UmJSQTRVME13aV8zeWtqS0tFQmdkSGhLWUJpRjc2UUUxNVUwQ0lQemE4dVl4SklGRDBRdnhQR0d1M0NVNlRnTGVQdVR6U3dBVGdhSFViMTBNZjdpWWltdHpzRGhFS3FBV20xdXJMdXVWelJhYXRvaTRaY1I?oc=5"
   },
   "metrics": {
-    "events_count": 52,
-    "china_count": 22,
+    "events_count": 53,
+    "china_count": 23,
     "overseas_count": 30,
-    "funding_count": 5
+    "funding_count": 2
   },
   "events": [
+    {
+      "title": "DeepSeek何以拥有定价权 - 新浪财经",
+      "desc": "DeepSeek何以拥有定价权    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZkdwNl9oUGNXRnMwM0NWT0NJbWtEbkZnZWFTSkE1SlhJRm8xbDFYZlk0SGhpVXpucFZpOW1DQmRaWG1aUWRiNVhzb3pmQmM0NGJ0YVk4VTZDd2Y4ZXBLUzk0M0szdHhZUVVrbkpCMFozZmhiTENrTw?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-05-01",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "DeepSeek"
+    },
     {
       "title": "梁文锋不掀桌子，DeepSeek登上半山腰 - thepaper.cn",
       "desc": "梁文锋不掀桌子，DeepSeek登上半山腰    thepaper.cn",
@@ -29,16 +41,16 @@
       "_query": "DeepSeek"
     },
     {
-      "title": "DeepSeek V4距全球最强AI有多远 美国公布结果：落后7个月 - 驱动之家",
-      "desc": "DeepSeek V4距全球最强AI有多远 美国公布结果：落后7个月    驱动之家",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5MzhPS1VPZDE3NF9PLUNzNkNTb2lrV2p2ZGpIcHotM0pMTHRSTHlxQVlpT3VWcW5WU0RpaUJxY2xZczJfc2E0R2EzRGJ1ZkpjTjlaZ0hFSkY?oc=5",
-      "source": "驱动之家",
+      "title": "华为算力“开链” - eeo.com.cn",
+      "desc": "华为算力“开链”    eeo.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4WXVBSnBYOHgzWXRGOWcxeVlYbGpuM0RVcU5GeW9tWlk3ZTZCdnRSQzRvU0g2bHRDMEl0dTlzTkFhMFlFc3gxRm5WMlREcURBOG5vc0xScw?oc=5",
+      "source": "eeo.com.cn",
       "region": "china",
       "date": "2026-05-01",
-      "type": "china",
-      "impact": "mid",
+      "type": "infra",
+      "impact": "low",
       "hot": false,
-      "_query": "DeepSeek"
+      "_query": "华为昇腾"
     },
     {
       "title": "中国AI算力的突围，昇腾生态的“破”与“立” - thepaper.cn",
@@ -53,9 +65,21 @@
       "_query": "华为昇腾"
     },
     {
+      "title": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平 - 爱范儿",
+      "desc": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平    爱范儿",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xb1pTZlBxbmVtZGdRRk5JT3lUOXVPV2I0djlqS2RmRnBoUVRUR0NzYjNqOE9kcXk4elFvVnRjbk5YMVU?oc=5",
+      "source": "爱范儿",
+      "region": "china",
+      "date": "2026-05-01",
+      "type": "china",
+      "impact": "low",
+      "hot": false,
+      "_query": "腾讯混元"
+    },
+    {
       "title": "前OpenAI研究科学家加盟腾讯，推动混元AI模型重大升级 - thepaper.cn",
       "desc": "前OpenAI研究科学家加盟腾讯，推动混元AI模型重大升级    thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iWF9DX2NmRk11S3VnMmxBbFVJbVFPX3dvS242U2RCXzJkbnVzUk94dEw2MjhDNDVZOUtRX3U5Uk9vV1NZLUY1ZnM0am5welVWNG1aY1BRMmdndWFMTGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNGdYcFdKVTJCeUNQS0gtZXRfLXZaZndpdG5QM2NYNUdrY21ORjVfcDV5cjVjX1RocnBiekN1MW9seW1ISC1HZm1NVE1pWTg3RzhmdjZmSVJrWnpJQy1kTQ?oc=5",
       "source": "thepaper.cn",
       "region": "china",
       "date": "2026-05-01",
@@ -63,6 +87,42 @@
       "impact": "low",
       "hot": false,
       "_query": "腾讯混元"
+    },
+    {
+      "title": "众议院两委员会主席对美国公司使用中国AI模型启动联合调查 - 美国之音",
+      "desc": "众议院两委员会主席对美国公司使用中国AI模型启动联合调查    美国之音",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNjVqeXNmRmJ6YWY5YkNiYjZQV0FBbEI3SVpzY0J1cE9yMG1RZm1SZ3p3c1Y0NnlKVGVCd1JhcnVpamp3MDJJUTR1Z0lJMHUzcEVUVkh5WVV2NGZoWEIwTkh0enJaWFZMUHJXeWxINXhkdFZWWU05S2YzSXhrM1hZbmFERTdaNnJkZVNwWXNHZTgwV3VFTmhxQ3dmWm11VnRJdzZNb2dnU0RZTnRXXzFQVE9fMEh6VFk5MlFMcGV5VXRweFVUSDEzQUIxUXBQNzJNNmpIazRKOW1KLXBkZzNSSmttVlJzVU9uNS1rWmI1RlNXd0RSVW9qWmlSbFl5RU5QdnZfanRQbTlqNURD0gGPAkFVX3lxTE55ZlJlaS1HdWNmbmtDTjFJSlhjemZmY2VkSTY2LWVTSWxuSzltMDhqM1pjWXN3MlhLbkZ0VlU4THVSYkp6R1BBN0N1U0RmMFMyVGNrMnJCUnlGM3NnQ25QSFZtMWdkTk9GT3Z4LUlKNE1wdWtmY2d5bms5bVBNeEhSRC1lbjFxelRxZVF3M01vT3BuOUdSVU9TUFA3dm1UUUpxSVRabFlJZ3ZhWVhubWR0Vk5MdjFSWGQyTTdOejFqVFFFdGlmcXB6cGtpalgzWWQ5WklWaC1JNnE2Zm9QYlJibUNCR0ZVZUtVbEcyTXJob2hGTElzTUZQblJsNkUxODFRVU5hdFAwRUgyTEJhelk?oc=5",
+      "source": "美国之音",
+      "region": "china",
+      "date": "2026-05-01",
+      "type": "product",
+      "impact": "low",
+      "hot": false,
+      "_query": "国内AI动态"
+    },
+    {
+      "title": "8只值得关注的中国人工智能股票，正值华为芯片激增之际 - NAI500",
+      "desc": "8只值得关注的中国人工智能股票，正值华为芯片激增之际    NAI500",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15dHF4TWswRUtkMkRnaGY2eXdYdnJzUktEbGh3ZTJhUl9SUmJCR0pkOUVyaUZKMnBnM1JVYm1FRy1HWU5TdllyenVjSEgzVHk4THZFX3g1eWU?oc=5",
+      "source": "NAI500",
+      "region": "china",
+      "date": "2026-05-01",
+      "type": "infra",
+      "impact": "low",
+      "hot": false,
+      "_query": "国内AI动态"
+    },
+    {
+      "title": "DeepSeek+华为昇腾 全国产AI 生态突围 - 新浪财经",
+      "desc": "DeepSeek+华为昇腾 全国产AI 生态突围    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETGt0UFh2bEpFeXRPS1lJSGZwcFJjOXJlRUJIQThia25JTHkxWDJfUHpLQ2NId1UxRUJTS2YyazJ2UXZXS2dTeXJJTW95ZENwVzFJWWQ4UEV5QzR5eVZNaEJIcDh3WmJhc3JsTnNWN2w2OGp1SnFORg?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-05-01",
+      "type": "infra",
+      "impact": "mid",
+      "hot": false,
+      "_query": "大模型发布"
     },
     {
       "title": "腾讯混元CL-bench续作发布，让大模型读懂你的日常生活|群聊|推理|碎片化|上下文|测试_手机新浪网 - 新浪财经",
@@ -77,22 +137,10 @@
       "_query": "大模型发布"
     },
     {
-      "title": "Strip发布288项更新，全面进军稳定币与AI代理经济 - PANews",
-      "desc": "Strip发布288项更新，全面进军稳定币与AI代理经济    PANews",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GMTV2aTZkV0NFLXU3UVBQYjhCV3VRLVpwQ3VUZHowUFFaeTB0ajAxR2NPaGRsTG1XdWhRdGM4MHI2QzQ5SG9TUjZ2anRTWTdYRnB4Um5ULVVQS18xNTdrUUZuUEFBdDV0dVhqOW5iWUZ1OXktWTF2T2dKWWZkQnM?oc=5",
-      "source": "PANews",
-      "region": "china",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "AI产品上线"
-    },
-    {
-      "title": "黄仁勋最担忧的事发生 - 新浪新闻_手机新浪网",
-      "desc": "黄仁勋最担忧的事发生    新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3hCVkI2SGxfcUpnQlBIU0F3UHVYM1J0Vnc3VUtranBJczg0RHdrZExZV2VNVFhzOEFLZlJnN3ozNVl2QkoyVVlMT1ROblhKZkVXallnT2F0WTRQNXY1WHotb2NiU0JaTGxYaC1EcUdBbXBzOE92UVU2eWVrY29jcE1vNnRkQ1JLOU5Hekx2b2VTbi1CS0NKcQ?oc=5",
-      "source": "新浪新闻_手机新浪网",
+      "title": "国产算力，兵分三路对抗CUDA - 风闻",
+      "desc": "国产算力，兵分三路对抗CUDA    风闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KaDBsMS1TRHpYaFpQYWMzOU9XVm1NSUMxd2Z3UVMycGdTbC05WWtkUFNkVm1ONnQtWjRjUWxSYnI1SkkxNXpDeW1uSjZRLXA4bTQxV2ZQYXE0cVFBTnUzUGpWTzFKZk5JRDlJd1ZR?oc=5",
+      "source": "风闻",
       "region": "china",
       "date": "2026-05-01",
       "type": "infra",
@@ -101,16 +149,172 @@
       "_query": "AI芯片算力"
     },
     {
-      "title": "DeepSeek过了算力的河，美团LongCat正在弯腰造船 - 新浪财经",
-      "desc": "DeepSeek过了算力的河，美团LongCat正在弯腰造船    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOaWpWUTZMWXRpOE5PcmlsWXhIblJKYnlvY1ZYc29ESXg5aDI0ZE1PMmtiX2VjUzREZlVIX3dFYmFIVFhQUFo1N2RCQVpvVU91WGNiSWJTOEdwdmd0dE5LMmNpdGQxU1JlV25wVXZKaXJTRGpOWllBSXlfWWFSeDN0WTRmeDhqYzlMcERsQ3BVNTlrUS04UlZmX3Y0LVI3aTRaOFlsWjhjSEMxZTVWNk8tR0luRVFocE1VMkM3VFBvMnQ2dXd5SU43cG5QWHRtYlcxcVlNMENSS1gxWFJkOEtkNHRWWlY2czJlbXNJZmVSWFE1TDE4WldmeGZuV25iZDB0anFjckJ6VHhpaklpcVdQUHQ1eDJoWnM5dnFVMWROcWxCX1YxUFNEMm9sdFBqQW05b3lISTdNTFcxMEY1V2paem1FR0tWQVYtUWhWSDFWbw?oc=5",
-      "source": "新浪财经",
+      "title": "DeepSeek新模型押注国产芯片 筑牢人工智能产业根基 - chinanews.com.cn",
+      "desc": "DeepSeek新模型押注国产芯片 筑牢人工智能产业根基    chinanews.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LeHBldktHYkhsQ2Nyd3VhbDhoZVA1VExaSmszUkJ1azB6M0NuRGtNVXZ4LU1JclQ2aTh4M3NjT19zOHhwSGVsRjFKSm9rYm13N1NUYmNVc3ZOdE1pakNiRkxnX2x2OVFy?oc=5",
+      "source": "chinanews.com.cn",
       "region": "china",
       "date": "2026-05-01",
       "type": "infra",
       "impact": "mid",
       "hot": false,
       "_query": "AI芯片算力"
+    },
+    {
+      "title": "ChatGPT 4o diehards still miss it. New model 5.5 gives them hope. 'It's much better.' - Business Insider",
+      "desc": "ChatGPT 4o diehards still miss it. New model 5.5 gives them hope. 'It's much better.'    Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94Q2N3al9FM2dpZDNSX0JlWDI3OE9ZWnBRMnZhdWE4RkxuYmRlaEdNbG5PMjNiSnh6ZEdVM0xMLXRqQmxETkw4Rmx4UldqZ3pnQ0o5RjlXMGlMdHRNVUl6SEFIenZlS2t4ZkVUY01lRmhQSnp3V29fcnNR?oc=5",
+      "source": "Business Insider",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "ChatGPT 5.5 vs Opus 4.7: the Surprising Winner in Real-World AI Tests - Geeky Gadgets",
+      "desc": "ChatGPT 5.5 vs Opus 4.7: the Surprising Winner in Real-World AI Tests    Geeky Gadgets",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4NHB5NHRxMmhZQUk5QURFRDJZank2VVZaRmZSZEhvbUF4aHgwYlM1XzRyRk1oUlp1Mkh2M2h2d3NZeFdMNmlQZ2VUZHFHR3pqalFYSmNwdjdxSlJIbXZmaUYwazl0eU0?oc=5",
+      "source": "Geeky Gadgets",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks - Databricks",
+      "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU1PTlAzanZxTHNQTmRiNjIzY2RpbEp6MUlwUTJFYzFub1NZMWdIZ2dUb1JpRXREMXhBcnpBXzQ0SEVvS2szMTFIWkxUV3NWWFhCSU5BM0l1dU1yMEZsS1pUbEhXcmNSQnhkOGJIaE56V25zcHRSZFQ0bE1tODVhY3pLWFZmaWF0Mm9JazBRYmh2dXQ4VFYtREg2aDhJQjBORGwxM2VGMFZ1U21VSGJB?oc=5",
+      "source": "Databricks",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene - WSJ",
+      "desc": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene    WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzRU84RUFjYy1CT3FINVRrMC1xamZfWTVIbXhBVkVJWGE4SEdaNWdhVHktamFzejd2cFZRblpJdmcxclFoLXFweHloUm8yYzU4WUhnYURKTVkxd2dXQ1lCdFJ3QVhSTnR2MFJGSzdEMGs0ZGpYemZlNmo0cFNGeExXOGtnLVNqejNXY3FuUlNTaWFfZE5zWWQtT05fWVNRSm41OGwtMS0?oc=5",
+      "source": "WSJ",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI starts laying foundations for ChatGPT ads in EU - Digiday",
+      "desc": "OpenAI starts laying foundations for ChatGPT ads in EU    Digiday",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDQxVC1TVEJfYzJyZmg5S0t6VnhaUWZvVy14LTZYRU5DRHlZQ0lPaDJjRGxLdmV2aGMzV1pvUDFjOFQtN2xLbFpBY0pka2dKTkEzNURYaFd2TV8wWi05YU9IZDJ6Z01aZGJZLUU4RHVnUmJ4ZTNCMnNWZFVTRGhCcXlpTFVDczFMTlhMUXh3?oc=5",
+      "source": "Digiday",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI explains why ChatGPT suddenly loved goblins - Mashable",
+      "desc": "OpenAI explains why ChatGPT suddenly loved goblins    Mashable",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBOUhhdC1yb0tRaGRBeUU1YUZQcHRPVFloUUpjc1lhRmZheDlTN0ktLTQyd2Q1Tkg5TEpVNkVGRkhLLUx5LVIxUWxicGVLVHZaQ0xZX1NvYlhqVjQ2aWVndUp0QUc5enhtQXhiUHR3YkU?oc=5",
+      "source": "Mashable",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that - theregister.com",
+      "desc": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that    theregister.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDI0aDJhdXVUQ0dvRTBiUWkxSXJvc1NocDFldEtBNGYwZEpxYXpNclpvTlBkcjVfc3NqM3dmd0Q2WEN4QTlCN0JJeWFGWnQwUW9YdUEyM0xDRW1nV1FsM2pZSWRLYWZZeXJGZF9zYWtwc1dmYlBJTzNCOGRNZ201S3FvRQ?oc=5",
+      "source": "theregister.com",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute - Decrypt",
+      "desc": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute    Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0JXdmNuZEgwb2FRZDkxRHU3cUtCT1ZYbTdvdGtwTUFYRVRpSEpHT3p6Y1cwalRHb1JkMnNoXzhUOVY1cXJrTlFxT1dsbkNXUXU4UDItRTFzTkNZblpBVEtDM0VDVng3d284dDBadE0zZ19GZDNIOVJ4THdlN3NtcC1DZnlZbzRhTmlJazZCZ0k3MFAwVzVwZENuc0fSAaQBQVVfeXFMTWoxMUo2MkhnSjZ2U3lNTFFCR0pmUjFjYjZxeU44VlJPc1VHcUVDSjY2UmJSQTRVME13aV8zeWtqS0tFQmdkSGhLWUJpRjc2UUUxNVUwQ0lQemE4dVl4SklGRDBRdnhQR0d1M0NVNlRnTGVQdVR6U3dBVGdhSFViMTBNZjdpWWltdHpzRGhFS3FBV20xdXJMdXVWelJhYXRvaTRaY1I?oc=5",
+      "source": "Decrypt",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "high",
+      "hot": true,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "There's a Fascinating Reason Why OpenAI's Latest Model Is Obsessed With Goblins and Gremlins - inc.com",
+      "desc": "There's a Fascinating Reason Why OpenAI's Latest Model Is Obsessed With Goblins and Gremlins    inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1M3dDZTbVFRclowYk5hMTdiZ0xZNk4tQjVWRi1xMjdqTHZGcGVCWGwzZ0N3c0JtVkxwalFOV2c5WGVhQVN1N1otdEZEMHZfVy1iMzlZOG0xX2hMSldnMGRwemd6UTNVT3lvWTk1RDNRRk5JQ0ZmZWVjcUdMcTlSVGlBbVV5S0xRSFRUdlh2ZnVKRzEwNlZHbGNCc3RXRU9tQmZrTVpqWmY1aXR3T21pTkJBMGtLQUp2VW94VjBlYzJkdWZvZVlpRWZ3?oc=5",
+      "source": "inc.com",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI’s New Model Spurs Debate Over Computing Power - The New York Times",
+      "desc": "OpenAI’s New Model Spurs Debate Over Computing Power    The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3FhaTF0SFVYMEtqRF90Smc2cDYwMGlsMjdTbTdOUEFyWVpEdC12SFlzd2tTSG52amhqbS1RWk81UXV1MDA1X0NBVURNaHRjX1FfMHplN1VtaU1QSUJNOHlnZzhqNlFLSGhyZ2R2eDl4YjFidlBhQUFsZUdXMndlMTRsekpEQVg0a1E?oc=5",
+      "source": "The New York Times",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI Cracks Down on Talk of Goblins in ChatGPT - AI Magazine",
+      "desc": "OpenAI Cracks Down on Talk of Goblins in ChatGPT    AI Magazine",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CSm50S253VldvUWpWcnd1OFRMWFRXV01ScFlSa3RSei04R3ZTUzNVT3I3bDhqemgxanE2VjdWbnprN3FiWDRhYWU2TW8wa213dXVmR3owSzlhRE5rMUkzckVfNFBMUEg1ZE9PbDlqNEgzQVN6b3hF?oc=5",
+      "source": "AI Magazine",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI Could Have Stopped Mass Shooting, 7 New Lawsuits Allege - Focus on the Family",
+      "desc": "OpenAI Could Have Stopped Mass Shooting, 7 New Lawsuits Allege    Focus on the Family",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTBrNzRwN1dnZGRZeUNweFFYV05LcFZaZk5pTWRoSks4SDk3c3JJQ1pWM1dGQ2V2TUNtZTNvUVExc2FuS203SUkxV18zQXFJYkxEdUVRUGsySDhmV2N4NG1BWlpNcmxuOGJRT0stbVhhbHV2Y2kxeE9qQllfQVYwR0FteVJuWUVGcWp6aVZ0OTZUZDFCdzk5OG05Yw?oc=5",
+      "source": "Focus on the Family",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "product",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.5, Revives GPT-4o Nostalgia - Let's Data Science",
+      "desc": "OpenAI Releases GPT-5.5, Revives GPT-4o Nostalgia    Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHFQSHJhc0dtMWNOa19WVWtMczNDRVFfZzRBbUo2RmgwT2VJZENKUUxXQmgtWnZUSkVBaC0ySk1DQUdjdlFVMTVWY21xVUVYUGN0TGI2RHRwc3l2N0Jpa3N6WHhEVnJhLTliaHJpT01pb09hQWFZeTVXZXBCdVVQNU5iQTBYZlJRYkVNQjNNZE8xXzQ?oc=5",
+      "source": "Let's Data Science",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
     },
     {
       "title": "OpenAI Flexes Multilingual Muscles with New Image Generator Model - Slator",
@@ -121,6 +325,18 @@
       "date": "2026-05-01",
       "type": "model",
       "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "Are Retail Apps Within ChatGPT and Claude in Trouble, Or Is it Too Early To Tell? - RetailWire",
+      "desc": "Are Retail Apps Within ChatGPT and Claude in Trouble, Or Is it Too Early To Tell?    RetailWire",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVTy1fNzdrVFlzZVNlbWtuRUVhcUMyVkkyRXdISi0yMXFia1hqSy1MazVLaVBHd2VFM0VsSDJKbGVsa0Nwckw3Z0JmOHhVMDlBZVg2WEZWQWZLeU5taWFlU1U1UFZwWFdua29XYWV6NkNZRHk5cmFyNQ?oc=5",
+      "source": "RetailWire",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "mid",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -137,6 +353,42 @@
       "_query": "OpenAI 动态"
     },
     {
+      "title": "OpenAI Introduces Password-Free Login for Millions of ChatGPT Users - TechRepublic",
+      "desc": "OpenAI Introduces Password-Free Login for Millions of ChatGPT Users    TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzMwX0hReDBDcGhBYUU3NFZkdHpzQWN3SWhqc3k4N3dUMVFDaWJtN1JiZGNqcjdwSl9JbmFyQV9ubXJhRS1JRHRKVVI0MmxUWTBKYVRrV1J2UWFoYktVRGszZnJ4ZWtNTVA1N01kblZjTUFlMnl0TUkyczI3Q1RGMzhfN0xlMGlacEJoQnp5d0VjaWVGMDJr?oc=5",
+      "source": "TechRepublic",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI addresses 'ChatGPT obsession' with Goblins and Gremlins, AI Agents: Never talk about ... - The Times of India",
+      "desc": "OpenAI addresses 'ChatGPT obsession' with Goblins and Gremlins, AI Agents: Never talk about ...    The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdy1UUUxFOG95cEpnbGFINVJNbUdrd0V2LXIzMmFrU2kxaXBEeEdsS3VKMVVVazBFVWQxcjFBZWRXN0NoSlV2clZLakZUbFZOWktyM2NKWkZmR284YVk5SjNxc1BOVC11UVdpUnpaOVRSbHJCZEFINF83b1E4a3A1M2ViaGR2T2hzVDlzZHV5Uy1XYTdCdzJCZ0pNNU1rMmh3cXhwekEtcF8tcFRMeUxodXNTUWdCYzBRMDdGRjJmOGlSdy1yUmlZTG5rS1phUEV3ZDRBWDFfcVpOWGh5N280SjI5eEItSWNpdVFSbEZHMDdUdWNvTXNibTZRSzRIRzgx0gGGAkFVX3lxTE1HY2lVQzB1dklScUhsUGZmTmswdHZCTDdGUURNU0RCNEMxSmhLd1FDTzc5VlZhMmcyU1JPZk9SU3pIX0loYXhodmV3aWpaci0yRU4taF9sWkJPU09oYWYtMDlYdnF4UFM1QUNZOWlCX0VwdTF3VjMzQXZtM1VUWEM0MmlnTkhVWERWMUVjUXZGWWJMWTFEZ0FfVWdfc25obm91NXBnd1hxSXJQa1lFdWJYa3hIUmd3S3h6M2t1UWtObXFKVjdTTERiOEVZMnF6UXdCQ1hRUVdWeXRpeXZtaWpWQjQxTmp6VHFZX2JKVEptSFhXWUNNS1o0U29zVXNpSUtMWl9LcFE?oc=5",
+      "source": "The Times of India",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds - the-decoder.com",
+      "desc": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds    the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanJHZmFMcWFZWm5CLTdWcjdEUXpCcTVmeG1lYmFxcllIUkFucVo3bmY3TkNhbVFmWlVOU0lUNWdJNVhGYVdCRVNTNzlHU0x1WWE1S2V6SHhDTmxBMHdOazRzMWtLRWdXM0ZxNi1qUExXX3J4Y0MxVXZQN1JEMEdfVjhhTXZBQll1UDlXUk1EdUs3LW1Td0ZWc19HcmJIRElXMzlrcFpqQXBjOUk?oc=5",
+      "source": "the-decoder.com",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "high",
+      "hot": true,
+      "_query": "OpenAI 动态"
+    },
+    {
       "title": "Sam Altman slammed Anthropic for restricting Mythos, now OpenAI follows same playbook with GPT Cyber - India Today",
       "desc": "Sam Altman slammed Anthropic for restricting Mythos, now OpenAI follows same playbook with GPT Cyber    India Today",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTzE2NEpaQ2ZzQjJ0b0M3QzMxSlZPMG16ejBJR3h3YnFaX29nT2gwY3gzVVJ1ai02SkZ3czNyem5aS0pKVTZXVDZRVmRTb2FMNUtRelVrX1M2WG5sS0ZMbWM5N3YwVWF2blBtSEtpTEFxVGV0VkNHNnNxcG81c09GR3RpRnR3OHNQYmdwU2R6S2VHRHFQeVZBeEt5OFphaHpKNkZRcTR1cWhtSV9fZndDTUpoZG5iRkUyRTdBSXE2TC1IT0Z3SUVBd29qX29JR1J3OS1ydFg3YnZoRDBJSFNKUFR1X3RWaUFZZ0hFakkxYWJWSkhUQUQzd0FR0gH_AUFVX3lxTE42TVd0MEl1UWtLWnJhVmRhMW84QXdjbUhBWTZwNVJnNzViNTNZYmduSkF6a0YzS2Y1WkVMQmxPYVZxdHRCQTJxNkVxNmxrS3VoMVBTQ3RVQWNrZnRuT2duVGZsZHQwZTEzUkNzY2NBRDRBcEZjTUtwQ3U3U0Q1NFJXRm03dVh0ek94OTN2SHVPbjZwd2YxdkhYYlJ3dGJac3o5V1VrWmUyeDc3Vlg3NVZ3WHdMY3pJNkpfcTI5VXFNWTF3cmM4Z2hhZk5uRzU3cHpOb0RoUTlOQ0tFTGxIQWJlQjlrbFVGTmVNVVNwa25kVDFKRVlDdERtT0pKcmc4RQ?oc=5",
@@ -149,16 +401,52 @@
       "_query": "OpenAI 动态"
     },
     {
-      "title": "OpenAI to roll out limited GPT-5.5 Cyber to vetted security professionals first - 디지털투데이",
-      "desc": "OpenAI to roll out limited GPT-5.5 Cyber to vetted security professionals first    디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmZtMUIxcWx3LUpkLUdNdjRQVG5FZ3BKU1c3aGdXN19wcXVVTlVMNlQwSWpuaTZnS19ZSmtKVUNlX2dMREwzSW5uZXdXaWM5S1ZHbnFxZ3Y4OFRaeUFlUlBrUjA3Yjlzc3pabk5kWGJjYVRfTDA2RDJKT0l0SUQ4d2JRWmtIUmY0ekIzTEJic2d3SHpJWTZNZkl4UUF5OVF3eEUzZW5Lc0dMMkRWeW1HNEFzWWJCTVVYLUpUOUh0QTBMZw?oc=5",
-      "source": "디지털투데이",
+      "title": "Goblins In OpenAI's Chatbot? ChatGPT's AI Assistant To Restrict 'Bizarre' Topics: Here's Why - NDTV Profit",
+      "desc": "Goblins In OpenAI's Chatbot? ChatGPT's AI Assistant To Restrict 'Bizarre' Topics: Here's Why    NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTFlxYnNqZzlhMmhLcExpa1lBX01FTXRqdWlCV1ROZk9OQjNzRGNVdDg1eHl4ckxoZ1hIMEFXVDZ2Zm1tNjNLN3NneFpmLUZaMVNIQUxwbDZBWi1KZm5UbWlSU2NJQTdURHI5RWVTLUhjOUpxeGR4Z2FFYng1UmlZSzhkY09xY2dPMHJiclFwZEdNUDdHcFNQSklKS3B0VjJMV0lyX3BqeVNUSGZnSU9SV1ZuSkxkTlpnWkFfN0NLSUxfamNuU1FDR21JLXfSAdQBQVVfeXFMT2xiRkF4Mk80R1FVSGs3Z3Itb21Fc2YwY25TVVpNZFRHX3c5MDYzZWdna0lsRkwzdDVITnpMNTdwdUg4Z0RScmFOZEJ1ZjJfUHNzR2RMY0t2dklDM29WMTNJckllQ2o4VUF3VXk3Nlk0UmFFNGdHRnNOU0hYWTZpWUVXMzVXY25mb1ZGV2FmRTgzWVFHNS16a3dZclNsR0tqSEpqNThBS0lHbkNFUkFtVk5xa3F0OE1NcXlxZnNJcnBnYUFfOGRlQVdlaExBWDl2U2VvS1g?oc=5",
+      "source": "NDTV Profit",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI fixes ChatGPT bug that made it overuse goblin and gremlin metaphors - Business Standard",
+      "desc": "OpenAI fixes ChatGPT bug that made it overuse goblin and gremlin metaphors    Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbUZockg0c0UzdmkwRC1yd01ITVNiN3NvVDMzek80RXhiRzNBRjZKVEtqaDRsQVJkcFhLa3VZUjd2eUFtU2dlTG04WWdfVjNIYXQwY1dOaUliOW5Vd19KSHZxU3VldnBkSXFDX0hOWDRSVWhrUzNZdVJJWEVneHpLY1lOQjRBeDNwWnNqVkpVYXVMMlZMUURScUpXTVlQM2pTSjNkbWRZZlpWOVJseWRQUXo1aW85YU9oUnpYcnVWOC1KSFRhQW9aNFBzMNIB0AFBVV95cUxOaW41ZHRCVGtQSWZMSUI5cWM3Y1YzdGl3Tk85M1J0aTBSVmlkNkQ5N21BeEVyRU9KV3NRRkw1VDdCZ1JuZ0lFdUpLZmQ5OERoTmpoUVBaelBfQU1JM2dBSUJVZjFkMEIweTRpeEJ2ZzktaWx3N3hWMW5pekFDVkJ0Nkt0T1FYdllveXNyQUxZdVhESjdoblRQLU9NV1l1LXdrZ09aUUZSQVNGRzVLNmRkZ2JhVC10QTVBYXZsRkJHS2VNZHNrTUN1Rk43WjVKc0d0?oc=5",
+      "source": "Business Standard",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning - Infosecurity Magazine",
+      "desc": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning    Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXphcGxsSEhULS1fRFZMMkFKYVYxNk9lRVdTLVk4M0V4MVFDYzRlTkpJNXBLMEdVQXpDUTRQY2h2MWRfMkJZWkNqeXZ3N0ZfX0YxUHM5LUxkWm5vSFprSnpBYWtMcUhRSzhMRVB2LUhBcUdkT2NCMm9zbXR1TkpxdDVR?oc=5",
+      "source": "Infosecurity Magazine",
       "region": "overseas",
       "date": "2026-05-01",
       "type": "model",
       "impact": "mid",
       "hot": false,
-      "_query": "OpenAI 动态"
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "So, About That AI Bubble - The Atlantic",
+      "desc": "So, About That AI Bubble    The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDRBZFVUTHpIa1FMcjlYT2NLejFDYmZwS2MtU1BmV3ZKeEM2STBFWnYtMXNTMWpBdUZ3Y3BrQlNzeS1aNnVrU2JmcDR1YkFpYUdqOU1yT1Jjb1d1YXczYk9ZQjNHZ2dSdmw4VVNNUGZnVGxtcERBamVncVV0b2U4VFVsM1RTQQ?oc=5",
+      "source": "The Atlantic",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "Anthropic Claude"
     },
     {
       "title": "It’s a Weird Time to Be Named Claude - Bloomberg.com",
@@ -173,10 +461,34 @@
       "_query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic Claude Security available to all Enterprise customers - Techzine Global",
-      "desc": "Anthropic Claude Security available to all Enterprise customers    Techzine Global",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUc5MWZYT3BYb2oyTWY2SkloaVVkZFdfWnhrMmxWTzZvTnRBWkxPSFFsZEQtNkQ2SFlFaHF0T0pBVE1VaG1qQTc2Mk5CUkQ0dy01VWx2MWRlR01zUGtZMHZrcmxGN3JTRmhkVGFLTlJNMnY4X2EwWDIyNDNIVVl3NW5oSTRxZy1sY1BlNWNjdnlhNG9wdkVsZlVyanlWOEhnVWpLdnBva2xtN1cyd3c?oc=5",
-      "source": "Techzine Global",
+      "title": "Anthropic says it read 1 million Claude AI conversations and this is what it found - India Today",
+      "desc": "Anthropic says it read 1 million Claude AI conversations and this is what it found    India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEVMV1VrTEVnOU5TaFdGdVU5WHJZREpfWFJLeTZpX0lnM1VGS2NJOGh6VXZYMjY4VVZ5QWVDQ2lOMnp1N1BwcnJjRHFYa1JLNmNzSFNyY0I3QzYtVi0tOTJaOUEyOHdlaFRxbUFjS2o1RnhibjZWTUo0OUJsQWVvSDd4UUREYkY5UVRXWi1MZ0RDZXkxSTFybkJwV2dGR3RHYVR3UGQ2YmM4ampLSUJiLXZxUUVHVVNDRkhJdFBOaHZyVTk4RGpaaXVzbFRvTFdNZV9HN2NhOFhBYzJJWW1Ka3ZyNNIB6AFBVV95cUxQV3paZzJNeVlnbkJna0ZjbmZzVjZ1Y1JrX08yT0g4VzZfLTZaY1lBQkhTNFlZeXU2Njh3NndoUmg5R1RYSzkxN0xHanFIUGFIRDBqSEI2N29nRzYxOXBrZmhFRkZjX01TZHRYRjVvMmxlbjl6Nks3c1QwZXMtNTZPZkRlM3NJcHhNQnc4Sk16RmJXNVVxd3VaeF9OVk5DdERWWWgyNE1jNURTVXZYMDBzLWIzZzRuTFhrei1VRmM5SE5CYUZWU0NIMVZfZk50SFJhU25KQjZUN0xtSkZQTkp0clc1TkFDZVhR?oc=5",
+      "source": "India Today",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "iCapital taps Anthropic for AI client tools - Private Banker International",
+      "desc": "iCapital taps Anthropic for AI client tools    Private Banker International",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG5mejVQUXVCLUlEZ0FUSGg0NHpwcmRYbTRjM21TcVVpSVFEMzdVcWJEU1NlOTg4VllwUHhSWEJLN0NfMnhtRUp4UC02M2ZwNV8xWTJ4XzdsU0JkYjR1UjF4RVkxeERMdVFTc0ZydGFfakVKUzVzSXNkUGdzeDNsSlczZHE5cTVEd0M0?oc=5",
+      "source": "Private Banker International",
+      "region": "overseas",
+      "date": "2026-05-01",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have - the-decoder.com",
+      "desc": "Anthropic launches Claude Security to give defenders the same AI edge attackers already have    the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEZPcnFlU3N1SnlJZGp6OC13Q0FoTVdZY3pQc2xraUk0TVhLc3Vhd1hneXdjbnRRYnJQYjNLU1huRzNtbGlBN3REVklzM2VRdlo5ZUF0X0gyeUs1cEsxX09hbEl2ZFV1XzN6SmdINEV4ZVA5eHZHSkNwclF2a0x4WDljNVRjOHBRSzZzdEd2bXpPM2NJRDNCWVlJNkExMWxOeEZUbEVqVWFaLUdHTUgydWx2eGpCUHRm?oc=5",
+      "source": "the-decoder.com",
       "region": "overseas",
       "date": "2026-05-01",
       "type": "model",
@@ -197,22 +509,10 @@
       "_query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic’s new Mythos AI will hit crypto. Bitcoin investors don’t care, says Coinbase - dlnews.com",
-      "desc": "Anthropic’s new Mythos AI will hit crypto. Bitcoin investors don’t care, says Coinbase    dlnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEFNRnVvN256aHJRQTF3Vm1zU3p5QUtfNFFBbXBHWGdiZnBWMmdVRUhqWFd5ZzRWaUFlVWtFY084MG5VbW9IX3lNdE0wNXlTbllUZWd6Z0l5djlITGxCWXdPcndudEF1cVFBSjhJVDRKUFYxTGZOMzRhclMxOXlpM0k5aGctWnNsOWc3cmtSc2xieEp1d2o5cm1qN05rdy1xYUpUbHdBdTdjQW5jNWtSdXBNMkVJTy1vbGc?oc=5",
-      "source": "dlnews.com",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "Anthropic Claude"
-    },
-    {
-      "title": "Fractal Hosts Invite-Only Enterprise AI Workshop Centered on Anthropic Claude Code - TipRanks",
-      "desc": "Fractal Hosts Invite-Only Enterprise AI Workshop Centered on Anthropic Claude Code    TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0V6LTh5d1JSaDh6RjVxTjhuUVdTT1hRVzgxcVh0TUxzdVBZN0psTkREeVFReEVWa0J6U210Z2xkRUR4YlNfZjc5SURKRDNYMzVmVVN4QjljVlZoRjBZd3VKcnhIZDJkMFgxc3RpNUFmQ1ZxMmdyTDdvMXVaUVVkZG50dUxLUTY5UVR4ODRjczAwV0JfejF5SUFzaUsyMTdUTUVkX1M4YjNuWHF6M3g1RVFmbEhQWnVzZDQ3VW95ZTB5Tnc5OE5HekRB?oc=5",
-      "source": "TipRanks",
+      "title": "Anthropic Claude Security available to all Enterprise customers - Techzine Global",
+      "desc": "Anthropic Claude Security available to all Enterprise customers    Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUc5MWZYT3BYb2oyTWY2SkloaVVkZFdfWnhrMmxWTzZvTnRBWkxPSFFsZEQtNkQ2SFlFaHF0T0pBVE1VaG1qQTc2Mk5CUkQ0dy01VWx2MWRlR01zUGtZMHZrcmxGN3JTRmhkVGFLTlJNMnY4X2EwWDIyNDNIVVl3NW5oSTRxZy1sY1BlNWNjdnlhNG9wdkVsZlVyanlWOEhnVWpLdnBva2xtN1cyd3c?oc=5",
+      "source": "Techzine Global",
       "region": "overseas",
       "date": "2026-05-01",
       "type": "model",
@@ -221,160 +521,16 @@
       "_query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic opens AI-powered Claude Security to enterprise customers - verdict.co.uk",
-      "desc": "Anthropic opens AI-powered Claude Security to enterprise customers    verdict.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LU2NucVVyZTZZUXJNdDdvRS1LMVVEdEpYS2xRVklncUxITlJIQVFzOE5kbUF3Xzg0ZzFpTG4yX3FCb3pjN0lKazRJa2RNZ2MwNUJiMjhvZmlBRlhWY0dzVjlZS1R4ZEFDNWhvQkNFeXlNQQ?oc=5",
-      "source": "verdict.co.uk",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
+      "title": "字节与荣耀接洽“豆包手机”合作， 知情人士称细节尚未达成一致 - 证券时报",
+      "desc": "字节与荣耀接洽“豆包手机”合作， 知情人士称细节尚未达成一致    证券时报",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rUzE4T3pHZGlrNVVHaEh0TTBjUEpxcE1jR0gwMlAtRExRVVEtVHpsQVBxS2d4SmpvTkdzdzdraEZ3LUZRRmdoVE10NDFDMFNOQ0RNR1BQTQ?oc=5",
+      "source": "证券时报",
+      "region": "china",
+      "date": "2026-04-30",
+      "type": "china",
       "impact": "mid",
       "hot": false,
-      "_query": "Anthropic Claude"
-    },
-    {
-      "title": "Anthropic launches dedicated Claude Security platform to public beta - Cyber Daily",
-      "desc": "Anthropic launches dedicated Claude Security platform to public beta    Cyber Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWNGNGhMb0F6NURuR3pDb25JeS1GeHQ0QV9mQVFaZFMtOVBBLUxlUGc4bmp1X2dZd1hwNjNvZGFjZjZRWEs4VkNvLUMyRlVZYVM2YWFzNFpzNXNmSi14VWc2T2hXQmZ6clYwT3M2cFB3VWVwZ2JwN2hzOTdQektKbWk5N3JUY0owSXNVbV9DWFZhcm9hdVJTam9hUGY0NDBiTW9lTnJ4SG0?oc=5",
-      "source": "Cyber Daily",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "Anthropic Claude"
-    },
-    {
-      "title": "TrendAI deepens Anthropic tie-up with Claude Opus 4.7 - ChannelLife Australia",
-      "desc": "TrendAI deepens Anthropic tie-up with Claude Opus 4.7    ChannelLife Australia",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNG5CODRoeWNsS1NnQ3FCbzRuTjZvbGRpY0hEeHVkTW1JX2gwaks5Q2ZwdUFfazZ5a1lLcW1oYXI1dGdXWlZ0aVBOSHk5VkpjNzhZdFdJRnYwRlhBbG9LLUxaMS1EalFMOGphNFpYV0RWcGV0YTZyRkVxMGE5LXFVTGRpenB4ZnpwbFE2MUNVVQ?oc=5",
-      "source": "ChannelLife Australia",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "Anthropic Claude"
-    },
-    {
-      "title": "Microsoft Research’s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes - MarkTec",
-      "desc": "Microsoft Research’s World-R1 Uses Flow-GRPO and 3D-Aware Rewards to Inject Geometric Consistency Into Wan 2.1 Without Architectural Changes    MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZGFIbUdTUFZtRk0za3VEX1F6bEJFb0x3V2R0SlFhTzR6aWdDVUZGZ0RuUXJvRXNRTjZuYlR0OTNqUFVfSnJoSnJudEFPaHNsLUZ2MXlZR2o1MjUtdTlCNTB6Z0FPRDBfdUNwUFFiT0ltUEhNV0VJVHMyZElYc08yZ3Ayck9sb05wVVJ6WXdZcUg4aVBmUFlhM3V5WXhycEdVQ19QQWtIcHhnYTZYZ3lEM0doMld1QUhDOExWMHBqeTdieVJMU1NITW9lcm1Qb3JNNF96a0FCMkRkRXc1ZU5iNndaNlFQRzBsdUxvSUdhWDZHY1BPckZCN1ROQ3QyOFBjTnZ0ejBHNUR2VzJq0gGSAkFVX3lxTE5VUHRxWTlqb01pMXRxRmVQeDV5TVdtUTh3dmdqRnRQd3l0QWs0OFVORncxdEdVTXJGOTFKdDh1UWU4X3A1R1NjeU5SVkFmZEVSc01PUGVBeHZDRU9nMlNzaXhuOHhiNHoxRGNmV1dhSmFUc3ZkUnRWY2JfLWQ3SGpNb0RmX1gzd1pDdWJnYUU5NlI5MTFMV1QzSThUNVFIYzZHNFJmcXQ2MnFVa25SNEx2MWNyLWJjdkpScTAydWpTelZSdEpJbkhIN0hUa1ZkamV3clEzOVlYRi00YTRFSTdkeV9udVI1OExDX2tJYzJscDlNcUV5c1JYMmlsNlNMVm11b2E1R3BwbVU5X1JBTFduQ1E?oc=5",
-      "source": "MarkTechPost",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "AI 模型发布"
-    },
-    {
-      "title": "Meta raises $25 billion in bond sale after lifting AI spending plan - The Economic Times",
-      "desc": "Meta raises $25 billion in bond sale after lifting AI spending plan    The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1d4RXZkcTN3MnFhdHZtMkY1ckNZb3lWSWIxbEVQeXdfcFRUa0R0WVp5NVU2dWszZ1FiWUJwM1pENm1iRTV2SUo3OVQ1VE9najltS1JzckJ1YnNLUEhfaExxcllPR0JvTG55Yi16Sy1aQXFnZG5nV3FfZHpyMVdLTG5tVE5nMnFiNXF0TlBaUHFUVXFOU0Ftd3FEbk5qQ3JWZGZkemVnTzY1cFlIZzFSZHloUUY4dzR3UkU5VC1Jc0tUMmdMb096MDl6d1I2Z9IB0wFBVV95cUxQVXN2cGZoeTBGc2NheHdCSXhfVTd1OUFfM3RVTFRTZ2hfRE13X0dkeTEyLXYtaGFENUY1Z1lmUDlUUHRMUHJTakJ5LVJZdGVkTFhyUlJBRnFJcVY3UDFQWHdQTEFldUU3OUN2QXZua1FSZHpxMXFUV3k1N3RROWJwM2FWTkdENzJwamVqRHdaS0RDYkdBQnZlWDhvNGZPak9vdHJIaWJhRFd0Y0xzZXU5Y0ptZ1pTU1VIWkYxb3c2Q0NBenBSWmxRZDZtX0tlTDcxZnpN?oc=5",
-      "source": "The Economic Times",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "funding",
-      "impact": "mid",
-      "hot": false,
-      "_query": "AI 融资"
-    },
-    {
-      "title": "Meta executive seeks funding for AI startup at $2.5 billion valuation - CXO Digitalpulse",
-      "desc": "Meta executive seeks funding for AI startup at $2.5 billion valuation    CXO Digitalpulse",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHM2LXhKWjlPb1E1dXJ2WXR6bjlmcjIyM1l6aDdiT0J2TU41MHlLdWh3QmVDT0FpbjBfMDk4LV9tQ2tqdjN1U0dBNDNfVWZVU3lnLWJOb1lFREtIRnV3ck5kOXRISHNlQnZ4V2RlanRmSS0yUGVLVVlNbDBSYVdQRExjek4yS3hDbEdoRnRDYXM1dU9NcXNqRkFXd2M5b3RoZlk0?oc=5",
-      "source": "CXO Digitalpulse",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "funding",
-      "impact": "mid",
-      "hot": false,
-      "_query": "AI 融资"
-    },
-    {
-      "title": "Oobit delivers secure, controlled spending access for AI agents with Agent Cards launch - Cryptonews.net",
-      "desc": "Oobit delivers secure, controlled spending access for AI agents with Agent Cards launch    Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ieEhWWDBRYjgyUGw0Yk51TzJVbU00VTg0NGhJOUo1Q1htRkhkNXA1TW1QNmJXQWhKeWxlcGczNmpLV2FMZy1HTWVqcS1fdGhncjBiOVYwOGpTSXVu?oc=5",
-      "source": "Cryptonews.net",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "AI Agent 产品"
-    },
-    {
-      "title": "Tesla Made Over $500 Million Selling to XAI and SpaceX Last Year - Business Insider",
-      "desc": "Tesla Made Over $500 Million Selling to XAI and SpaceX Last Year    Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWtGdFI0V0ZMS2ZzSlZCM01rRUI0RTlVT1VWMVdGalEyeGdxWVZPNE5KaFIzS2FDeHZFYnNLN21OcVdlcGtlXzE1cGdyMmZFNHc4dng2Nk5ZUlZ5dlRyOHRDcnkzeGVIWjJXNENPZ1lGY0RVeHk3NDd1QVVrSDJ1OWNXbjdiSGFJb3JoNlNmMHZPbGU3VGIxMUNJVQ?oc=5",
-      "source": "Business Insider",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "product",
-      "impact": "mid",
-      "hot": false,
-      "_query": "xAI Grok"
-    },
-    {
-      "title": "X introduces rebuilt AI-powered ad platform - Social Media Today",
-      "desc": "X introduces rebuilt AI-powered ad platform    Social Media Today",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlVSa2VHeG5IVUd2OU9tejZnZFh2bmNGc1U2UGE5alEzUVk4Ulc1bTVrTGFXUy1zU1ExSGN2aUdXUUNxZVNpdjBpQW1qWWlQWUU1djRHMmpFOTMzRmlWTGduLUtJSHl6N1JWTFZXUE9DdzlhMzFPU2tqNWowVVc5QmNIYmVZSGpBT29FVmVQMjNDU3M?oc=5",
-      "source": "Social Media Today",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "xAI Grok"
-    },
-    {
-      "title": "Elon Musk Admits xAI Used OpenAI Models to Train Grok During Court Testimony - CXO Digitalpulse",
-      "desc": "Elon Musk Admits xAI Used OpenAI Models to Train Grok During Court Testimony    CXO Digitalpulse",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLTFlSmFNM2VKNjhHNnBzMi1JVzJpdGJzNkpJZ1dFX3JOdS0wTWhOMmZMNzFDanR3SGxVY016d1A3Q3hjZklKUmhqeHhCS0lFbW50RDZZWFZjRUhnUGdxY3JSNkdrZy1QazE3dW9aZUx6djFhci1PZTloQ09DUWl3RjlEVExxVXV4Vl8wdjJKTXpESjZ0MTRsTEI5enAtTUhxSGJVcWhnX1kxQ18xSEE?oc=5",
-      "source": "CXO Digitalpulse",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "xAI Grok"
-    },
-    {
-      "title": "Musk admits xAI used OpenAI models to build Grok - NewsBytes",
-      "desc": "Musk admits xAI used OpenAI models to build Grok    NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNzU1UERqMG40NmZKMXVsOE5zY2t0NFhLQ1Z3Q2JlMTh6MDlIM1g3S1FrTnRKamp3TkpnQ3RVbERHMlhWUWJhaktZV0NJaUExZ2pLdzdic09oZXhtNnRKYzZSQUZ5ZzB2RGVUTW5mRDB1bHpIbWFzTndfWEs4dzdDRm9XMUI2emZZRTNVUFNkeTIya0FJTXZ3bW96SXdzZFVP?oc=5",
-      "source": "NewsBytes",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "xAI Grok"
-    },
-    {
-      "title": "Elon Musk Testifies xAI Used OpenAI Models to Help Train Grok - The420.in",
-      "desc": "Elon Musk Testifies xAI Used OpenAI Models to Help Train Grok    The420.in",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEpDS1VwM3JsZkNvYjJEZG5xVU13ZUl0X04zdG1CWVI5WDZkcTlpeEdrQWVPR1BzOFVoZUM5dW1POWFwUWVlNEhTN0hXYVZrdnNkbkYzdktUdUVIckttRG85YTZQNVU3dFc3VXlRWllKV3lZX1A5aGd0NlNYeXFZZmZ0OU5NeWc?oc=5",
-      "source": "The420.in",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "xAI Grok"
-    },
-    {
-      "title": "Meta abandons open-source Llama for proprietary Muse Spark - The New Stack",
-      "desc": "Meta abandons open-source Llama for proprietary Muse Spark    The New Stack",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00ZG1sWUNHQW9LMnZ0ek8zdTJydTFiTkhfNEZXek1zaG5lUzZKV1pQRHo1QVN1NHVmM2lDa0x4MXVWVnJrcjlVcHZLc3BxOEVjcTd5MTlKT0xucm1IZ2c?oc=5",
-      "source": "The New Stack",
-      "region": "overseas",
-      "date": "2026-05-01",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "Meta AI Llama"
+      "_query": "字节豆包"
     },
     {
       "title": "左握团购“刺刀”、右举AI“火种”：豆包、抖省省霸榜，字节跳动“App工厂2.0”打响生态协同攻坚战 - 新浪财经",
@@ -389,21 +545,9 @@
       "_query": "字节豆包"
     },
     {
-      "title": "豆包入局AI购物赛道：与淘宝京东同台竞技，潜力与挑战并存 - 天脉网",
-      "desc": "豆包入局AI购物赛道：与淘宝京东同台竞技，潜力与挑战并存    天脉网",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44Z3ZmUmZaVzBYbjlpZVI3QlR1RHAzNmRKMkh1MTdwVjhDcHB3RjJkTkdveVg3ay0wQ2NyWXhBb1dYc09fS1VqbjVldE4xS1lqLURIUEowcw?oc=5",
-      "source": "天脉网",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "字节豆包"
-    },
-    {
       "title": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网 - 新浪财经",
       "desc": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAVBVV95cUxQTUdyN3BvRFhGcXhrUTZMV2UweUctZjJFaE1tZEMySWh3ZHBsMnhCc0tybWhTYXhpRnJnbmpsQlJGN21CRVpwckp4Ny15VkFNWmo3MDBnQ2NGVDhDYV9Zai1WUzF0eTZVdi1UdHJiNE44Y1ppR3d4ekRUMkdFRkFEY2habFlUTGQydzBGeEdaSWh4bC14bjZ2bXYzVjFWSkpFRm16ckdnbjlRYWdkcHlZOTl4TzBrdlU3MFRKSG1PMXc3X2h5YjlkSFJ4TzY3ZHU2bW1jbGtxamZhaEZLcnJVT3U5TG9TZG1hZE9WbnpnckhOQXVQWVg3Q0NES0oyT3pXQnRCRnI0M1NNVWhSblctbmMtNDJtajh5UklJNVplNDYwM1BJMmdTVl9iZ0V6VHlGNHJBbXZXbVJ5a2FTTVdtc0FtLUpLUU5FbEIwLXJ1dHR6Z3MtVUd3SU9oZ2JaV2c2M2lhcUdPX1RFYTNzbi1pN3JGbks1WXBmVURFRjZSbFJXSXZNXzAzUzNpYWVnQnYzWTBaVnVOVy16aGtKT0dlWEZxZlpWOWZtYmZyUmNNemJ4bHB3UjhZbVl5LW94NHZRWjA1MlozWGY2R0oyZXpSNjAyQlBKc1diNFBXNll3dFI5QmdLendLd1RNUUhtTDdFaGx3T01WZjFrSEM2cGNzbWpKRnZ1c2xVNTAzZmFmdmtveG1EUnBOd0laRXZWZDAwQXlHNU5Makc5T21uT1pQeFg1YTFFeDl2cnhfVjg1M0RVUV9fY1J1WWROYzR0cm9yQW5ERkh3ZEFoUklTWWNWOWlpUHR5SmxUZ1pjLVJ5aTVQeWQwRkFhTGl1RkRrM2s2MEpBdFduc1hsSDhyUFlfbHJVTzFFNGdI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPbG5KY0VDaFNQZnU0LWhCNTQ4Q1R0Y2pHbTlZZ0trRnZHdTduUEtwaGs4aFBrYy1sQlVXRy16UTZkeUo2dE9xSFF5b01Nc3Z5eGxsUXpUaWhOXzczQnlkTTJCVXhnbVdRS2JjUVVLU2s3Mk43SEtsLW1GNVB0SGdITExpemFmU3BtdzBjaGlEZGxxbDhZNG5XMzdZM3JQYmh6U09tOEJYYjh5NzZLOEhhYng3SXV4amJOOGRQbFJZQ2plUmFLakp2alVmdEoyNkVGa3dLVTQxWHlycXpMaktQWWQ2WS1HWjhqX29iZ21FRnNmSnlTTVpLTHZheHlsWXJORmJrNFhWSG9kdm9McFZtUFhIWVdLR0ZfTE9OeWx4MGFpbTJmOUlkeVZCS1lzLXpNNkpySXBqRHdYcU9fbk9NMTgwdmRlTXNfeUE?oc=5",
       "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
@@ -425,16 +569,16 @@
       "_query": "百度文心"
     },
     {
-      "title": "DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网",
-      "desc": "DeepSeek V4适配华为昇腾_新浪新闻    手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55N2RXS2Nfa2czSk9ueWFMWjdRZzhXMjM0S3NJZXVYLVdDdlB2b3dQbzVPWWV3bkEyMFBIOUFSbTlzWVNPbFAtcXVrVWRkREo4dk5oOU1NZkRYcy1DM1FTOVNZbw?oc=5",
-      "source": "手机新浪网",
+      "title": "中国AI“杀疯了”：Token调用量首超美国 - 新浪财经",
+      "desc": "中国AI“杀疯了”：Token调用量首超美国    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUlZ5aXdRNE50R1ZiOVRPTnRDclJMWVNTWXdBRExnWnNTbUt3X3FHZ1NkdEIzMUZjeEk4U0pqaDhmQzdGems4ZElEX3VPVlZYdmdXUGpJTFROaGsyTmZLNTd6bE00azVMdEVCZmdlZ1pKMkxzRzRpVUhVVXB0aHlMNGJJa2daZ2ZsSXRXQUl3aHNXS3RISE9QWUxNNGZVQlZlbFVwbzExQ2xwVFZVQTY2ZzJkWG9oZ2ZFLUFoSlBQeHlrV1FnRlJIZWxBTFZvODF3ZmRrMFNCOGt1clhtYVN0RjVqRlV2M1ZMV0Fibk9XTzRzNmdVUjZrT2lrT1FqXzQwUzZkaVZSOHhFbDA?oc=5",
+      "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
-      "type": "infra",
-      "impact": "mid",
+      "type": "china",
+      "impact": "low",
       "hot": false,
-      "_query": "华为昇腾"
+      "_query": "月之暗面Kimi"
     },
     {
       "title": "Kimi掉队：C端失血，出海是最现实的主战略 - 新浪财经",
@@ -449,30 +593,6 @@
       "_query": "月之暗面Kimi"
     },
     {
-      "title": "币安悄悄押注了一家头部大模型公司 - 链捕手ChainCatcher",
-      "desc": "币安悄悄押注了一家头部大模型公司    链捕手ChainCatcher",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vRWhTdUdFUGhwZVFjRWpkM2xXOW9jUENRRmxnQ2xkQXE0d0ZlSU8yZzRlajg3UnMycEdIUnBTem5VSTk2b2tKS2NPQ3FKWDBHdEh2QU9iSQ?oc=5",
-      "source": "链捕手ChainCatcher",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "月之暗面Kimi"
-    },
-    {
-      "title": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平 - 爱范儿",
-      "desc": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平    爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xb1pTZlBxbmVtZGdRRk5JT3lUOXVPV2I0djlqS2RmRnBoUVRUR0NzYjNqOE9kcXk4elFvVnRjbk5YMVU?oc=5",
-      "source": "爱范儿",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "腾讯混元"
-    },
-    {
       "title": "为什么所有人都觉得 MiniMax、智谱「太贵了」？ - 36kr.com",
       "desc": "为什么所有人都觉得 MiniMax、智谱「太贵了」？    36kr.com",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ba25JTXlSaVhJdUExdzRnVXk5NWdaR3ZTMmlvLVM0RVl1dHhCbUFDZ1EtSWxxV24yUGpCNElZb3Bhb3ByaUNtdlYydjU0UQ?oc=5",
@@ -485,28 +605,16 @@
       "_query": "智谱AI"
     },
     {
-      "title": "2026数字中国创新大赛·人工智能赛道总决赛圆满举行 - 东南网",
-      "desc": "2026数字中国创新大赛·人工智能赛道总决赛圆满举行    东南网",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83eGt6V3BSallxZmNoMFVjdERHcXdlTnBCd2lDTExVcFhLLW5TNHZEY1JLQWIyT2xJWl96Rnl0cWl3Uno5c1Jtb3lrdWZRWHhmdlc1NmhuRFl4RktZeXA5U0Y0TW9LUQ?oc=5",
-      "source": "东南网",
+      "title": "京东健康旗下AI工具“京东知医”全面升级： 聚焦循证医学与临床工作流|AI技术|底层技术|智能体|医生|患者_手机新浪网 - 新浪财经",
+      "desc": "京东健康旗下AI工具“京东知医”全面升级： 聚焦循证医学与临床工作流|AI技术|底层技术|智能体|医生|患者_手机新浪网    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WlRfOGhKdEZDNl9iSGJxTGx0azB6WVFubTlRLWdxVS1NUlVkZ091cVU3MEdVcHB5eHRLQjBCdVdJZ1EwaWRxWEhNaHU5RXMxekhUQm9odkxpVGpLRDVONzNrc3hWak1kUlRtU0pGcEQyTkg5MV9pam9lTV9wY1k?oc=5",
+      "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
-      "type": "product",
+      "type": "china",
       "impact": "low",
       "hot": false,
-      "_query": "国内AI动态"
-    },
-    {
-      "title": "【福州晚报】全国首个环境-糖尿病大模型在福州发布 - 福州大学",
-      "desc": "【福州晚报】全国首个环境-糖尿病大模型在福州发布    福州大学",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IU0VRY1BlaDNQazl2U253VWZoTXFnaVdfWGw4S1FJUVJwMVFmZGc0bHFfdnJTMkJfLThCM3JpVExYUTJmbkM1UnpZbWRteWZIRjl0a1NCdw?oc=5",
-      "source": "福州大学",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "大模型发布"
+      "_query": "AI产品上线"
     },
     {
       "title": "原粒半导体完成超5亿元Pre-A轮融资，加速推进端侧AI生产力芯片落地 - 投资界",
@@ -533,134 +641,38 @@
       "_query": "AI融资投资"
     },
     {
-      "title": "Where the goblins came from - OpenAI",
-      "desc": "Where the goblins came from    OpenAI    OpenAI tells ChatGPT models to stop talking about goblins    BBC    ChatGPT Developed A Goblin Obsession After OpenAI Tried To Make It Nerdy    Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aX04xc2l3LUpSZ1NMTzVfUDlxYWh4dkhMQVZBMGlGa3M3RnBkN1h4MU04MktmdGdpZEltVm9PdUNvUndzZjluaVNVb2VRcjMwdUN4OW1zVGZkSnJpX0tNVG14UQ?oc=5",
-      "source": "OpenAI",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities - The AI Security Institute (AISI)",
-      "desc": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities    The AI Security Institute (AISI)    After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too    TechCrunch    UK Group Says OpenAI’s GPT-5.5 is Comparable to Anthro",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjBadks2aF82T2M5UzdiSnU0bi1xVG9Xemx3SVBoeWI4cWpsUWRZdUc3aEZDOURmY0xQLVdKT2FwSC1LZjA1Zm9ORndYS18teTRZMWZWMmtBQU1rekk0SFJqWGRYWEtDYTBlZGhZNmZJUHZTcFc2Z0poakJCemp1aXZpQXBYQ0xr?oc=5",
-      "source": "The AI Security Institute (AISI)",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "funding",
-      "impact": "mid",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI makes frontier model available to critical cyber defenders - Nextgov/FCW",
-      "desc": "OpenAI makes frontier model available to critical cyber defenders    Nextgov/FCW",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUFQ0V1JoTVYzWW11ejNHaHF3UHlsRWFSNU5FMExaMFVlYS1xY1lrME9DcDc3OVF3aVRQUktMeWxqTFI2SFhaZVpCX3c4cWpsMnJmTDd5Z05rdjJrQVNXUmJ2R3dVQlJaR1NHMGNYR05uYm4yRy1DcTRRVkFIbGs3UlNXYjI1eDlTQjNJX3FhZHVHNzJHeHM0UnMwOGViS0RvaGdEZl9EcDNMT0I1SkVNMmFQWUdkazR6R2lRdGk2WG5UOVpRTXpBVmkyaThZZFpUTmRrRTMtcHdOWVJvOVp5MWFzWQ?oc=5",
-      "source": "Nextgov/FCW",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "ChatGPT has a ‘goblin’ obsession. Now we know why - PCWorld",
-      "desc": "ChatGPT has a ‘goblin’ obsession. Now we know why    PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkJfTUhIQU41LWZzbFRqTzlRY0NIdHZmbGZuaHVTdm5hYm9UbExDVXNwWHMxMWgwaHlZd1Fvcmh6UmU2SFd1THFsYTZTQ05OY2ZCb09rQmVtU1VfV3M3ekM0VTRQTnVocTlCQW4yNlczQzNWVzhHWjFfQWZ4b3h4SEVfRWItTjlweDc3YTVscmVqdHFhU3c?oc=5",
-      "source": "PCWorld",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks - Databricks",
-      "desc": "OpenAI GPT-5.5 + Codex, now available and fully-governed on Databricks    Databricks",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU1PTlAzanZxTHNQTmRiNjIzY2RpbEp6MUlwUTJFYzFub1NZMWdIZ2dUb1JpRXREMXhBcnpBXzQ0SEVvS2szMTFIWkxUV3NWWFhCSU5BM0l1dU1yMEZsS1pUbEhXcmNSQnhkOGJIaE56V25zcHRSZFQ0bE1tODVhY3pLWFZmaWF0Mm9JazBRYmh2dXQ4VFYtREg2aDhJQjBORGwxM2VGMFZ1U21VSGJB?oc=5",
-      "source": "Databricks",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI Explains Its Goblin and Gremlin Infestation - Business Insider",
-      "desc": "OpenAI Explains Its Goblin and Gremlin Infestation    Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS1Y5T3d3cVRMMHkwZnBFak5EY3ktNVVYa3Foa2lyd2p1dEtHcjc3c2NMRkE2NXoxREI0M1VLNnU0b21pNFBkU0VKZWhOa09mdUZiN2V5ZUItOHlkbnFVZmdMemZBNlNoMUNkUFRZVVNhaHdMV1NOV0c2WG1QVV9NbWxoeF9TX3dvckk0b1dNOWpRdkwwNHo2eERNckU0dFU?oc=5",
-      "source": "Business Insider",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "product",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI blames 'nerdy personality' for ChatGPT's obsession with goblins - NBC News",
-      "desc": "OpenAI blames 'nerdy personality' for ChatGPT's obsession with goblins    NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzZ4dnd2VVp1T1lTUEZZOFQ5ZXZaWGxPUkIyd0R6QW80aUJXSkdsUmcyUmNOQmQ4YTZJQVh2VEtDRXkwMjgzeG13X1g5NEVQVER5dG1CWXFhbEQxNWpWcC1CZng4eVZXUE5JUnQyNFJyVGhyOHphYVNuZDRWTC1UWUxteEg5c0otcGYwUUxxaGZpcmc?oc=5",
-      "source": "NBC News",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "OpenAI explains why ChatGPT developed a goblin fixation, and how it solved the issue - 9to5Mac",
-      "desc": "OpenAI explains why ChatGPT developed a goblin fixation, and how it solved the issue    9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTVuVlZma1FjdkNqbEltczlNNkZhYTJGUVhjeEM1T1J0YjlLRlhLandNOTk2dHlEeGJvQmJ6OUdXX3JEa2o0enExV2xmTlQwVFRBOFk2OXBTTnFTRGlkb2hOM1JqZF9GLV9HQ0dHLXk0R2Jvclh5akJxQmxDYUxtTTdWUWFMd1ZRTW1ERTNwX1BveV9nM1ZTQnlHWkdIT0drSE9yZkc2UmZOWXZreWpyeVdyN29tZw?oc=5",
-      "source": "9to5Mac",
-      "region": "overseas",
-      "date": "2026-04-30",
-      "type": "model",
-      "impact": "low",
-      "hot": false,
-      "_query": "OpenAI 动态"
-    },
-    {
-      "title": "中国阻止Meta以20亿美元收购人工智能初创公司Manus - BBC",
-      "desc": "中国阻止Meta以20亿美元收购人工智能初创公司Manus    BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ2ZnT19GQ0dmN1RjYkEtNVd2czVlS19ldnBJZ2RRYnQweU1ZRGp2Y1dTN1FRcFlfSGpnelBHNmlNTjItNFAtVFFUSUdNamFJazVISGI1SjdKM1JzOTU3TFdwck9NQdIBa0FVX3lxTE84Tk5WMml6WHE2QlMxcFVlaFBDOXcwengtME9xYUR2YlhwRDRZaVh5RDJNc0YwSWI4ay1VN2lrcE5lWVdCcEstcjNQS3FfbklqdU5QWTlSaU9QOFNSU3paYi0zdjl6cEtkRDQ0?oc=5",
-      "source": "BBC",
+      "title": "智谱炸群了：GLM-5.1直接上线， 开源第一换人 - 51CTO",
+      "desc": "智谱炸群了：GLM-5.1直接上线， 开源第一换人    51CTO",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJcVh6YW82c284LVFHdGxEaUM2Vmd0MjAxZ1U1Z3MybWRxTGVPRnJkMC1iX1RVeWx4bUk3WmZDZWNtT2hCdVBGRWZ3SDAyUQ?oc=5",
+      "source": "51CTO",
       "region": "china",
-      "date": "2026-04-28",
-      "type": "product",
-      "impact": "high",
-      "hot": true,
-      "_query": "国内AI动态"
+      "date": "2026-04-25",
+      "type": "china",
+      "impact": "mid",
+      "hot": false,
+      "_query": "智谱AI"
     }
   ],
   "trends": [
     {
       "title": "国产AI",
-      "body": "本周 7 条相关报道。代表：梁文锋不掀桌子，DeepSeek登上半山腰 - thepaper.cn；DeepSeek V4距全球最强AI有多远 美国公布结果：落后7个月 - 驱动之；DeepSeek过了算力的河，美团LongCat正在弯腰造船 - 新浪财经。"
-    },
-    {
-      "title": "模型竞争",
-      "body": "本周 6 条相关报道。代表：腾讯混元CL-bench续作发布，让大模型读懂你的日常生活|群聊|推理|碎片化|；Strip发布288项更新，全面进军稳定币与AI代理经济 - PANews；OpenAI launches GPT-5.5-Cyber to revolut。"
+      "body": "本周 10 条相关报道。代表：DeepSeek何以拥有定价权 - 新浪财经；梁文锋不掀桌子，DeepSeek登上半山腰 - thepaper.cn；华为算力“开链” - eeo.com.cn。"
     },
     {
       "title": "开源生态",
-      "body": "本周 6 条相关报道。代表：Meta abandons open-source Llama for prop；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que；DeepSeek V4适配华为昇腾_新浪新闻 - 手机新浪网。"
+      "body": "本周 6 条相关报道。代表：DeepSeek+华为昇腾 全国产AI 生态突围 - 新浪财经；DeepSeek新模型押注国产芯片 筑牢人工智能产业根基 - chinanews；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que。"
+    },
+    {
+      "title": "模型竞争",
+      "body": "本周 4 条相关报道。代表：腾讯混元CL-bench续作发布，让大模型读懂你的日常生活|群聊|推理|碎片化|；OpenAI Releases GPT-5.5, Revives GPT-4o ；OpenAI launches GPT-5.5-Cyber to revolut。"
     },
     {
       "title": "企业落地",
-      "body": "本周 5 条相关报道。代表：Anthropic Claude Security available to a；Anthropic Brings AI-Powered Security Sca；Fractal Hosts Invite-Only Enterprise AI 。"
+      "body": "本周 3 条相关报道。代表：Anthropic Brings AI-Powered Security Sca；Anthropic Claude Security available to a；原粒半导体完成超5亿元Pre-A轮融资，加速推进端侧AI生产力芯片落地 - 投资。"
     },
     {
-      "title": "Agent应用",
-      "body": "本周 1 条相关报道。代表：Oobit delivers secure, controlled spendi。"
+      "title": "推理成本",
+      "body": "本周 2 条相关报道。代表：中国AI“杀疯了”：Token调用量首超美国 - 新浪财经。"
     }
   ]
 }
