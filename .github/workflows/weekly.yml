@@ -2,7 +2,7 @@ name: AI Radar 每日更新
 
 on:
   schedule:
-    - cron: "45 0 * * *"
+    - cron: "45 17 * * *"
   workflow_dispatch:
 
 permissions:
