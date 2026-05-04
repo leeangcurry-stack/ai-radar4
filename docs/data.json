@@ -1,7 +1,7 @@
 {
   "generated_at": "2026年05月04日",
-  "generated_ts": "2026-05-04T09:32:14.637773",
-  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 2 条。融资事件 3 起。",
+  "generated_ts": "2026-05-04T09:48:28.806105",
+  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 3 条。融资事件 3 起。",
   "top_story": {
     "title": "DeepSeek发布V4催化重估预期 中国AI芯片与大模型成市场焦点 - 디지털투데이",
     "desc": "DeepSeek发布V4催化重估预期 中国AI芯片与大模型成市场焦点    디지털투데이",
@@ -29,9 +29,9 @@
       "_query": "DeepSeek"
     },
     {
-      "title": "DeepSeek做大→Mega MoE，Tri Dao团队加快→SonicMoE - 新浪财经",
-      "desc": "DeepSeek做大→Mega MoE，Tri Dao团队加快→SonicMoE    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05ZEhiZFZoXzVOb2dkSUJKQjRwT09aajRRbFJ3RGxqQVVLR2xMLS1UVWt5RzZzRW1FVWFlNTlxN1FTaVRLT2p4d2QwTC1FMjN5TjBaTzN5LXZYVllrQm50VXRJcjc4ellrYWZ0cmc3Vnh2SlRiVkwwWQ?oc=5",
+      "title": "DeepSeek何以拥有定价权 - 新浪财经",
+      "desc": "DeepSeek何以拥有定价权    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xbjhldlpHQy1yWEd5T29KcS1MZGs1bm10WkVRajhFaFZsaE5odmxlbGpwVHFldnpXR0l1Z2U0RGgtZWZQeHdlV2J0ZmZnSlBxTjFDMm1UR2xMZFhNeFBkTi04V1RFalUwalJlaldnejF1eVhyaS1mcQ?oc=5",
       "source": "新浪财经",
       "region": "china",
       "date": "2026-05-04",
@@ -101,14 +101,14 @@
       "_query": "AI芯片算力"
     },
     {
-      "title": "OpenAI to roll out GPT-5.5-Cyber with restricted access: Sam Altman - MSN",
-      "desc": "OpenAI to roll out GPT-5.5-Cyber with restricted access: Sam Altman    MSN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1YwUVQwYkFyX0dzU1lxU01udjJQbWlxQnI1bURSNGFlTEs3ZE51NHUwX3lUSDYxTDdkcDk2b0Z1bk9Hb1Jaa0VBZW80VW5udXZTb25FcW5HZlphZnIyc2dkeEgzcDZGb0ZlODNzYmphWjFnTzZRUU1ZUm9wWWNMRmFKNHJvMUJRQmlKNWdobFpWTTlhSzhLRkRJY2pBenlVdVA3Vnc2X01oRVlKMVF5Y3g2VnBjRHpYcUhfckx3?oc=5",
-      "source": "MSN",
+      "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts - SecurityWeek",
+      "desc": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts    SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkJwcktzLTduR2JiU2pvWXZLY3JpanhNSVZKZHA2VFVNTTB4N1VneTJuNGZMbTRGZU5VWWRSYkhoeVJ6YjdROEdHTDFvQ1g0UTVMT3BCMldidlJ4YUNUSVdpMVVpbUVyRW85LVFqTDNjNjU2N3pZbUVldnQxdEd5QklqOFJQb2Q0YjRaTGRB0gGTAUFVX3lxTE0weVRWZklzeUpsQ1hGN3gtQ0lrTG9JM0d1N0Y1WnluUVV3UzVXV1NYOHRlUDRJR2hrM3NScnJka3NTWmVzNktSSHBWOWxOeGs4am1mWWZfUkxiMmtQVDYzalNyVk43X3l6TEJfcHM1THVBRjYwelJLU2JSbGw5YS1iX1FTZ0VnU3ZQUDZiRXlPSUowUQ?oc=5",
+      "source": "SecurityWeek",
       "region": "overseas",
       "date": "2026-05-04",
       "type": "model",
-      "impact": "mid",
+      "impact": "low",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -121,6 +121,18 @@
       "date": "2026-05-04",
       "type": "model",
       "impact": "low",
+      "hot": false,
+      "_query": "OpenAI 动态"
+    },
+    {
+      "title": "OpenAI to roll out GPT-5.5-Cyber with restricted access: Sam Altman - MSN",
+      "desc": "OpenAI to roll out GPT-5.5-Cyber with restricted access: Sam Altman    MSN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1YwUVQwYkFyX0dzU1lxU01udjJQbWlxQnI1bURSNGFlTEs3ZE51NHUwX3lUSDYxTDdkcDk2b0Z1bk9Hb1Jaa0VBZW80VW5udXZTb25FcW5HZlphZnIyc2dkeEgzcDZGb0ZlODNzYmphWjFnTzZRUU1ZUm9wWWNMRmFKNHJvMUJRQmlKNWdobFpWTTlhSzhLRkRJY2pBenlVdVA3Vnc2X01oRVlKMVF5Y3g2VnBjRHpYcUhfckx3?oc=5",
+      "source": "MSN",
+      "region": "overseas",
+      "date": "2026-05-04",
+      "type": "model",
+      "impact": "mid",
       "hot": false,
       "_query": "OpenAI 动态"
     },
@@ -141,6 +153,18 @@
       "desc": "Anthropic targets vulnerability detection gains with Claude Security public beta — here's what users can expect    IT Pro",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEVZOFR3d1BhYzBVbm1Wb2xhT043UGtoXzJFQzhGa00xMFVTZHZmWXp6T0Y0dUhMVkRYVlRDaEpyY1Q1MS1TZ3NmcUk0Zm5Vc3lUU2dZd3kxdEp5WVFsMmtlSUM0Y1JtekZuZkdYRlcyRXVMN2tyX2x4THJtV1dkM1hGVXdHRXFTcnRsRTUyRlZ1WUR1X3AtYTRpTUFYdktMQTlGa0FXZHpVeXJvQ0VrbzlOWC04SVp5aTVVdGZKTnJYZDZsVl8wTks0dGtNRFBSS1BLLS1n?oc=5",
       "source": "IT Pro",
+      "region": "overseas",
+      "date": "2026-05-04",
+      "type": "model",
+      "impact": "mid",
+      "hot": false,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "Claude Security enters public beta with Opus 4.7 vulnerability scanning and patching - Help Net Security",
+      "desc": "Claude Security enters public beta with Opus 4.7 vulnerability scanning and patching    Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjlZM3FPd2pxN3pYaVB4TG04X1JBVHBuT2dXajh0OWpkVVVaY3dwRHpPOGdRZUxSbWxBNDRWU0xGaF9lTUdEU3lES3BkWjBtVmozVk9YVTBURzBSbHZHYlVJVDZZWFZDd0VkVDFNZE14UjY2VWtCMzZQdm4yY01RbDdvZ1l5TWNo?oc=5",
+      "source": "Help Net Security",
       "region": "overseas",
       "date": "2026-05-04",
       "type": "model",
@@ -195,6 +219,18 @@
       "impact": "low",
       "hot": false,
       "_query": "Anthropic Claude"
+    },
+    {
+      "title": "Why IBM Granite 4.1 is Disrupting AI Scaling: Dense 8B Model vs. 32B Mixture-of-Experts Compared - Intelligent Living",
+      "desc": "Why IBM Granite 4.1 is Disrupting AI Scaling: Dense 8B Model vs. 32B Mixture-of-Experts Compared    Intelligent Living",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcFhfUWdTYkpFNzd5M0RGNGs2RlIya3o5YTdFWTlmaWxaQzZCOTA3VEF6eVAtNlNZZlA1YUJwMnFLUERtS0tzUm9FWXVnb1lmd0FJak5DSE5FaUt2SDd2X3Nhdl8wTkd5SFRPOWRB?oc=5",
+      "source": "Intelligent Living",
+      "region": "overseas",
+      "date": "2026-05-04",
+      "type": "model",
+      "impact": "low",
+      "hot": false,
+      "_query": "AI 模型发布"
     },
     {
       "title": "Microsoft launches Agent 365 to oversee AI agents - IT Brief Australia",
@@ -269,18 +305,6 @@
       "_query": "腾讯混元"
     },
     {
-      "title": "为什么所有人都觉得 MiniMax、智谱「太贵了」？ - 36Kr",
-      "desc": "为什么所有人都觉得 MiniMax、智谱「太贵了」？    36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ba25JTXlSaVhJdUExdzRnVXk5NWdaR3ZTMmlvLVM0RVl1dHhCbUFDZ1EtSWxxV24yUGpCNElZb3Bhb3ByaUNtdlYydjU0UQ?oc=5",
-      "source": "36Kr",
-      "region": "china",
-      "date": "2026-05-03",
-      "type": "china",
-      "impact": "low",
-      "hot": false,
-      "_query": "智谱AI"
-    },
-    {
       "title": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' - Business Insider",
       "desc": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.'    Business Insider",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdlFLOVFFcjgyNHNZak5CSzI5Yjg4WWgxVTNRdkxrTDVqaElOVHd4TzN0aUNmc3RtZVQ4ZnF4NTQ4VHVDRmNrRkhFZDA4X2ZoTnhhTnE5NjBHM0NLaDZHNWd3dW1nMXZWY0xnTkVYWmd1WkFtTGJjLXdEOXkxdDg?oc=5",
@@ -327,18 +351,6 @@
       "impact": "low",
       "hot": false,
       "_query": "OpenAI 动态"
-    },
-    {
-      "title": "Watch Bloomberg Dispatch: It’s a Weird Time to Be Named Claude - Bloomberg.com",
-      "desc": "Watch Bloomberg Dispatch: It’s a Weird Time to Be Named Claude    Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUhmSk9tWWlLVGUtWWhaTVlrQW5ZNzdNMHFzSVF1YTgyZDJuNmY1SlVQelVuTjlKdms2ZGRuRjhTZk0ybTJWRmpFYWtYZUNfR2w3MDk1VzA2RkdBcV9JVkhjczJWQUFDd0IyT1h6WDIzLVB6VEZTWlA2WTRncXlnbFFPN05KZmFFQnViSWZzcHgxWGQ5eUwtMUdudl9CRi1yMUtLejNnbHQ4MGtKQVdr?oc=5",
-      "source": "Bloomberg.com",
-      "region": "overseas",
-      "date": "2026-05-03",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "Anthropic Claude"
     },
     {
       "title": "Why Everyone Thought Claude Was Getting Dumber—and What Really Happened - Talk Android",
@@ -473,34 +485,22 @@
       "_query": "AI 模型发布"
     },
     {
-      "title": "The 3 Phases of FinLLM Evolution - DataDrivenInvestor",
-      "desc": "The 3 Phases of FinLLM Evolution    DataDrivenInvestor",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sZ3BKbnZ0LTlhOEQ1alY5WExNTnlFT2xiSHAteU53MDh4dFdmX19iSS1rVDBZbGg1VVU2Wl93cDN6MWVnZzFvNElYdENra2lqTGQ3WExxR0hCd3lFUHZhQ1lZS0tsUE9rRGhHWmNUMVREdw?oc=5",
-      "source": "DataDrivenInvestor",
-      "region": "overseas",
-      "date": "2026-05-03",
-      "type": "model",
+      "title": "2026年1月AI大模型前沿速览：通义、 - 鲸林向海 - 新浪财经",
+      "desc": "2026年1月AI大模型前沿速览：通义、 - 鲸林向海    新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRzZJcFg0SzNYbHlhdzZ5YXBvalloLUFlcDNVMUFXWnZrdzV6c3l5Q1M0cml5UDBTLTYwSnhsUGQ5Q3VlaF9qWnhubzQ0eTR6VEY4NkowcmJ6RzdxRFFQWDhMRjJJUFltTmM3NlU2M29wSmJNZ0dNU0h4QnJ4dw?oc=5",
+      "source": "新浪财经",
+      "region": "china",
+      "date": "2026-05-02",
+      "type": "china",
       "impact": "low",
       "hot": false,
-      "_query": "AI 模型发布"
+      "_query": "阿里通义"
     },
     {
-      "title": "Large language models (LLMs) such as GPT and Gemini are permeating into various platforms. In additi.. - 매일경제",
-      "desc": "Large language models (LLMs) such as GPT and Gemini are permeating into various platforms. In additi..    매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JZHJoeDRRc2V4U3pSX0sweXcwbEF3eU5EVmxEV1dXbFRCNkxseV9uU3BrV1U0V2NXZm5UZGxIUjgxMV9Fa2tlTWVfUQ?oc=5",
-      "source": "매일경제",
-      "region": "overseas",
-      "date": "2026-05-03",
-      "type": "model",
-      "impact": "mid",
-      "hot": false,
-      "_query": "AI 模型发布"
-    },
-    {
-      "title": "华为发布全栈 AI 新品，国产算力与生态链迎强催化 - 搜狐网",
-      "desc": "华为发布全栈 AI 新品，国产算力与生态链迎强催化    搜狐网",
+      "title": "华为发布全栈 AI 新品，国产算力与生态链迎强催化 - Sohu",
+      "desc": "华为发布全栈 AI 新品，国产算力与生态链迎强催化    Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDM0NFN3UW03Mm1kcFVwSHlpSV9uZzJKbW5VbVJRLTBGclFOWGZaQ1NMWkhKVHU0REx6bUF2MWQzRTdHbTRVUEtxSUtZLVRBcGhCcHdXa213T3pvRVVBQTlBalVmV29sdlllUm5Da0xtUGtBVjFHRFg4ZVVEeTZ3eUFKb1hTUHZiV2VzVQ?oc=5",
-      "source": "搜狐网",
+      "source": "Sohu",
       "region": "china",
       "date": "2026-05-02",
       "type": "infra",
@@ -593,10 +593,10 @@
       "_query": "国内AI动态"
     },
     {
-      "title": "谷歌翻盘，百度掉队：同为AI大厂，为何一个重返王座，一个越追越远？ - 创业邦",
-      "desc": "谷歌翻盘，百度掉队：同为AI大厂，为何一个重返王座，一个越追越远？    创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jNGpXQ1BfTEZMaEdMeEJfaW5uNU9TZy1IQ1JpNDBxRjFtNFUxWlpuV1Y1RS15bFdDRHpmYkt2cWlDeVIwRmVlSDBB?oc=5",
-      "source": "创业邦",
+      "title": "刚刚！百度官宣职级体系大改 - 风闻",
+      "desc": "刚刚！百度官宣职级体系大改    风闻",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VeEliMDRDcnN1T25fdkVvY1ZncDVnRnpuYjBmbXdxS0VZWjJRdHYtYW1zSjJfRHdjSjkxZlpveUYzZnllS0NZbEtVbThNQlN4WGF4aGx5anBGZTJBWnNnRm13YWkzMGYwdXJPWXc3MFBUU203?oc=5",
+      "source": "风闻",
       "region": "china",
       "date": "2026-04-30",
       "type": "china",
@@ -605,21 +605,9 @@
       "_query": "百度文心"
     },
     {
-      "title": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网 - 新浪财经",
-      "desc": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxNSG1yYURjUFFfMkRId0k3QWozZ0MySHY1M09KTUllbU8yUm5ncFVSOHF1RE9QNkJfazhhVXloMGhPRDF6dm93ekxsVEdQaW5jNUV6ZTBXLUtueHRCWk1ETXBibl9aWjhVVEc0VVFBSHVZMERRUVNSeTZ3bWtBd0dDU0x3UmU0ZHdmMkJ5Wnlmck12YTdNVHFPaFpwM1pQSTVzQVF3bjRhQjNKYV9pVHg0VHAxY0ZnSEY0bmlBVjNWU0xabzJhQ1J2U09RLTRmbDdVc1gxS0xJMm5ydlVRVUttMy1pbU9sX3M1YmF3cmREc2ZISzhPUXo5ZEZEbTNwdW04Y3FaVUpZWC1oVmgtVWhfbDE1Nnc5NWFUUXQ0QjJ5WVVwQjNYak1OWDg3eFZVSDdPS1VQUDVWNF94SHdnekQ5WHRzbWo0d1E0d1pIQURFZHlxNEoxUzQyYlNYaTJ1M0lpWWk3NG5VbGVoZjVvd0d5cElzRWRSMGlfYkZQdVNGYU1hT2prelVMdWFJa0hxYW01TjI0RjRqdVNjTnp6S0l3dm1Dck1rZE9fcEhLTlBJeDh5dHZWWHlkaTI4V05qdGJPeXBHUHZseXl1TVBYcGNwTkk1RFAwOUJVdktQb2xMMnNNdkRCTWVCRXZWdF9YbUtMUXkteHpVam9xc0I3SDlfWE5YZEF2X3pUS2lOVFVuS1hHZTRuUDgwWTlkQ0pMM0dWZnlqUnBKb1VmdndIbXdGT1gxdmk5YzFFWlA2Rk1PT1BidUpkM1lzVTRnZnlveFpPbHM4ejlEdGZ6dlRNZEZqRkpDeEVJa2hPcXNUemh4OGhxTXQtNXFnSHZpUkU3eXoyODFXd0xFNV9YbTNHSFZ6angwR2oweUo3VnhtbUpfczU3Zk5yOHRWbEJhUEUzRU11cTJJM0lTcGhrNTdRQWhiOHRaaDV6d05mZmF0QWJfR1NEUQ?oc=5",
-      "source": "新浪财经",
-      "region": "china",
-      "date": "2026-04-30",
-      "type": "china",
-      "impact": "mid",
-      "hot": false,
-      "_query": "百度文心"
-    },
-    {
       "title": "京东健康旗下AI工具“京东知医”全面升级： 聚焦循证医学与临床工作流|AI技术|底层技术|智能体|医生|患者_手机新浪网 - 新浪财经",
       "desc": "京东健康旗下AI工具“京东知医”全面升级： 聚焦循证医学与临床工作流|AI技术|底层技术|智能体|医生|患者_手机新浪网    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORXNaMjVJWlhUMHRQZkM1VFVEcU9IRWpUVlZRNzRDc2x5dk9PZHpDemxnR3NpWGdaUHFLNHZ3X0V2UldYS1U4VFhsRnQzZWoydC1WUHlSZk5oQ3RkSDhyZURHVlZ0WEtDU0pna3VpSTNqUGFWczV1Q0w0WUx1VjJJOENPMVJ2RWRrb1QtdjZ3aGhjc1ZTdGtCQzZiVHBTc3JMY0M2ZXNzX1lhbDg5dzM0UGJYLUFrMjRieldha1JLclFrOUxDTzVUZkk4WmZXN0hqRW55NzZXYVc1MW5vcjJHcEtfS24yVm1xT2cxNld5WVBIcF9IVXlRWHFlMzZCUHBEdUE5SnotQV9DbEo4MG1FM0xR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WlRfOGhKdEZDNl9iSGJxTGx0azB6WVFubTlRLWdxVS1NUlVkZ091cVU3MEdVcHB5eHRLQjBCdVdJZ1EwaWRxWEhNaHU5RXMxekhUQm9odkxpVGpLRDVONzNrc3hWak1kUlRtU0pGcEQyTkg5MV9pam9lTV9wY1k?oc=5",
       "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
@@ -641,6 +629,18 @@
       "_query": "AI融资投资"
     },
     {
+      "title": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台 - Infoq.cn",
+      "desc": "百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 AI 工作台    Infoq.cn",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RllJSl9FWkxTTE1wQWhmRmU1U09kbUVyMmlCWF8xdHZLTkFRQnczNXlXbm13NFdLek1PMk9RbldZS3pSdThsSzY1V1BHam9FeHhjbWFJN0RPdw?oc=5",
+      "source": "Infoq.cn",
+      "region": "china",
+      "date": "2026-04-29",
+      "type": "china",
+      "impact": "high",
+      "hot": true,
+      "_query": "百度文心"
+    },
+    {
       "title": "中原证券：AI模型密集更新 能力提升带来应用机会 - 新浪财经",
       "desc": "中原证券：AI模型密集更新 能力提升带来应用机会    新浪财经",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zcG9vX2x6RkVsc09BVFI1Nzg2aUxldkFZZ0s0RkNLMXJPb3JZX2Q1VUNDOHNCZkwxMTd2WUFTYmNKYjVTLW81ZUFaSlZ2NVNsbU0zNkExNkJfLVgzQjh6N1pIaWp5MWZyQnNjejBnQQ?oc=5",
@@ -656,23 +656,23 @@
   "trends": [
     {
       "title": "模型竞争",
-      "body": "本周 8 条相关报道。代表：DeepSeek发布V4催化重估预期 中国AI芯片与大模型成市场焦点 - 디지털；Microsoft launches Agent 365 to oversee ；Anthropic eyes Fractile AI chips for 202。"
-    },
-    {
-      "title": "国产AI",
-      "body": "本周 5 条相关报道。代表：DeepSeek做大→Mega MoE，Tri Dao团队加快→SonicMoE；华为发布全栈 AI 新品，国产算力与生态链迎强催化 - 搜狐网；谷歌翻盘，百度掉队：同为AI大厂，为何一个重返王座，一个越追越远？ - 创业邦。"
+      "body": "本周 9 条相关报道。代表：DeepSeek发布V4催化重估预期 中国AI芯片与大模型成市场焦点 - 디지털；Microsoft launches Agent 365 to oversee ；Anthropic eyes Fractile AI chips for 202。"
     },
     {
       "title": "推理成本",
-      "body": "本周 4 条相关报道。代表：Anthropic Eyes UK Startup’s Fusion Tech ；AI chatbot fraud: the ‘gift card’ subcri；Leading Anthropic Claude AI Predicts the。"
+      "body": "本周 5 条相关报道。代表：DeepSeek何以拥有定价权 - 新浪财经；Anthropic Eyes UK Startup’s Fusion Tech ；AI chatbot fraud: the ‘gift card’ subcri。"
     },
     {
-      "title": "开源生态",
-      "body": "本周 4 条相关报道。代表：傅盛新品陷“换皮”风波：被指套壳开源项目 - 新浪财经；中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|que。"
+      "title": "国产AI",
+      "body": "本周 5 条相关报道。代表：华为发布全栈 AI 新品，国产算力与生态链迎强催化 - Sohu；刚刚！百度官宣职级体系大改 - 风闻；百度文库网盘发布 GenFlow 4.0：月活用户超 1 亿，要把网盘变成全端 。"
     },
     {
       "title": "企业落地",
       "body": "本周 4 条相关报道。代表：国产AI芯片迎来商业化拐点，天数智芯股价再创历史新高，国产算力芯片企业迎来业绩兑；Claude Anthropic AI launches beta for en；美参院共和党人致函AI企业，要求说明应对中国间谍活动防护措施 - 美国之音。"
+    },
+    {
+      "title": "开源生态",
+      "body": "本周 3 条相关报道。代表：傅盛新品陷“换皮”风波：被指套壳开源项目 - 新浪财经。"
     }
   ]
 }
