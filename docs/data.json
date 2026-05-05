@@ -1,7 +1,7 @@
 {
   "generated_at": "2026年05月05日",
-  "generated_ts": "2026-05-05T15:08:42.701976+08:00",
-  "summary": "本周追踪到 53 条AI动态，海外 30 条、国内 23 条。高影响事件 1 条。融资事件 8 起。",
+  "generated_ts": "2026-05-05T15:18:09.767741+08:00",
+  "summary": "本周追踪到 54 条AI动态，海外 30 条、国内 24 条。高影响事件 2 条。融资事件 8 起。",
   "top_story": {
     "title": "Anthropic partners Wall Street firms to launch $1.5 billion Claude AI services firm - Storyboard18",
     "desc": "Anthropic partners Wall Street firms to launch $1.5 billion Claude AI services firm    Storyboard18",
@@ -10,17 +10,17 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0ZycE5rR0M1dllDMUlMMWVNNFYzQW1BSkl2SmFwMG50WW9mMmpRdnIwR1JBRGNGcFp4WnBVZElkbURwMEhYRDA1TngtcFRaSHkzbzZqSUkwU2NBeklyR1QzRy1fUEtkZERqRENNcUR4Y2VqWXltTTladW5iWk5EZHVKdnFqNXNZbEhZZHp4VkpmN2VYWDBGcm8wd20zbVozdjFkbjRtV0RBaEwwT0VEYkszU3NHbjAtVzBqNTA2dEEyUEl0S1FCb1Ywbl9PS1VyTndONUZpMnjSAdgBQVVfeXFMT2dGcnBOa0dDNXZZQzFJTDFlTTRWM0FtQUpJdkphcDBudFlvZjJqUXZyMEdSQURjRnBaeFpwVWRJZG1EcDBIWEQwNU54LXBUWkh5M282aklJMFNjQXpJckdUM0ctX1BLZGREakRDTXFEeGNlall5bU05WnVuYlpORGR1SnZxajVzWWxIWWR6eFZKZjdlWFgwRnJvMHdtM21aM3YxZG40bVdEQWhMME9FRGJLM1NzR24wLVcwajUwNnRBMlBJdEtRQm9WMG5fT0tVck53TjVGaTJ4?oc=5"
   },
   "metrics": {
-    "events_count": 53,
-    "china_count": 23,
+    "events_count": 54,
+    "china_count": 24,
     "overseas_count": 30,
     "funding_count": 8
   },
   "events": [
     {
-      "title": "豆包收费？网友直接破防：“天天抱歉还想要钱” ，DeepSeek 在热评上大分 - 新浪财经",
-      "desc": "豆包收费？网友直接破防：“天天抱歉还想要钱” ，DeepSeek 在热评上大分    新浪财经",
+      "title": "豆包收费？网友直接破防：“天天抱歉还想要钱” ，DeepSeek 在热评上大分 - 新浪网",
+      "desc": "豆包收费？网友直接破防：“天天抱歉还想要钱” ，DeepSeek 在热评上大分    新浪网",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05Mld5dlo5V1FyUy1FaFdJOU5oQlZLLU1xMlVYUmphZmx2UjZRYkw3RUFPZmR6VEhjTGhsd0RmVndoSFRwMlYzQmNzTTBXOUxCcmJtNnZBbE1VeUdub1ZRMURfQ1VUcWFfejZ0NndVSzA0cjFPWlE?oc=5",
-      "source": "新浪财经",
+      "source": "新浪网",
       "region": "china",
       "date": "2026-05-05",
       "type": "china",
@@ -141,6 +141,18 @@
       "desc": "Anthropic partners Wall Street firms to launch $1.5 billion Claude AI services firm    Storyboard18",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0ZycE5rR0M1dllDMUlMMWVNNFYzQW1BSkl2SmFwMG50WW9mMmpRdnIwR1JBRGNGcFp4WnBVZElkbURwMEhYRDA1TngtcFRaSHkzbzZqSUkwU2NBeklyR1QzRy1fUEtkZERqRENNcUR4Y2VqWXltTTladW5iWk5EZHVKdnFqNXNZbEhZZHp4VkpmN2VYWDBGcm8wd20zbVozdjFkbjRtV0RBaEwwT0VEYkszU3NHbjAtVzBqNTA2dEEyUEl0S1FCb1Ywbl9PS1VyTndONUZpMnjSAdgBQVVfeXFMT2dGcnBOa0dDNXZZQzFJTDFlTTRWM0FtQUpJdkphcDBudFlvZjJqUXZyMEdSQURjRnBaeFpwVWRJZG1EcDBIWEQwNU54LXBUWkh5M282aklJMFNjQXpJckdUM0ctX1BLZGREakRDTXFEeGNlall5bU05WnVuYlpORGR1SnZxajVzWWxIWWR6eFZKZjdlWFgwRnJvMHdtM21aM3YxZG40bVdEQWhMME9FRGJLM1NzR24wLVcwajUwNnRBMlBJdEtRQm9WMG5fT0tVck53TjVGaTJ4?oc=5",
       "source": "Storyboard18",
+      "region": "overseas",
+      "date": "2026-05-05",
+      "type": "funding",
+      "impact": "high",
+      "hot": true,
+      "_query": "Anthropic Claude"
+    },
+    {
+      "title": "Anthropic partners with Blackstone, Goldman Sachs in $1.5 billion push to bring Claude AI to enterprises - Mint",
+      "desc": "Anthropic partners with Blackstone, Goldman Sachs in $1.5 billion push to bring Claude AI to enterprises    Mint",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPel84dENPajFqZDdhVFBSVjhrMno5UUtRNmpUYjZ2QzJXUXJ1YXJIaXAyVGl4bmJSdFRnWWlucmpJTkcxX2dKbzRuYk9LUEVidlJvbUs1alBMOV9paWt4WEFqRlQxMl9WYWNQaDlHUkFZOWFpc2tjQVNfOGZsT3V0OFpJbERpdUhINUVxX1RVZkR0OVpQZjhnanptYTRUYjBrMGhLZ1JvY3UybmRnczJpaGt6LVdUNVVYX2pCcTUyMHpBdWdRYlVSdEQ1c1J5emVjX3VQUTRpaVVhdjhPMXBjRWRpNHJhVzU1dHJVcVBqb2RZZ1pF0gH6AUFVX3lxTE52bFJGd1YwWURSMG56RnNSWHE2MGNseFYyMVd0RzVwQ0gydm80THF1aC1zYkdCUXJfOHN2dDRKa2lJUTZaZ3Jtd2lYMjZ0NkRFTWU3Qkljd2ZWWjl6Vmx3SkQxaERxeUczOUVqS2RpVWVkQktZcU9DUzk2N2psUGZKcnJ3VkNIYVN0ZExKMHpfVXBkMWU1cHVkX2xJWFd4Ql90LTVPNFprcWthMjk1NG1lTHphbHdVQ0VQX1hzRmdaejBRX3R4MC1fUy1FbzA4MXBjcjhYNmVuWnJMUngta2tMUDF0blJUNzB2Y0pfSzVMR1I0YUdVeFJvOHc?oc=5",
+      "source": "Mint",
       "region": "overseas",
       "date": "2026-05-05",
       "type": "funding",
@@ -521,22 +533,10 @@
       "_query": "Anthropic Claude"
     },
     {
-      "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms - CNBC",
-      "desc": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms    CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmotY2VvM3RGaEotSGMyWFJtOTJTVzFzSTRyQUthTlE5Skh6Tk1TOGVlc09FR2ZmTTVfeHpPdTRoT1BrLUVveV9sWEphaHltZ1UxWm42V0Q1VzFNZnNKOHhzRFplYjRaQ0gyNUQxLUxhdE11YkhBSlFrSTdHbEpUQUpR0gGHAUFVX3lxTE1LWklxbGtweEU0cmpwZTQzanJrWmd6ZzdYMHJqUlRaMlFjTkl2cG9MeVJTb3hQMVNXM0tSaDRseGhOZDdmZGp6a1Q4N3VxVURmUWIxWk5hNlRRd29QMklhdmY0aHk2QmNmXzVLV0pHaXVkcTVxZnZNNldpOHg5UTBhajVRakJMVQ?oc=5",
-      "source": "CNBC",
-      "region": "overseas",
-      "date": "2026-05-04",
-      "type": "funding",
-      "impact": "mid",
-      "hot": false,
-      "_query": "Anthropic Claude"
-    },
-    {
-      "title": "为什么所有人都觉得 MiniMax、智谱「太贵了」？ - 36kr.com",
-      "desc": "为什么所有人都觉得 MiniMax、智谱「太贵了」？    36kr.com",
+      "title": "为什么所有人都觉得 MiniMax、智谱「太贵了」？ - 36氪",
+      "desc": "为什么所有人都觉得 MiniMax、智谱「太贵了」？    36氪",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ba25JTXlSaVhJdUExdzRnVXk5NWdaR3ZTMmlvLVM0RVl1dHhCbUFDZ1EtSWxxV24yUGpCNElZb3Bhb3ByaUNtdlYydjU0UQ?oc=5",
-      "source": "36kr.com",
+      "source": "36氪",
       "region": "china",
       "date": "2026-05-03",
       "type": "china",
@@ -581,9 +581,21 @@
       "_query": "华为昇腾"
     },
     {
+      "title": "美参院共和党人致函AI企业，要求说明应对中国间谍活动防护措施 - 美国之音",
+      "desc": "美参院共和党人致函AI企业，要求说明应对中国间谍活动防护措施    美国之音",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR194bUg4bmJ1eHh2RTB1TUxiamRqZUNKam15aFN0c1dwSVBlTVFYRllFX3F4OXo0UWR0bWN5REoxNXoxUzVIMEdna080QXd4amxOd1ZSREsxWXhuVEtMME1yYU1pc1BZTXdTTVZDR1IxeDdoWkhrWUFCWS1LcmEwVHBKbDlLRGRjbTRoU0NsZ001ZVM1RXFDZE1EcXFpbmNyMUVoUU9aZDJRSDBTT1lPNTZfQ2I3d9IBuAFBVV95cUxNTlp0MENhS2tISFdRQ0p4Z1A4eFJ4QjlEd0hlaU4xbTdGSDVlUXZmc0otaWE5UERqcjNaS281LW5BUFBueWpPQUVRQ2I0WjV6S25hYVdkYmt4SEY0OHhYc1RJaGhwbU1Hc1VadnZkWm85MXFiSlZtaHhqRzN6Wk1IWEEtSzM3NDJ3RVNTbnFueXRncG9hMENybTVXbFNUVllndHVmaW5zaEp1TXpjY0ZKLXJjODFKdXJm?oc=5",
+      "source": "美国之音",
+      "region": "china",
+      "date": "2026-05-01",
+      "type": "product",
+      "impact": "low",
+      "hot": false,
+      "_query": "国内AI动态"
+    },
+    {
       "title": "阿里不需要“卖货的CTO” - 新浪财经",
       "desc": "阿里不需要“卖货的CTO”    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNM0d0RUNmaEVnZVU0SlpUVUhmOHlZakQ1bERiLTNfcHl6d1RuQ2h2bUNWT3FwZUlrc0FwU1dRNVc2bTJDay1aRnJILTJLNWVjZHIzT21zenZsOUR5dGNFZlJ2SjFRZ0UxZm9NX19tZFRKYzNYR3lnbWVEOXpyOU1mTTNHWS1wenpyaURWMVZ0RUdoclBZRzlJT0E1T2lSTU15QVIxY2RCcU1oT1FOMUJMS0RNSXdCLWNfcUl3UExYN0U0T0F1Mnl0cGZUX2NLdTlZcVVVV3J6aWlTZm55SFpZc09xclBYdEo2dTRIN2lCNXpwNEcxajVOdlJONmZadUlXU0thR3pNNXlRREg4NjhsX011ZEtHVG9ILU1EUXZCQTJOeUtncU45T1BjWjFCNE5EU2JQRGJrU005UGNFUHdOZWNRTVA5Mk0zc044QUhiWmJOS0NFcUtmOWZ5LURqUmttc1ZvdUxqRjI5aV9xRlZWV1J4WQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZUwyYXBpOVpYSEFqcEdoTEVyQnlpOTFDOFJHZ1UzNEpWZUpaYS11a2xoRGNqSHVwUWQzQnFmcTJaQ2hydGxjVFpZU1ZCb2dyUHcySkJYMnBaX24waERWeVRqbTJWQmZMT0xzSURtN1h6T1JYUXlxYndDZVd2azk0dFRHNWYxUGVuR29LeVpUOFZHNzRBVllOMWpUSDJqWFdpc3FrcWtfNDhRd1FFSlJTbkVBUWVYZ2gzN3NaNU51MF9RbU1KQTVOYTQxakJ0X0NEelpMRXgtZFM3UVNUT2Z1RkNrUXRCanNGb2UySGZWcko2V3pOb1N4eFhGMHVUaXItdTdHMmR5c01RcUp5RXFpc1Y5MEZFZjF2aUtZNlM2aTN0Rk92T3pJc0FvSHQ1VGRFWFNPSXl2Tk1xaHg5dDZFcXdLTjJPNWl5YTY0QVRGY1FYTG5ocW5GZU1QWHZMODhSZF9YUktzNkNyYUE4bnp4TjZRTVpUeGN0d1luS1Qta19INlJIWFhTVWY1QzVyTmkzVHplNjRmUFhpZnhPUnJ6U21QOFY1Y0l5VGVvenFPMlRZTm4ta1hRY3RCOV9nc1lZa2oxZlFoalh2QVlUNVBYU0R0SjAteUN1enVXT0RUejJJLU9J?oc=5",
       "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
@@ -607,7 +619,7 @@
     {
       "title": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网 - 新浪财经",
       "desc": "中国AI应用排位赛：字节领衔，阿里腾讯鏖战，百度退守|vivo|字节跳动|questmobile|DeepSeek|文心_手机新浪网    新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxNUWZILXpEY0tmM19ZSWJSZUF6VkptWjMtODZrb0x1Mmpaa2FOVkJkTkNVZ3FSOWExYTlHZzF3VFByWHNTQWJMcWc2WnY5MjFNV0dsQXR0dVhoNUlUUHJxOHJuVVk5a3MxUFRjekdvYmtOX0JDZXlIZ25FNGxEWUhtMEZna2taVkxUWmY1TDRwU3JUTkFPTmxBUUVQa2FpRHZLMWxTcUo3LVF6SzNBczZyM3JGUV8wZFd3TjgyemFYazBDSGF4aDE0dFpsWVhLbExMZS1nTVRyYm8zT1VGVVFCdnJhZDJ2R2hNQTlHaWdEVzBZb1N3MF9UVEhUN0RoRTF6MjA1RjMwUTVudll2M0NlaUF4UHZJaGhpOW94Rkp1eU54RkQzd3BOaVdwNC1wc0llQnlBZGRsTFU5WWpRakFwdWgwdWJQZFNpMHhYWGdyRzhBMTNrVUVmU0pmTlZxXzlQcURpX1dNN0h0aVB1eTRmR2lVZThUcDc0YkljdVRobVZ4MXNtMFp2a0Y2UXA0R0VjZWJYeDVlZU9tNTlFemJmajAwbG5LZmg2UW5xRnZRU01BRmplTmtKVGR3LU5rM3FWajkwMEY4djVSQ0NycEFMSk9iaS1VMExoNWNzaE1oNVNqdUtJcGtueWphb2Z1YnJjNnFHb3dkR3pPV1dlanVvZmRZRjJRNFRfcnktdi1LVEppTXE0SmFuUy1yQjM1ekJ5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wpBVV95cUxNSGlyLWRhRGZ6VWxGc3Q0T0pYeXpSa2FNa1ljcF91NzY4M0YzTzM4UVhERzJkWWVCcGZnSW9MS2ZnRnk5dXdaNGhuZFprZm9zbVJxWG5OZnJtdWdyTGdtQzZ3MDlsUVpIX3FjTE9laFF3ZHhGSm9CcjQzY3JEbG5iYjAxdjR3WUFEZlNrQ2tIYXNKR25IOUJ4VktvZWRtVUotdjZjZ2l6SE5YZUViekhvZTZkcXdsZGJwNjJ4ZUk5c0wxdFRmNlNDTFpObzczQTNKdUJldEV3dU9GclhBWXl0Y2xHQlc1dTRSRVNKeHU4S2ZsY1o3elVvdld3S1d0TEZOZkEzN2JqZkhnNFRFWUFKUnlhdlBaaGpVb255ampnU29nOGhuUkN5cFFoRERXUUgyd2lyVFFaM0w2Q241TUlMOE5CaV9FLWc1TW5sZzNpWlEzVnl5bm9MMDBTeXNmS2hqMDhVVXJEWUZVekZ3ck9PU0NsRXRwbTNEV1ZtaDBKdXktSWZtLXh6dEFXOFk5Z1BpczJNZ3djN3c3alo3eEF1X2VwaW1WY2tGQVdHRHkxMThrUFNvZ0FDVUNmTWJiMmRVMTVBQUR5QkNVM0thcDU4VnY3a3M1d3FYMnFOOGlhbzZzVXdRQWRxakQta19WampIZmhEdFVyWERSdl9VLS10WUxDVFJlVHJ2bk9IaU1WTFQ3dXlCMUNFeWo2OXIxdGZ4V09neGlSWGZPNHlsNVpvT0R6aFBoOVpwY0I1eFBYMDhlZHRRdmF2RXh4eGI5V21uSU4tODRFMENlNUFWd1Z3UWlCRWpJYkFTY3pXekQ2ZWttQjdkd0VFNEJVMHRKaXF6c1VOX1dFajV0UU9WUlJvYlo1WUFMOWw0WW02MERZdXJyamZRbTlYUHNqdms2dVBCdHhzRUdXQjJvbFBYOXg2WHZaaXlyU1BhUHJKUjVTQVpBT19hcVkxSWE4emdaS2ZWNUV5SHd6OE9aYVZ3cEJlUGxSdDFYcVZQT3RjRUcwSDBzZFRIQUhSSzBqbUhEbXozczNrNTYtSGZiSXFyZXV6a3VBcnc0elJESGwySlBSQUdYblE1b2RqU1YyNjNBcm4wMnZ0V3VRdU9VT25hTG05SGVWUU96VWlrbzNRSDA1emxILUktbUs2NDRNZXdGSU1ib1dkaG5PazJ5RUlyc2xfNFB3amF3NVNIV09SR0JhdGVNZUpGUHlKMlBZclVPdm51TzBCLWVhb1M2LXEyR3hRdW1CVXBQQzNIM240Y2d4ek1CZnRxRVQ5b1pTa1d5cTczYVQxYS1aTGV1QTZWSUw1Nmp6NFdkTXNhSmV0ZktrM1I0a1NtRUxGSnZ5Yi1mUmNTMl9oT1RKQnFmQ3V1SGIwWEY2MGZmdHBQYkhiM1pHdm45Z2VuWExzU19zazZVSGZ6ZnNLRzN2Z0h5Ym5YWEZxQy04UmhiSTFidElPanR5ZzB2cHBDa3Z2enREQXlxcEZJTS15SUR0Vy14TUswOHBudzZjdFY1Y2pmZXN5VWREcGpCSVdJekZOM1pBQ3Q3V21JZk1JYnJlcmRxVE1yVU9LeXl1TWI1OEpuSHh3VkY1cXlZNlNZTWh5YlBSX3lCd1M0Z2NSYmc1dmdTSjkzaVU2eVc3S0V5SFRpOEdyWGR4VUNRNGJvRk01RzFDMl9ta0pVTGxQbFNRYkdmeENjN21OekkyRnFXOWhiYzVWQWZVZ0dMM3djcl9oYmxocWd0ejdoZFBFM1RudTZROU9FLXg3YzVTdldHQ1lxQVpIdzc3TmQtd21oZjUxZ2NaS1huX2R1ejNrLTBLUQ?oc=5",
       "source": "新浪财经",
       "region": "china",
       "date": "2026-04-30",
@@ -659,12 +671,12 @@
       "body": "本周 11 条相关报道。代表：Anthropic Launches $1.5B AI Venture With；Anthropic partners Wall Street firms to ；Anthropic Collaborates With Blackstone, 。"
     },
     {
-      "title": "国产AI",
-      "body": "本周 9 条相关报道。代表：豆包收费？网友直接破防：“天天抱歉还想要钱” ，DeepSeek 在热评上大分 ；国民金曲制造机！ Deepseek推荐当代内地10佳作曲家 - 中华网；太强了！华为昇腾AI芯片营收预计要飙到120亿美金，同比暴增60% - Sohu。"
+      "title": "企业落地",
+      "body": "本周 11 条相关报道。代表：OpenAI rolls out separate ChatGPT iOS Ap；OpenAI & AWS expand tie-up for enterpris；Anthropic and OpenAI establish joint ven。"
     },
     {
-      "title": "企业落地",
-      "body": "本周 9 条相关报道。代表：OpenAI rolls out separate ChatGPT iOS Ap；OpenAI & AWS expand tie-up for enterpris；Anthropic and OpenAI establish joint ven。"
+      "title": "国产AI",
+      "body": "本周 9 条相关报道。代表：豆包收费？网友直接破防：“天天抱歉还想要钱” ，DeepSeek 在热评上大分 ；国民金曲制造机！ Deepseek推荐当代内地10佳作曲家 - 中华网；太强了！华为昇腾AI芯片营收预计要飙到120亿美金，同比暴增60% - Sohu。"
     },
     {
       "title": "开源生态",
