@@ -140,10 +140,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:1
     </div>
   </div>
 
-  <div class="footer">
-    <div>AI Radar · RSS 自动爬取 · 无需 API Key</div>
-    <div id="footer-ts"></div>
-  </div>
+
 
 </div>
 
@@ -176,7 +173,7 @@ function render(d) {
 
   // Header
   document.getElementById('update-sub').textContent = `全球AI动态追踪 · ${d.generated_at}`;
-  document.getElementById('footer-ts').textContent  = `数据生成时间：${d.generated_ts || d.generated_at}`;
+
 
   // Metrics
   document.getElementById('metrics-area').innerHTML = `
