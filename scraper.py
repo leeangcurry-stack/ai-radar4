@@ -9,6 +9,7 @@ import re
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+BEIJING = timezone(timedelta(hours=8))
 from pathlib import Path
 from urllib.request import urlopen, Request
 from urllib.error import URLError
@@ -233,7 +234,7 @@ def build_trends(items: list[dict]) -> list[dict]:
 
 def main():
     print("=" * 52)
-    print(f"AI Radar 启动 · {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"AI Radar 启动 · {datetime.now(BEIJING).strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"数据源：Google News RSS · {len(QUERIES)} 个查询")
     print("=" * 52)
 
@@ -312,7 +313,7 @@ def main():
     top_story     = high_items[0] if high_items else (events[0] if events else {})
     print(f"      国内: {china_count} 条 / 海外: {overseas_count} 条")
 
-    now  = datetime.now()
+    now  = datetime.now(BEIJING)
     data = {
         "generated_at": now.strftime("%Y年%m月%d日"),
         "generated_ts": now.isoformat(),
