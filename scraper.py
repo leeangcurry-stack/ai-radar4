@@ -18,15 +18,22 @@ from html import unescape
 
 QUERIES = [
     # 海外 · 英文
-    {"name": "OpenAI 动态",      "url": "https://news.google.com/rss/search?q=OpenAI+GPT&hl=en-US&gl=US&ceid=US:en",                              "region": "overseas"},
-    {"name": "Anthropic Claude", "url": "https://news.google.com/rss/search?q=Anthropic+Claude+AI&hl=en-US&gl=US&ceid=US:en",                     "region": "overseas"},
-    {"name": "Google AI",        "url": "https://news.google.com/rss/search?q=Google+Gemini+DeepMind&hl=en-US&gl=US&ceid=US:en",                  "region": "overseas"},
-    {"name": "AI 模型发布",       "url": "https://news.google.com/rss/search?q=AI+model+release+LLM&hl=en-US&gl=US&ceid=US:en",                    "region": "overseas"},
-    {"name": "AI 融资",           "url": "https://news.google.com/rss/search?q=AI+startup+funding+raises+billion&hl=en-US&gl=US&ceid=US:en",       "region": "overseas"},
-    {"name": "AI Agent 产品",     "url": "https://news.google.com/rss/search?q=AI+agent+product+launch&hl=en-US&gl=US&ceid=US:en",                 "region": "overseas"},
-    {"name": "xAI Grok",         "url": "https://news.google.com/rss/search?q=xAI+Grok+Elon+Musk+AI&hl=en-US&gl=US&ceid=US:en",                  "region": "overseas"},
-    {"name": "Meta AI Llama",    "url": "https://news.google.com/rss/search?q=Meta+AI+Llama+open+source&hl=en-US&gl=US&ceid=US:en",               "region": "overseas"},
-    {"name": "AI 芯片",           "url": "https://news.google.com/rss/search?q=Nvidia+AI+chip+GPU+inference&hl=en-US&gl=US&ceid=US:en",            "region": "overseas"},
+    # 大公司（每查询允许5条）
+    {"name": "OpenAI 动态",      "url": "https://news.google.com/rss/search?q=OpenAI+GPT&hl=en-US&gl=US&ceid=US:en",                              "region": "overseas", "tier": "major"},
+    {"name": "Anthropic Claude", "url": "https://news.google.com/rss/search?q=Anthropic+Claude+AI&hl=en-US&gl=US&ceid=US:en",                     "region": "overseas", "tier": "major"},
+    {"name": "Google AI",        "url": "https://news.google.com/rss/search?q=Google+Gemini+DeepMind&hl=en-US&gl=US&ceid=US:en",                  "region": "overseas", "tier": "major"},
+    # 小公司/话题（每查询允许3条）
+    {"name": "xAI Grok",         "url": "https://news.google.com/rss/search?q=xAI+Grok+Elon+Musk+AI&hl=en-US&gl=US&ceid=US:en",                  "region": "overseas", "tier": "minor"},
+    {"name": "Meta AI Llama",    "url": "https://news.google.com/rss/search?q=Meta+AI+Llama+open+source&hl=en-US&gl=US&ceid=US:en",               "region": "overseas", "tier": "minor"},
+    {"name": "AI 模型发布",       "url": "https://news.google.com/rss/search?q=AI+model+release+LLM&hl=en-US&gl=US&ceid=US:en",                    "region": "overseas", "tier": "minor"},
+    {"name": "AI 融资",           "url": "https://news.google.com/rss/search?q=AI+startup+funding+raises+billion&hl=en-US&gl=US&ceid=US:en",       "region": "overseas", "tier": "minor"},
+    {"name": "AI Agent 产品",     "url": "https://news.google.com/rss/search?q=AI+agent+product+launch&hl=en-US&gl=US&ceid=US:en",                 "region": "overseas", "tier": "minor"},
+    {"name": "AI 芯片",           "url": "https://news.google.com/rss/search?q=Nvidia+AI+chip+GPU+inference&hl=en-US&gl=US&ceid=US:en",            "region": "overseas", "tier": "minor"},
+    # 行业话题（每查询允许2条，常驻）
+    {"name": "AI 安全治理",       "url": "https://news.google.com/rss/search?q=AI+safety+regulation+governance&hl=en-US&gl=US&ceid=US:en",         "region": "overseas", "tier": "topic"},
+    {"name": "AI 企业落地",       "url": "https://news.google.com/rss/search?q=AI+enterprise+deployment+production&hl=en-US&gl=US&ceid=US:en",     "region": "overseas", "tier": "topic"},
+    {"name": "AI 开源生态",       "url": "https://news.google.com/rss/search?q=AI+open+source+model+weights&hl=en-US&gl=US&ceid=US:en",            "region": "overseas", "tier": "topic"},
+    {"name": "Microsoft AI",     "url": "https://news.google.com/rss/search?q=Microsoft+AI+Copilot&hl=en-US&gl=US&ceid=US:en",                    "region": "overseas", "tier": "topic"},
     # 国内 · 中文（宽泛话题查询 + 主要公司查询并存）
     # 宽泛查询：覆盖更多公司和话题
     {"name": "国内AI动态",    "url": "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E5%9B%BD%E5%86%85+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",               "region": "china"},
@@ -297,10 +304,35 @@ def main():
     china_quota = company_pool + broad_pool
     print(f"      国内公司池: {len(company_pool)} 条 / 宽泛池: {len(broad_pool)} 条 / 合计: {len(china_quota)} 条")
 
-    # 海外内容：取前30条
-    overseas_items = [i for i in all_items if i["region"] != "china"]
+    # 海外内容：按tier分级均衡抽样
+    # major（OpenAI/Anthropic/Google）每查询最多5条
+    # minor（xAI/Meta/模型发布/融资/Agent/芯片）每查询最多3条
+    # topic（行业话题）每查询最多2条
+    MAJOR_QUERIES = {"OpenAI 动态", "Anthropic Claude", "Google AI"}
+    MINOR_QUERIES = {"xAI Grok", "Meta AI Llama", "AI 模型发布", "AI 融资", "AI Agent 产品", "AI 芯片"}
+    TOPIC_QUERIES = {"AI 安全治理", "AI 企业落地", "AI 开源生态", "Microsoft AI"}
+    TIER_LIMIT    = {"major": 5, "minor": 3, "topic": 2}
+
+    overseas_items = [i for i in all_items if i["region"] == "overseas"]
     overseas_items.sort(key=lambda x: x.get("date", ""), reverse=True)
-    overseas_quota = overseas_items[:30]
+
+    overseas_quota = []
+    overseas_qcount = {}
+    for item in overseas_items:
+        q = item.get("_query", "")
+        if q in MAJOR_QUERIES:
+            limit = TIER_LIMIT["major"]
+        elif q in MINOR_QUERIES:
+            limit = TIER_LIMIT["minor"]
+        elif q in TOPIC_QUERIES:
+            limit = TIER_LIMIT["topic"]
+        else:
+            limit = 3  # 默认
+        if overseas_qcount.get(q, 0) < limit:
+            overseas_quota.append(item)
+            overseas_qcount[q] = overseas_qcount.get(q, 0) + 1
+
+    print(f"      海外条目: {len(overseas_quota)} 条（major≤5 / minor≤3 / topic≤2）")
 
     # 合并后按时间排序，总计40条
     events = china_quota + overseas_quota
