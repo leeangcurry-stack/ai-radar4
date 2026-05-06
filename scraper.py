@@ -89,6 +89,79 @@ def impact_score(title: str, desc: str) -> str:
     return "low"
 
 
+# 高权重来源（主流媒体/官方博客）
+HIGH_AUTHORITY_SOURCES = {
+    "techcrunch", "reuters", "bloomberg", "wsj", "ft", "nytimes",
+    "theverge", "venturebeat", "wired", "technologyreview", "cnbc",
+    "axios", "semafor", "forbes", "arstechnica", "thedecoder",
+    "openai", "anthropic", "deepmind", "ai.meta", "blogs.microsoft",
+    "huggingface", "36kr", "jiemian", "caixin",
+}
+
+# 高价值动词（真正重要的事件类关键词）
+HIGH_VALUE_VERBS = [
+    "launch", "release", "announce", "raises", "acqui", "ipo", "debut",
+    "breakthrough", "surpass", "exceed", "partner",
+    "发布", "推出", "上线", "融资", "收购", "突破", "超越", "合作", "开源",
+]
+
+# 噪音关键词（细节性、人事性、非产品类）
+NOISE_KEYWORDS = [
+    "employee", "staff", "retain", "hire", "job", "salary", "resign",
+    "lawsuit", "sue", "court", "arrest", "rumor", "leak", "allegedly",
+    "员工", "留住", "招聘", "离职", "诉讼", "起诉", "传言", "泄露",
+]
+
+def composite_score(item: dict) -> float:
+    """综合评分，用于头条评选和列表排序"""
+    title  = item.get("title", "")
+    desc   = item.get("desc", "")
+    source = item.get("source", "").lower()
+    date   = item.get("date", "")
+    impact = item.get("impact", "low")
+    text   = (title + " " + desc).lower()
+
+    score = 0.0
+
+    # 1. 基础影响力分
+    impact_base = {"high": 40, "mid": 20, "low": 5}
+    score += impact_base.get(impact, 5)
+
+    # 2. 来源权重：主流媒体/官方博客加分
+    if any(s in source.lower() for s in HIGH_AUTHORITY_SOURCES):
+        score += 20
+
+    # 3. 高价值动词：命中真正重要的事件关键词
+    verb_hits = sum(1 for v in HIGH_VALUE_VERBS if v in text)
+    score += verb_hits * 8
+
+    # 4. 噪音惩罚：细节性/人事性内容降分
+    noise_hits = sum(1 for n in NOISE_KEYWORDS if n in text)
+    score -= noise_hits * 15
+
+    # 5. 时效性：越新越高分（以天计算）
+    if date:
+        try:
+            from datetime import datetime, timezone, timedelta
+            pub = datetime.strptime(date, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            days_old = (datetime.now(timezone.utc) - pub).days
+            if days_old <= 1:
+                score += 15
+            elif days_old <= 3:
+                score += 8
+            elif days_old <= 7:
+                score += 3
+        except:
+            pass
+
+    # 6. 标题长度适中加分（过短或过长都不是好标题）
+    title_len = len(title)
+    if 20 <= title_len <= 80:
+        score += 5
+
+    return max(score, 0)
+
+
 def extract_domain(url: str) -> str:
     m = re.search(r"https?://(?:www\.)?([^/?#]+)", url)
     return m.group(1) if m else ""
@@ -172,6 +245,7 @@ def fetch_query(q: dict) -> list[dict]:
         if pub_dt and pub_dt < CUTOFF:
             continue
 
+        _impact = impact_score(title, desc)
         results.append({
             "title":  title[:150],
             "desc":   desc[:250].strip(),
@@ -180,8 +254,8 @@ def fetch_query(q: dict) -> list[dict]:
             "region": q["region"],
             "date":   pub_dt.strftime("%Y-%m-%d") if pub_dt else "",
             "type":   classify(title, desc, q["name"]),
-            "impact": impact_score(title, desc),
-            "hot":    impact_score(title, desc) == "high",
+            "impact": _impact,
+            "hot":    _impact == "high",
             "_query": q["name"],
         })
 
@@ -334,15 +408,20 @@ def main():
 
     print(f"      海外条目: {len(overseas_quota)} 条（major≤5 / minor≤3 / topic≤2）")
 
-    # 合并后按时间排序，总计40条
+    # 合并，计算综合评分，按评分排序（头条和列表都用评分）
     events = china_quota + overseas_quota
-    events.sort(key=lambda x: x.get("date", ""), reverse=True)
+    for e in events:
+        e["_score"] = composite_score(e)
+    events.sort(key=lambda x: x["_score"], reverse=True)
 
     high_items    = [e for e in events if e["impact"] == "high"]
     china_count   = len([e for e in events if e["region"] == "china"])
     overseas_count = len([e for e in events if e["region"] != "china"])
     funding_count = len([e for e in events if e["type"] == "funding"])
-    top_story     = high_items[0] if high_items else (events[0] if events else {})
+    # 头条：取综合评分最高的条目（已在排序时按_score排序，第一条即最高分）
+    top_story     = events[0] if events else {}
+    if top_story:
+        print(f"      头条: {top_story.get('title','')[:50]} (评分:{top_story.get('_score',0):.1f})")
     print(f"      国内: {china_count} 条 / 海外: {overseas_count} 条")
 
     now  = datetime.now(BEIJING)
